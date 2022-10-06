@@ -1,6 +1,7 @@
 import torch
 from transformers import AutoModel
 import torch.nn.functional as F
+import numpy as np
 
 class SimilarityModel(torch.nn.Module):
     def __init__(self, model_name):
@@ -49,7 +50,7 @@ def train(model, tokenizer, train_dataloader, valid_dataloader, device, optimize
             train_loss.append(loss.detach().cpu().numpy())
             loss.backward()
             optimizer.step()
-        print(f"Epoch: {epoch}, Train Loss: {loss.detach().cpu().numpy()}")
+        print(f"Epoch: {epoch}, Average Train Loss: {np.mean(train_loss)}")
         model.eval()
         with torch.no_grad():
             for anchor_batch, target_batch, label_batch in valid_dataloader:
@@ -59,7 +60,9 @@ def train(model, tokenizer, train_dataloader, valid_dataloader, device, optimize
                 anchor_attention_mask = anchor['attention_mask'].to(device)
                 target_input_ids = target['input_ids'].to(device)
                 target_attention_mask = target['attention_mask'].to(device)
+                label = torch.Tensor(label_batch).to(device)
                 output = model(anchor_input_ids, anchor_attention_mask, target_input_ids, target_attention_mask)
                 loss = loss_function(output, label)
                 valid_loss.append(loss.detach().cpu().numpy())
-                print(f'Valid Loss: {loss.detach().cpu().numpy()}')
+        print(f'Average Epoch Valid Loss: {np.mean(valid_loss)}')
+    return train_loss, valid_loss, model
