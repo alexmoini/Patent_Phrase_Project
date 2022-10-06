@@ -23,7 +23,7 @@ class SimilarityModel(torch.nn.Module):
         # normalize
         anchor_pooled_output = F.normalize(anchor_pooled_output, p=2, dim=1)
         # cosine similarity
-        return torch.cosine_similarity(anchor_pooled_output, target_pooled_output, dim=1)
+        return torch.nn.functional.cosine_similarity(anchor_pooled_output, target_pooled_output, dim=1)
     def predict(self, anchor_input_ids, anchor_attention_mask, target_input_ids, target_attention_mask):
         self.eval()
         with torch.no_grad():
@@ -54,8 +54,10 @@ def train(model, tokenizer, train_dataloader, valid_dataloader, device, optimize
         model.eval()
         with torch.no_grad():
             for anchor_batch, target_batch, label_batch in valid_dataloader:
-                anchor = tokenizer(list(anchor_batch), padding=True, truncation=True, return_tensors="pt")
-                target = tokenizer(list(target_batch), padding=True, truncation=True, return_tensors="pt")
+                anchor = tokenizer(list(anchor_batch), padding=True,
+                                    truncation=True, return_tensors="pt")
+                target = tokenizer(list(target_batch), padding=True,
+                                    truncation=True, return_tensors="pt")
                 anchor_input_ids = anchor['input_ids'].to(device)
                 anchor_attention_mask = anchor['attention_mask'].to(device)
                 target_input_ids = target['input_ids'].to(device)
