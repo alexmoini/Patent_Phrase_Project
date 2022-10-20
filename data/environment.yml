@@ -1,0 +1,5 @@
+name: PPP
+channels:
+  - conda-forge
+dependencies:
+  - awscli
