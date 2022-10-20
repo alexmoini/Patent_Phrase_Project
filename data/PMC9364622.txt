@@ -1,0 +1,299 @@
+
+==== Front
+BMC Pregnancy Childbirth
+BMC Pregnancy Childbirth
+BMC Pregnancy and Childbirth
+1471-2393
+BioMed Central London
+
+4963
+10.1186/s12884-022-04963-x
+Research
+Effect of recombinant LH supplementation timing on clinical pregnancy outcome in long-acting GnRHa downregulated cycles
+Huang Chenyang 12
+Shen Xiaoyue 12
+Mei Jie 12
+Sun Yanxin 12
+Sun Haixiang stevensunz@163.com
+
+123
+Xing Jun xing.jun@msn.com
+
+12
+1 grid.428392.6 0000 0004 1800 1685 Center for Reproductive Medicine and Obstetrics and Gynecology, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, 210008 China
+2 grid.41156.37 0000 0001 2314 964X Center for Molecular Reproductive Medicine, Nanjing University, Nanjing, 210008 China
+3 grid.89957.3a 0000 0000 9255 8984 Drum Tower Clinic Medical College, Nanjing Medical University, Nanjing, 210008 China
+9 8 2022
+9 8 2022
+2022
+22 6327 4 2022
+3 8 2022
+© The Author(s) 2022
+https://creativecommons.org/licenses/by/4.0/ Open AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Background
+
+Timely and moderate luteinizing hormone (LH) supplementation plays positive roles in in vitro fertilization/intracytoplasmic sperm injection and embryo transfer (IVF/ICSI-ET) cycles with long-acting gonadotropin-releasing hormone agonist (GnRHa) pituitary downregulation. However, the appropriate timing of LH supplementation remains unclear.
+
+Methods
+
+We carried out a retrospective cohort study of 2226 cycles at our reproductive medicine centre from 2018 to 2020. We mainly conducted smooth curve fitting to analyse the relationship between the dominant follicle diameter when recombinant LH (rLH) was added and the clinical pregnancy outcomes (clinical pregnancy rate or early miscarriage rate). In addition, total cycles were divided into groups according to different LH levels after GnRHa and dominant follicle diameters for further analysis.
+
+Results
+
+Smooth curve fitting showed that with the increase in the dominant follicle diameter when rLH was added, the clinical pregnancy rate gradually increased, and the early  miscarriage rate gradually decreased.
+
+Conclusions
+
+In long-acting GnRHa downregulated IVF/ICSI-ET cycles, the appropriate timing of rLH supplementation has a beneficial impact on the clinical pregnancy outcome. Delaying rLH addition is conducive to the clinical pregnancy rate and reduces the risk of early miscarriage.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1186/s12884-022-04963-x.
+
+Keywords
+
+rLH supplementation timing
+Long-acting GnRHa
+Clinical pregnancy rate
+Early miscarriage rate
+issue-copyright-statement© The Author(s) 2022
+==== Body
+pmcBackground
+
+Luteinizing hormone (LH) is a glycoprotein gonadotropin (Gn) produced by the adenohypophysis. Female LH mainly cooperates with follicle stimulating hormone (FSH) to promote follicular development, and plays an important role in inducing oocyte maturation, ovulation and luteinization. In addition, LH can promote androgen production, to maintain the synthesis and secretion of oestrogen and progesterone [1]. Therefore, FSH and LH supplementation seems to be essential for follicular development, embryo implantation, and the persistence of pregnancy [2–4]. Given the important role of LH in follicular development and hormone synthesis, whether exogenous LH should be added to controlled ovarian hyperstimulation (COH) cycle has been widely discussed [5–7].
+
+At present, the long-acting gonadotropin releasing hormone agonist (GnRHa) for pituitary downregulation is widely used for in vitro fertilization/intracytoplasmic sperm injection-embryo transfer (IVF/ICSI-ET) [8, 9]. Two weeks after the injection of long-acting GnRHa in normal women of childbearing age, endogenous hormones are almost completely inhibited, and the FSH level gradually recovers from the 3rd-4th week, while the inhibition of the level of LH may last until the 8th week [10]. The long-term inhibition of LH can prevent the early LH peak in IVF/ICSI-ET cycles. However, the deep suppression of serum LH levels caused by long-acting GnRHa may adversely affect follicular development, hormone synthesis and oocyte quality, and impair the final clinical pregnancy outcome [11, 12]. Some studies have suggested that LH supplementation has a beneficial effect on the clinical pregnancy rate [13–15]. In contrast, other studies did not find added value of LH addition in IVF/ICSI-ET cycles [15–20]. Thus, it is impossible to draw a definite conclusion. The main reason for the inconsistent results is that there are too many uncertain confounding factors, such as the difference in patients’ ovarian response, the type of added LH, and the timing and dose of LH supplementation [7, 21–23].
+
+This study explored the effect of recombinant LH (rLH) on the clinical pregnancy outcome at different periods of long-acting GnRHa downregulated IVF/ICSI-ET cycles to provide a theoretical basis for further clinical randomized controlled trials, which could provide a practical scheme for the addition of rLH in long-acting GnRHa IVF-ET cycles.
+
+Methods
+
+Basic information of the study population
+
+This study was a retrospective analysis of patients who received long-acting GnRHa in vitro fertilization/intracytoplasmic sperm injection-embryo transfer (IVF/ICSI-ET) cycles with rLH addition at the reproductive medicine centre of Nanjing Drum Tower Hospital from January 2018 to December 2020. Each couple was aware that their data during assisted reproductive technology (ART) treatment might be used in this study. The study was approved by the ethics committee of Nanjing Drum Tower Hospital. The exclusion criteria were as follows: (1) ICSI cycles with sperm collected by testicular sperm aspiration (TESA) or percutaneous epididymal sperm aspiration (PESA); (2) cycles initiated with special type of FSH; (3) cycles of other kinds of exogenous LH addition; (4) cancelled cycles or cycles in which oocytes were frozen; and (5) cycles in which embryo transfer was cancelled for various reasons (ovarian hyperstimulation syndrome (OHSS), endometrial abnormalities, hydrosalpinx, personal factors, etc.). A total of 2226 cycles were included in our study.
+
+Controlled ovarian stimulation program
+
+Long-acting GnRHa (decapeptide, triptorelin acetate, 1.875 mg or 3.75 mg, Ferring GmbH, Germany) was administered in the early follicular phase. After 28–42 days, the levels of serum oestrogen (E2), FSH, LH and progesterone (P) were measured. In addition, the diameter and number of follicles were monitored by transvaginal ultrasound. The criteria for pituitary downregulation were FSH < 5 mIU/mL, LH < 5 mIU/mL, and E2 < 30 pg/mL, and most follicles were 4.5–5 mm in diameter. Subsequently, 75–300 IU recombinant FSH (rFSH, Gonal-F, Merck Sereno, Switzerland) was injected every day, and 75–150 IU rLH (Luveris, Merck Sereno, Switzerland) was added as appropriate. The initial dosage of Gn was determined by the patient's age, body mass index (BMI) and anti-Mullerian hormone (AMH) level. The drug dose was adjusted according to follicular size and serum hormone levels (FSH, LH, E2 and P). Human chorionic gonadotropin (hCG, 10,000 IU) (Chorionic Gonadotrophin for Injection, Livzon Pharm, China) was injected to trigger oocyte maturation when the diameter of 1–2 dominant follicles reached 18 mm. For patients with a high risk of OHSS, 250 μg recombinant hCG (rhCG, Merck Sereno, Switzerland) or 5000 IU hCG was used. Oocytes were collected 36–38 h after triggering. Two pronuclei (2PN) appearing after fertilization of mature oocytes (metaphase II, MII) was considered normal fertilization. The quality of cleavage-stage embryos was evaluated from three aspects: cell number, fragmentation and symmetry. High-quality cleavage-stage embryos had 8–10 cells, a fragment proportion of less than 5%, and symmetrical blastomeres. Blastocysts were rated by using the Gardner scoring system. High-quality blastocysts had more than III stages of cystic expansion, and the rating of the inner cell mass (ICM) and trophectoderm (TE) was at least grade B [24]. The available embryo rate refers to the ratio of the number of high-quality cleavage-stage embryos to the number of total embryos. Some cleavage-stage embryos were cultured to the blastocyst stage.
+
+Embryo transfer and pregnancy detection
+
+All patients included in this study received abdominal ultrasound-guided embryo transfer on the 3rd or 5th day after oocyte retrieval. After pregnancy, routine luteal support continued until two months after embryo transfer. Patients with a positive serum β-hCG level (more than 200 mIU/mL) measured 12–14 days after embryo transfer were scheduled to receive vaginal ultrasound examination of the pregnancy sac 30 days after embryo transfer. Patients with a lower serum β-hCG level (less than 200 mIU/mL) received a retest of the serum β-hCG level. Clinical pregnancy was defined as the presence of a gestational sac. The major outcomes measured in our study were clinical pregnancy and early miscarriage rate. The clinical pregnancy rate was the ratio of the number of clinical pregnancy cycles to the total number of embryo transfer cycles and the early miscarriage rate was the proportion of early miscarriage cycles to total clinical pregnancy cycles.
+
+Statistical analysis
+
+The relationships between the dominant follicle diameter when rLH was added and the clinical pregnancy rate or the proportion of available embryos were analysed by smooth curve fitting. We used the Kolmogorov–Smirnov normality test to detect the normal distribution of variables. A t test was used for normally distributed variables, and the Mann–Whitney U test was used for nonnormally distributed variables. For the statistical analysis of categorical variables, the chi-square test was adopted (meeting the requirements of chi-square test: theoretical frequency (T) > 5 and sample number (n) > 40). The parameters with a normal distribution are presented as the mean ± standard deviation (SD). All analyses were performed with R (http://www.R-project.org) and EmpowerStats software (www.empowerstats.com, X&Y solutions, Inc. Boston MA). P < 0.05 was considered statistically significant.
+
+Results
+
+As shown in Table 1, the general data of all the enrolled patients and the relevant data regarding the IVF/ICSI-ET cycles were first statistically analysed. To explore the relationship between the timing of rLH supplementation and the final clinical pregnancy outcome, we conducted smooth curve fitting analysis. As shown in Fig. 1, the clinical pregnancy rate gradually increased with increasing dominant follicle diameter when rLH was added. In addition, we analysed the early miscarriage rate. The smooth curve fitting results suggested that with a delay in the timing of rLH supplementation (larger dominant follicle diameter at the time of adding rLH), the miscarriage rate decreased gradually (Fig. 2). Therefore, late rLH supplementation has a beneficial impact on the clinical pregnancy outcome of patients receiving long-acting GnRHa IVF/ICSI-ET cycles.Table 1 General data of all enrolled patients and relevant data in IVF/ICSI-ET cycles
+
+Female age (y)	29.79 ± 3.72	
+BMI (kg/m2)	23.13 ± 3.24	
+Infertility duration (y)	3.27 ± 2.15	
+Infertility type	
+ Primary infertility	54.99% (1224/2226)	
+ Secondary infertility	45.01% (1002/2226)	
+Infertility factors	
+ Tubal factor	67.21% (1496/2226)	
+ Ovulatory obstacle	17.25% (384/2226)	
+ Reproductive tract	0.09% (2/2226)	
+ Endometriosis or adenomyosis	2.20% (49/2226)	
+ Male factors	8.22% (183/2226)	
+ Unexplained infertility	4.81% (107/2226)	
+ Basal FSH (mIU/mL)	7.09 ± 1.76	
+ Basal LH (mIU/mL)	6.17 ± 4.04	
+ Basal E2 (pg/mL)	44.17 ± 51.57	
+ AFC (n)	20.54 ± 5.24	
+ Initiated Gn dose (IU)	129.27 ± 34.76	
+ FSH after GnRHa (mIU/mL)	3.46 ± 1.44	
+ LH after GnRHa (mIU/mL)	0.64 ± 0.38	
+ Total Gn dose (IU)	1966.18 ± 613.15	
+ Gn duration (y)	12.04 ± 2.39	
+ E2 on hCG day (pg/mL)	2892.95 ± 1324.46	
+ LH on hCG day (mIU/mL)	1.61 ± 0.78	
+ P on hCG day (ng/mL)	0.64 ± 0.40	
+ Em (mm)	12.00 ± 2.54	
+ Total rLH dose (IU)	192.66 ± 102.63	
+ No. of of retrieved oocytes (n)	12.12 ± 3.69	
+ No. of MII oocytes (n)	10.60 ± 3.57	
+ MII rate	0.88 ± 0.13	
+ No. of fertilized oocytes (n)	9.99 ± 3.54	
+ No. of normally fertilized oocytes (2PN) (n)	9.06 ± 3.37	
+ 2PN rate	0.91 ± 0.11	
+ No. of available embryos (n)	5.17 ± 2.47	
+ Available embryo rate	0.59 ± 0.21	
+ No. of transferred embryos (n)	1.56 ± 0.50	
+Type of transferred embryo	
+ cleavage-stage embryo	81.45% (1813/2226)	
+ blastocyst	18.55% (413/2226)	
+ No. of implanted embryos (n)	1.29 ± 0.48	
+ OHSS rate	8.221% (183/2226)	
+ Clinical pregnancy rate	71.29% (1587/2226)	
+ cleavage-stage embryo transfer	70.49% (1278/1813)	
+ blastocyst transfer	74.82% (309/413)	
+ Early miscarriage rate	7.18% (114/1587)	
+ cleavage-stage embryo transfer	7.04% (90/1278)	
+ blastocyst transfer	7.77% (24/209)	
+ Live birth rate	63.16% (1406/2226)	
+ cleavage-stage embryo transfer	62.49% (1133/1813)	
+ blastocyst transfer	66.10% (273/413)	
+
+Fig. 1 A smooth fitting curve analysis between dominant follicle diameter when rLH added and clinical pregnancy rates. The illustrated curved line shows the relation between the dominant follicle diameter when rLH added and clinical pregnancy rates. The area between two dotted lines is expressed as the 95% CI. The clinical pregnancy rate of the patients increased gradually as the dominant follicle diameter when rLH added increased
+
+Fig. 2 A smooth fitting curve analysis between dominant follicle diameter when rLH added and early miscarriage rates. The illustrated curved line shows the relation between the dominant follicle diameter when rLH added and early miscarriage rates. The area between two dotted lines is expressed as the 95% CI. The early miscarriage rate of the patients decreased obiviously as the dominant follicle diameter when rLH added increased
+
+Discussion
+
+LH is essential for follicular development and maturation. Some scholars previously proposed the “LH window” theory [25], suggesting that LH levels that are too high or too low have adverse effects on follicular development. Levels of LH that are too high will inhibit granulosa cell division, prematurely start follicular meiosis, stop follicular development, and lead to early atresia or luteinization of follicles. On the other hand, low LH levels will lead to insufficient oestrogen synthesis and a low response of granulosa cells to FSH, which will affect the maturation of the oocyte-corona-cumulus complex and luteal growth. In addition, low LH results in poor endometrial hyperplasia, increased dosage of Gn, decreased E2 levels on the hCG day, and decreased number of oocytes and fertilization rate. The conversion of pregnenolone to androgen and E2 is limited, which affects the concentration of E2 in follicular fluid. Pregnenolone accumulates in the body and impairs endometrial receptivity, which reduces the pregnancy rate and increases the risk of early miscarriage [26, 27].
+
+GnRHa was used for pituitary downregulation in 1984 [28], and it has been increasingly widely used. However, due to individual differences such as age and ovarian reserve, patients may have different ovarian responses to standardized administration [29], and the degree of pituitary downregulation is difficult to accurately assess. GnRHa can inhibit more than 90% of LH levels and 40%-60% of FSH levels, which leads to excessive pituitary inhibition. The low serum LH level after downregulation affects follicular development, maturation and clinical outcomes [30]. At present, many studies [31–35] have shown that appropriate exogenous LH supplementation has a positive effect. However, there is no consensus on the suitable population and appropriate time to add exogenous LH. Most previous studies employed 0.5 mIU/mL as the criterion for the LH level for the overinhibition of the pituitary [36, 37]. We grouped the data according to this cut-off value. The results suggested that when the serum LH level after GnRHa downregulation was less than 0.5 mIU/mL, the addition of rLH had no additional benefit. There was no significant difference in the proportion of available embryos or clinical pregnancy rate between the two groups (Table. S1). Therefore, this study focused on the relationship between the timing of rLH addition and clinical outcomes.
+
+This study found that the clinical pregnancy rate of patients who received long-acting GnRHa downregulated IVF/ICSI-ET cycles increased gradually with the increase in the dominant follicle diameter when rLH was added. The results suggest that delaying the addition time of rLH is beneficial to the clinical pregnancy outcome. Each follicle has an upper limit LH level. The expression of LHR on the surface of granulosa cells of nondominant follicles was low, and the premature LH increase easily exceeded the upper limit. Therefore, LH has a negative selective effect on nondominant follicles. The threshold of dominant follicles with healthy growth increased significantly. Especially after follicle selection, the expression of LHR in preovulatory follicles has been shown to be 10 times higher than that in antral follicles with diameters of 3–10 mm [38, 39]. When the diameter of dominant follicles is more than 14 mm, FSH induces a sudden increase in LHR on granulosa cells and intimal cells of dominant follicles under the synergistic effect of oestrogen. In the late follicular phase, LH partially replaces FSH, which is conducive to the selection and maintenance of dominant follicles. Therefore, LH addition in the late follicular phase is in accordance with the physiological state. We further analysed the timing of rLH supplementation, and divided all the data into two groups with a follicle diameter of 14 mm as the cut-off value. The results showed that when rLH was added after the diameter of the dominant follicle exceeded 14 mm, the clinical pregnancy rate and live birth rate were higher and the miscarriage rate was lower than those in the early addition group (Table. S2), but the differences were not statistically significant.
+
+We found that the number of retrieved oocytes and the number of mature oocytes in the rLH late-addition group increased significantly, suggesting that late addition could increase the number of retrieved oocytes, but there was no significant difference in the proportion of MII oocytes. Some studies suggested that LH addition can promote the secretion of many growth factors in follicular fluid, which might interact with steroids, to protect oocytes from degeneration and allow appropriate nuclear maturation. Although LH supplementation might not increase the total number of oocytes obtained, it could improve the quality of retrieved oocytes and embryos [40]. Therefore, we further analysed the proportion of available embryos, and there was no significant difference between these two groups. The smooth curve fitting results showed that when the diameter of the dominant follicle was small, the proportion of available embryos was higher (Fig. S1). On the one hand, the number of cycles with early addition of rLH in this study was low (only 0.7% of dominant follicles had a diameter of ≤ 10 mm), so there might be individual differences. On the other hand, studies have shown that high or low LH supplementation will lead to poor endometrial hyperplasia and affect the pregnancy outcome [41]. Early addition of rLH might not benefit the endometrium but might lead to its abnormal function and impair embryo implantation. Therefore, the clinical pregnancy rate of patients who received early addition of rLH decreases. In addition to the exploration of the clinical pregnancy rate, some reports have suggested that the miscarriage rate of patients with higher serum LH levels after GnRHa downregulation is significantly higher [37, 42]. Similarly, our study found that after the premature addition of rLH, the early miscarriage rate was higher, and with the delay of rLH supplementation, the miscarriage rate decreased gradually.
+
+However, there are some deficiencies in this study. Many studies have suggested that rLH supplementation in elderly women improves the embryo implantation rate and clinical pregnancy rate [43–45]. In addition, the addition of rLH helps prevent the early increase in progesterone levels in elderly patients [14, 46–49]. Moreover, some studies have suggested that rLH supplementation improves the number of oocytes obtained and the clinical pregnancy outcome in patients with a low ovarian response [14, 50, 51]. Most patients who received long-acting GnRHa downregulation at our centre were less than 35 years old and had normal ovarian reserve. Therefore, our study did not explore the timing of rLH addition in elderly and low ovarian response patients, which would be a further direction to be explored. In addition, studies have shown that the addition of both rLH and HMG has a beneficial effect on the pregnancy rate [15]. Our study only included rLH supplemented cycles, but many patients received HMG supplementation. Although HMG contains LH activity, it comes from hCG rather than LH. Therefore, we did not simultaneously evaluate the effect of HMG addition in our analysis. The most important defect is that this was a retrospective study. Randomized clinical trials with more samples are needed to further clarify the appropriate timing of rLH addition.
+
+Conclusion
+
+In conclusion, our study found that in long-acting GnRHa downregulation cycles, when rLH was added when the dominant follicle diameter was larger, the clinical pregnancy rate increased and the early miscarriage rate decreased. Therefore, delaying the timing of rLH addition may benefit patients receiving these cycles.
+
+Supplementary Information
+
+Additional file 1: Figure S1. A smooth fitting curve analysis betweendominant follicle diameter when rLH added and availableembryo rates. The illustrated curvedline shows the relation between the dominant follicle diameter when rLH addedand available embryo rates. The area between two dotted lines is expressed asthe 95% CI.
+
+Additional file 2: Table S1. Comparison of different LH afterGnRHa.
+
+Additional file 3: Table S2. Comparison ofdifferent dominant follicle diameter of rLH added groups.
+
+Abbreviations
+
+LH Luteinizing hormone
+
+IVF/ICSI-ET in vitro Fertilization/intracytoplasmic sperm injection and embryo transfer
+
+GnRHa Gonadotropin-releasing hormone agonist
+
+rLH Recombinant LH
+
+Gn Glycoprotein gonadotropin
+
+FSH Follicle stimulating hormone
+
+COH Controlled ovarian hyperstimulation
+
+ART Assisted reproductive technology
+
+TESA Testicular sperm aspiration
+
+PESA Percutaneous epididymal sperm aspiration
+
+OHSS Ovarian hyperstimulation syndrome
+
+E2 Oestrogen
+
+P Progesterone
+
+BMI Body mass index
+
+AMH Anti-Mullerian hormone
+
+hCG Human chorionic gonadotropin
+
+2PN Two pronucleus
+
+MII Metaphase II
+
+SD Standard deviation
+
+Acknowledgements
+
+Not applicable.
+
+Authors’ contributions
+
+C.Y.H., H.X.S. and J.X. contributed to study design, execution, acquisition, analysis, and interpretation of data, manuscript drafting, and critical discussion. X.Y.S., J.M. and Y.X.S. contributed to acquisition and interpretation of data, manuscript drafting, and critical discussion. All authors read and approved the final manuscript.
+
+Funding
+
+This work was supported the National Natural Science Foundation of China (81801530 and 82071646). There are no conflict of interests.
+
+Availability of data and materials
+
+The datasets used and/or analysed during the current study are available from the corresponding author on reasonable request.
+
+Declarations
+
+Ethics approval and consent to participate
+
+This retrospective study received ethical approval from the ethics committee of Nanjing Drum Tower Hospital. All methods were carried out in accordance with relevant guidelines and regulations. The informed consent was waived by the same ethics committee that approved the study (the ethics committee of Nanjing Drum Tower Hospital).
+
+Consent for publication
+
+Not applicable.
+
+Competing interests
+
+The authors declare that they have no competing interests.
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Chenyang Huang, Xiaoyue Shen and Jie Mei contributed equally are joint as first authors.
+==== Refs
+References
+
+1. Alviggi C Clarizia R Pettersson K Mollo A Humaidan P Strina I Coppola M Ranieri A D'Uva M De Placido G Suboptimal response to GnRHa long protocol is associated with a common LH polymorphism Reprod Biomed Online 2011 22 Suppl 1 S67 72 10.1016/S1472-6483(11)60011-4 21575852
+2. Couzinet B Lestrat N Brailly S Forest M Schaison G Stimulation of ovarian follicular maturation with pure follicle-stimulating hormone in women with gonadotropin deficiency J Clin Endocrinol Metab 1988 66 3 552 556 10.1210/jcem-66-3-552 3127417
+3. Kaufmann R Dunn R Vaughn T Hughes G O'Brien F Hemsey G Thomson B O'Dea LS Recombinant human luteinizing hormone, lutropin alfa, for the induction of follicular development and pregnancy in profoundly gonadotrophin-deficient women Clin Endocrinol 2007 67 4 563 569
+4. Shoham Z Smith H Yeko T O'Brien F Hemsey G O'Dea L Recombinant LH (lutropin alfa) for the treatment of hypogonadotrophic women with profound LH deficiency: a randomized, double-blind, placebo-controlled, proof-of-efficacy study Clin Endocrinol 2008 69 3 471 478 10.1111/j.1365-2265.2008.03299.x
+5. Arvis P Massin N Lehert P Effect of recombinant LH supplementation on cumulative live birth rate compared with FSH alone in poor ovarian responders: a large, real-world study Reprod Biomed Online 2021 42 3 546 554 10.1016/j.rbmo.2020.08.035 33431337
+6. Marchiani S Tamburrino L Benini F Pallecchi M Bignozzi C Conforti A Alviggi C Vignozzi L Danza G Pellegrini S LH supplementation of ovarian stimulation protocols influences follicular fluid steroid composition contributing to the improvement of ovarian response in poor responder women Sci Rep 2020 10 1 12907 10.1038/s41598-020-69325-z 32737326
+7. Ar G Cheemakurthi R, Prathigudupu K, Balabomma KL, Kalagara M, Thota S, Kota M: Role of Lh polymorphisms and r-hLh supplementation in GnRh agonist treated ART cycles: A cross sectional study Eur J Obstet Gynecol Reprod Biol 2018 222 119 125 10.1016/j.ejogrb.2018.01.025 29408742
+8. Ren J Sha A Han D Li P Geng J Ma C Does prolonged pituitary down-regulation with gonadotropin-releasing hormone agonist improve the live-birth rate in in vitro fertilization treatment? Fertil Steril 2014 102 1 75 81 10.1016/j.fertnstert.2014.03.030 24746740
+9. Li F Ye T Kong H Li J Hu L Jin H Su Y Li G Efficacies of different ovarian hyperstimulation protocols in poor ovarian responders classified by the POSEIDON criteria Aging 2020 12 10 9354 9364 10.18632/aging.103210 32470947
+10. FJ Broekmans RE Bernardus G Berkhout J Schoemaker 1992 Pituitary and ovarian suppression after early follicular and mid-luteal administration of a LHRH agonist in a depot formulation: decapeptyl CR Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology 6 3 153 161
+11. Borm G, Mannaerts B: Treatment with the gonadotrophin-releasing hormone antagonist ganirelix in women undergoing ovarian stimulation with recombinant follicle stimulating hormone is effective, safe and convenient: results of a controlled, randomized, multicentre trial. The European Orgalutran Study Group. Human reproduction 2000, 15(7):1490–1498.
+12. Felberbaum RE Albano C Ludwig M Riethmuller-Winzen H Grigat M Devroey P Diedrich K Ovarian stimulation for assisted reproduction with HMG and concomitant midcycle administration of the GnRH antagonist cetrorelix according to the multiple dose protocol: a prospective uncontrolled phase III study Hum Reprod 2000 15 5 1015 1020 10.1093/humrep/15.5.1015 10783344
+13. Hill MJ, Levens ED, Levy G, Ryan ME, Csokmay JM, DeCherney AH, Whitcomb BW: The use of recombinant luteinizing hormone in patients undergoing assisted reproductive techniques with advanced reproductive age: a systematic review and meta-analysis. Fertility and sterility 2012, 97(5):1108–1114 e1101.
+14. Lehert P Kolibianakis EM Venetis CA Schertz J Saunders H Arriagada P Copt S Tarlatzis B Recombinant human follicle-stimulating hormone (r-hFSH) plus recombinant luteinizing hormone versus r-hFSH alone for ovarian stimulation during assisted reproductive technology: systematic review and meta-analysis Reproductive biology and endocrinology : RB&E 2014 12 17 10.1186/1477-7827-12-17 24555766
+15. Santi D Casarini L Alviggi C Simoni M Efficacy of Follicle-Stimulating Hormone (FSH) Alone, FSH + Luteinizing Hormone, Human Menopausal Gonadotropin or FSH + Human Chorionic Gonadotropin on Assisted Reproductive Technology Outcomes in the "Personalized" Medicine Era: A Meta-analysis Front Endocrinol 2017 8 114 10.3389/fendo.2017.00114
+16. Oliveira JB Mauri AL Petersen CG Martins AM Cornicelli J Cavanha M Pontes A Baruffi RL Franco JG Jr Recombinant luteinizing hormone supplementation to recombinant follicle-stimulation hormone during induced ovarian stimulation in the GnRH-agonist protocol: a meta-analysis J Assist Reprod Genet 2007 24 2–3 67 75 10.1007/s10815-006-9095-4 17195098
+17. Baruffi RL Mauri AL Petersen CG Felipe V Martins AM Cornicelli J Cavagna M Oliveira JB Franco JG Jr Recombinant LH supplementation to recombinant FSH during induced ovarian stimulation in the GnRH-antagonist protocol: a meta-analysis Reprod Biomed Online 2007 14 1 14 25 10.1016/S1472-6483(10)60758-4 17207326
+18. Kolibianakis EM Kalogeropoulou L Griesinger G Papanikolaou EG Papadimas J Bontis J Tarlatzis BC Among patients treated with FSH and GnRH analogues for in vitro fertilization, is the addition of recombinant LH associated with the probability of live birth? A systematic review and meta-analysis Hum Reprod Update 2007 13 5 445 452 10.1093/humupd/dmm008 17586849
+19. Mochtar MH, Van der V, Ziech M, van Wely M: Recombinant Luteinizing Hormone (rLH) for controlled ovarian hyperstimulation in assisted reproductive cycles. The Cochrane database of systematic reviews 2007(2):CD005070.
+20. Xiong Y Bu Z Dai W Zhang M Bao X Sun Y Recombinant luteinizing hormone supplementation in women undergoing in vitro fertilization/ intracytoplasmic sperm injection with gonadotropin releasing hormone antagonist protocol: a systematic review and meta-analysis Reproductive biology and endocrinology : RB&E 2014 12 109 10.1186/1477-7827-12-109 25420965
+21. Alviggi C Conforti A Esteves SC Andersen CY Bosch E Buhler K Ferraretti AP De Placido G Mollo A Fischer R Recombinant luteinizing hormone supplementation in assisted reproductive technology: a systematic review Fertil Steril 2018 109 4 644 664 10.1016/j.fertnstert.2018.01.003 29653717
+22. Buhler KF Fischer R Recombinant human LH supplementation versus supplementation with urinary hCG-based LH activity during controlled ovarian stimulation in the long GnRH-agonist protocol: a matched case-control study Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology 2012 28 5 345 350 10.3109/09513590.2011.633128 22115012
+23. Canosa S, Carosso AR, Mercaldo N, Ruffa A, Evangelista F, Bongioanni F, Benedetto C, Revelli A, Gennarelli G: Effect of rLH Supplementation during Controlled Ovarian Stimulation for IVF: Evidence from a Retrospective Analysis of 1470 Poor/Suboptimal/Normal Responders Receiving Either rFSH plus rLH or rFSH Alone. Journal of clinical medicine 2022, 11(6).
+24. Gardner DK, Lane M, Stevens J, Schlenker T, Schoolcraft WB: Reprint of: Blastocyst score affects implantation and pregnancy outcome: towards a single blastocyst transfer. Fertility and sterility 2019, 112(4 Suppl1):e81-e84.
+25. Balasch J Fabregues F Is luteinizing hormone needed for optimal ovulation induction? Curr Opin Obstet Gynecol 2002 14 3 265 274 10.1097/00001703-200206000-00004 12032381
+26. Balasch J Creus M Fabregues F Civico S Carmona F Puerto B Casamitjana R Vanrell JA The effect of exogenous luteinizing hormone (LH) on oocyte viability: evidence from a comparative study using recombinant human follicle-stimulating hormone (FSH) alone or in combination with recombinant LH for ovarian stimulation in pituitary-suppressed women undergoing assisted reproduction J Assist Reprod Genet 2001 18 5 250 256 10.1023/A:1016662100572 11464575
+27. Alviggi C Clarizia R Mollo A Ranieri A De Placido G Who needs LH in ovarian stimulation? Reprod Biomed Online 2011 22 Suppl 1 S33 41 10.1016/S1472-6483(11)60007-2 21575848
+28. Porter RN Smith W Craft IL Abdulwahid NA Jacobs HS Induction of ovulation for in-vitro fertilisation using buserelin and gonadotropins Lancet 1984 2 8414 1284 1285 10.1016/S0140-6736(84)92840-X 6150318
+29. Borini A Dal Prato L Tailoring FSH and LH administration to individual patients Reprod Biomed Online 2005 11 3 283 293 10.1016/S1472-6483(10)60835-8 16176666
+30. Lei J Bei X Role of LH in the follicular development and LH pretreatment in the early follicular phase J Reprod Med 2014 23 12 940 943
+31. Choi J Smitz J Luteinizing hormone and human chorionic gonadotropin: origins of difference Mol Cell Endocrinol 2014 383 1–2 203 213 10.1016/j.mce.2013.12.009 24365330
+32. Pezzuto A Ferrari B Coppola F Nardelli GB LH supplementation in down-regulated women undergoing assisted reproduction with baseline low serum LH levels Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology 2010 26 2 118 124 10.3109/09513590903215516 19718561
+33. Songjun L Xiu S Ruiqiong Z Cailian Y Hong Z Weifen D Haijie G Early supplementation of rLH improves outcome of IVF/ET in modified ultra-long protocal J Reprod Med 2016 25 11 977 982
+34. Xiumin J Yusheng L Shengxia Z Xianhong T Effect of serum LH variation on clinical outcome in women undergoing IVF/ICSI-ET with standard protocols Chinese Journal of Reproduction and Contraception 2015 35 1 30 36
+35. Lifeng T Qiongfang W Jun T Qiong S You L Dingfei X Clinical outcome of r-LH supplementation in patients with lower serum LH level in the long down-regulation protocal of early follicular phase J Reprod Med 2018 27 4 310 315
+36. Fleming R Lloyd F Herbert M Fenwick J Griffiths T Murdoch A Effects of profound suppression of luteinizing hormone during ovarian stimulation on follicular activity, oocyte and embryo function in cycles stimulated with purified follicle stimulating hormone Hum Reprod 1998 13 7 1788 1792 10.1093/humrep/13.7.1788 9740424
+37. Westergaard LG Laursen SB Andersen CY Increased risk of early pregnancy loss by profound suppression of luteinizing hormone during ovarian stimulation in normogonadotrophic women undergoing assisted reproduction Hum Reprod 2000 15 5 1003 1008 10.1093/humrep/15.5.1003 10783342
+38. Jeppesen JV Kristensen SG Nielsen ME Humaidan P Dal Canto M Fadini R Schmidt KT Ernst E Yding Andersen C LH-receptor gene expression in human granulosa and cumulus cells from antral and preovulatory follicles J Clin Endocrinol Metab 2012 97 8 E1524 1531 10.1210/jc.2012-1427 22659248
+39. Harper JC de Die-Smulders C Goossens V Harton G Moutou C Repping S Scriven PN SenGupta S Traeger-Synodinos J Van Rij MC ESHRE PGD consortium data collection VII: cycles from January to December 2004 with pregnancy follow-up to October 2005 Hum Reprod 2008 23 4 741 755 10.1093/humrep/dem354 18238908
+40. Drakakis P Loutradis D Kallianidis K Liapi A Milingos S Makrigiannakis A Dionyssiou-Asteriou A Michalas S Small doses of LH activity are needed early in ovarian stimulation for better quality oocytes in IVF-ET Eur J Obstet Gynecol Reprod Biol 2005 121 1 77 80 10.1016/j.ejogrb.2004.12.021 15989987
+41. Shoham Z The clinical therapeutic window for luteinizing hormone in controlled ovarian stimulation Fertil Steril 2002 77 6 1170 1177 10.1016/S0015-0282(02)03157-6 12057724
+42. Lahoud R Al-Jefout M Tyler J Ryan J Driscoll G A relative reduction in mid-follicular LH concentrations during GnRH agonist IVF/ICSI cycles leads to lower live birth rates Hum Reprod 2006 21 10 2645 2649 10.1093/humrep/del219 16785261
+43. Humaidan P Bungum M Bungum L Yding Andersen C Effects of recombinant LH supplementation in women undergoing assisted reproduction with GnRH agonist down-regulation and stimulation with recombinant FSH: an opening study Reprod Biomed Online 2004 8 6 635 643 10.1016/S1472-6483(10)61643-4 15169576
+44. Marrs R Meldrum D Muasher S Schoolcraft W Werlin L Kelly E Randomized trial to compare the effect of recombinant human FSH (follitropin alfa) with or without recombinant human LH in women undergoing assisted reproduction treatment Reprod Biomed Online 2004 8 2 175 182 10.1016/S1472-6483(10)60513-5 14989794
+45. Matorras R Prieto B Exposito A Mendoza R Crisol L Herranz P Burgues S Mid-follicular LH supplementation in women aged 35–39 years undergoing ICSI cycles: a randomized controlled study Reprod Biomed Online 2009 19 6 879 887 10.1016/j.rbmo.2009.09.016 20031032
+46. Bosch E Labarta E Crespo J Simon C Remohi J Pellicer A Impact of luteinizing hormone administration on gonadotropin-releasing hormone antagonist cycles: an age-adjusted analysis Fertil Steril 2011 95 3 1031 1036 10.1016/j.fertnstert.2010.10.021 21067717
+47. Vuong TN Phung HT Ho MT Recombinant follicle-stimulating hormone and recombinant luteinizing hormone versus recombinant follicle-stimulating hormone alone during GnRH antagonist ovarian stimulation in patients aged >/=35 years: a randomized controlled trial Hum Reprod 2015 30 5 1188 1195 10.1093/humrep/dev038 25740882
+48. Younis JS Izhaki I Ben-Ami M The effect of LH supplementation to the GnRH antagonist protocol in advanced reproductive ageing women: a prospective randomized controlled study Clin Endocrinol 2016 84 1 99 106 10.1111/cen.12886
+49. Fatemi HM Van Vaerenbergh I Significance of premature progesterone rise in IVF Curr Opin Obstet Gynecol 2015 27 3 242 248 10.1097/GCO.0000000000000172 25811257
+50. Ferraretti AP Gianaroli L Motrenko T Feliciani E Tabanelli C Magli MC LH pretreatment as a novel strategy for poor responders Biomed Res Int 2014 2014 926172 10.1155/2014/926172 25197669
+51. Humaidan P Chin W Rogoff D D'Hooghe T Longobardi S Hubbard J Schertz J Efficacy and safety of follitropin alfa/lutropin alfa in ART: a randomized controlled trial in poor ovarian responders Hum Reprod 2017 32 7 1537 1538 10.1093/humrep/dex208 28541398
+

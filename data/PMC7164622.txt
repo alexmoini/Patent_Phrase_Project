@@ -1,0 +1,377 @@
+
+==== Front
+PLoS One
+PLoS ONE
+plos
+plosone
+PLoS ONE
+1932-6203 Public Library of Science San Francisco, CA USA 
+
+10.1371/journal.pone.0230786
+PONE-D-19-19647
+Research Article
+Biology and Life Sciences
+Organisms
+Bacteria
+Actinobacteria
+Mycobacterium Tuberculosis
+Biology and Life Sciences
+Cell Biology
+Hypoxia
+Biology and Life Sciences
+Biochemistry
+Enzymology
+Enzymes
+Lyases
+Biology and Life Sciences
+Biochemistry
+Proteins
+Enzymes
+Lyases
+Biology and Life Sciences
+Organisms
+Bacteria
+Actinobacteria
+Mycobacterium Bovis
+Physical Sciences
+Chemistry
+Chemical Elements
+Magnesium
+Biology and Life Sciences
+Molecular Biology
+Molecular Biology Techniques
+Artificial Gene Amplification and Extension
+Polymerase Chain Reaction
+Research and Analysis Methods
+Molecular Biology Techniques
+Artificial Gene Amplification and Extension
+Polymerase Chain Reaction
+Biology and Life Sciences
+Biochemistry
+Metabolism
+Metabolic Processes
+Citric Acid Cycle
+Biology and Life Sciences
+Genetics
+DNA
+Biology and Life Sciences
+Biochemistry
+Nucleic Acids
+DNA
+Citrate lyase CitE in Mycobacterium tuberculosis contributes to mycobacterial survival under hypoxic conditions
+CitE contributes to mycobacterial survival under hypoxic conditionsHu Jialing Data curationFormal analysisInvestigationMethodologyWriting – original draft Jin Kaixi Data curationFormal analysisMethodology He Zheng-Guo Funding acquisitionWriting – original draftWriting – review & editing http://orcid.org/0000-0002-0025-1307Zhang Hua ConceptualizationFunding acquisitionProject administrationValidationWriting – original draftWriting – review & editing* College of Life Science and Technology, National Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan, China
+Neyrolles Olivier Editor Institut de Pharmacologie et de Biologie Structurale, FRANCE
+Competing Interests: The authors have declared that no competing interests exist.
+
+* E-mail: zhanghua421@126.com
+17 4 2020 
+2020 
+15 4 e023078612 7 2019 8 3 2020 © 2020 Hu et al2020Hu et alThis is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.Mycobacterium tuberculosis is the causative agent of tuberculosis and has evolved an ability to survive in hostile host environments. M. tuberculosis is thought to utilize the rTCA cycle to sustain its latent growth during infection, but the enzymatic characteristics and physiological function for the key citrate lyase of the rTCA cycle, MtbCitE, in the important pathogen remain unclear. In this study, we investigated the function of MtbCitE based on its structural properties and sequence comparisons with other bacterial citrate lyase subunits. We showed that several amino acid residues were important for the citrate cleavage activity of MtbCitE. Strikingly, the citrate cleavage activity of MtbCitE was inhibited by ATP, indicating that energy metabolism might couple with the regulation of MtbCitE activity, which differed from other CitEs. More interestingly, deletion of citE from Mycobacterium bovis BCG decreased the mycobacterial survival rate under hypoxic conditions, whereas complementation with citE restored the phenotype to wild-type levels. Consistently, three key rTCA cycle enzymes were positively regulated under hypoxic conditions in mycobacteria. Therefore, we characterized a unique citrate lyase MtbCitE from M. tuberculosis and found that the CitE protein significantly contributed to mycobacterial survival under hypoxic conditions.
+
+This work was supported by the National Key R&D Program of China (2017YFD0500300), the National Natural Science Foundation of China (31470170, 31670075 and 81471996), the Fundamental Research Funds for the Central Universities (2662016PY090 and 2662017PY096), and Chang Jiang Scholars Program (To He Z-G). Data AvailabilityAll relevant data are within the manuscript and its Supporting Information files.Data Availability
+All relevant data are within the manuscript and its Supporting Information files.
+==== Body
+Introduction
+Mycobacterium tuberculosis infects one-third of the total human population because it can survive within the host for a long time in a latent form. Hypoxia is thought to induce a state of non-replicating persistence within M. tuberculosis and play a significant role in its growth, but the underlying mechanism remains unclear [1, 2]. Previous studies demonstrated that M. tuberculosis may switch its metabolism pathway to a less energy-efficient status to adapt to oxygen-limiting conditions, leading to low ATP concentration in hypoxic cells [3]. The reductive side of the tricarboxylic acid (TCA) cycle is an important part of this strategy, and is shared by most of the enzymes in the TCA cycle; moreover, it allows carbon fixation under anaerobic conditions [4, 5]. Citrate lyase is one of the key enzymes of the rTCA cycle [6].
+
+Citrate lyase is a cytoplasmic enzyme that catalyzes the conversion of citrate and CoA into oxaloacetate and acetyl-CoA. Acetyl-CoA is an important molecule in cellular metabolism, that is, used in the biosynthesis of a diverse set of molecules (e.g., fatty acids and cholesterol), energy production, and protein acetylation [7] As such, citrate lyase is widely distributed among eukaryotes, archaea, and bacteria. In eukaryotes, citrate is metabolized into acetyl-CoA and oxaloacetate by ATP-citrate lyase, which is composed of single polypeptide chains [8]. However, in most bacteria, citrate lyase consists of a complex comprising three non-identical subunits: enzymatic α and β subunits, encoded by citD and citE, respectively, and acyl-carrier γ subunit, encoded by citF [9]. The α subunit functions as an acetyl-ACP transferase, the β subunit is a citryl-S-ACP lyase, and the γ subunit is an acyl carrier protein [10, 11]. In bacteria, the cleavage of citrate by the citrate lyase complex depends on Mg2+, but ATP, which is important for citrate cleavage in eukaryotes, has no effect on the activity of citrate lyase [12, 13].
+
+In pathogenic bacteria, such as M. tuberculosis, citrate lyase lacks the α and γ subunits, and is directly annotated as CitE [14]. Thus, the biochemical function of citrate lyase in M. tuberculosis may differ from that in bacteria containing the complete citrate lyase complex. According to Arora G. et al, there are two homologous genes (Rv2498c and Rv3075c) in M. tuberculosis [15], but in this study, we only focus on the previous accepted CitE (Rv2498c). The structure of M. tuberculosis CitE (MtbCitE) was resolved by Goulding et al., who suggested that several amino acid residues play a significant role in the catalytic function of MtbCitE [14]. The complex structures of MtbCitE with oxaloacetate and magnesium were also resolved, and several amino acid residues were found to be involved in the binding of Mg2+ and oxaloacetate. Interestingly, ATP molecules were also proposed to be bound by MtbCitE; however, no direct evidence of this binding was obtained.
+
+In this work, we investigated the function of MtbCitE based on its structural properties and sequence comparisons with other bacterial citrate lyase subunits. We found that MtbCitE demonstrated citrate lyase activity by itself, and the function of MtbCitE was inhibited by ATP. Furthermore, deletion of citE from Mycobacterium bovis BCG has been proven to be associated with the decreasing survival rate of mycobacteria under hypoxic conditions. Therefore, we sought to expand our understanding of the surviving mechanism of M. tuberculosis.
+
+Materials and methods
+Bacterial strains, plasmids, enzymes, and chemicals
+E. coli BL21 (DE3) and pET28a containing the T7 RNA polymerase promoter were purchased from Novagen and used to express CitE protein and its mutants. Restriction enzymes, T4 ligase, dNTPs and all antibiotics were purchased from TaKaRa Biotech, whereas DNA purification kits were purchased from Watson Biotechnologies. Ni-NTA agarose columns were obtained from Qiagen.
+
+Bacterial culture and hypoxic assay
+The M. bovis BCG Pasteur 1173P2 and M. tuberculosis H37Ra strains were pre-cultured in Middlebrook 7H9 supplemented with 0.2% glycerol, 10% OADC and 0.05% Tween 80 (v/v). The bacterial suspension was adjusted to an optical density at 600 nm (OD600) of 1.0 and then cultured at 37 °C [16]. To investigate the gaseous conditions on bacterial survival, bacteria were cultured under hypoxic or normoxic conditions. Three milliliters of culture was injected into 5-mL uncoated vacutainer tubes and incubated in a static position at 37 °C [17]. Control cultures containing methylene blue (1.5 μg/mL) were used to monitor the depletion of oxygen. Cells were harvested after 72 hours of hypoxia culture and processed for survival measurement and RNA isolation [17]. The survival of BCG strains was determined by CFU assay after 14 days culturing on 7H10 plates.
+
+Quantitative real-time PCR analysis
+The expressions levels of citrate lyase and 2-oxoglutarate synthase of M. tuberculosis H37Ra and M. bovis BCG Pasteur 1173P2 in different conditions were investigated by Quantitative real-time PCR analysis. Isolation of mRNA and cDNA from mycobacterial strains was performed as described previously [18]. For real-time PCR analysis, each PCR reaction contained 1 μg of cDNA samples, 200 nM gene-specific primers (S2 Table) and 10 μl of 2 × SYBR Green Master Mix Reagent (Applied Biosystems). Expression levels of all genes were normalized to the levels of sigma A gene transcripts and are shown as fold change in hypoxic compared with aerobic cultures. The degrees of change in expression level were calculated using the 2-ΔΔCt method [18].
+
+Cloning, expression and purification of CitE protein and its mutants
+The citE gene was amplified using appropriate primers (S1 Table) from genomic DNA of M. tuberculosis H37Rv, and then cloned into the pET28a vector to produce recombinant plasmid. E. coli BL21 (DE3) cell was used to express recombinant protein. Recombinant expression strain was grown in 1 liter LB medium to an OD600 of 0.6 at 37 °C, and then induced by the addition of 1 mM IPTG at 16 °C for 12 h. His-tagged proteins were purified on affinity columns as described previously [18]. The purified protein elution was dialyzed against buffer (100 mM Tris–HCl (pH 7.4), 500 mM NaCl and 10% glycerol) for 2 hours and stored at -80 °C until further use. The purity of the protein was confirmed by SDS-PAGE analysis and the concentration of the protein was estimated by Coomassie Brilliant Blue assay.
+
+As for CitE mutants in its key amino acid residues, site-directed mutations were introduced into the selected sites by overlap PCR by their respective primers (S1 Table) [19]. All mutant fragments were cloned into pET28a vector, and sequenced to confirm the success of mutant. Mutant proteins were expressed and purified according to previous method.
+
+Enzyme activity analysis of CitE protein
+Enzyme activity of CitE protein was carried out through MDH coupled assay according to previous reports [20, 21]. The reaction velocity was determined by measuring the decrease in absorbance at 340 nm resulting from the oxidation of NADH, which was consumed accompanying with the reduction of oxaloacetic acid, one of products of CitE protein, catalyzed by MDH. The enzyme reaction mixtures were added with 20 mM citrate, 5 mM CoA, 0.1 U MDH (sigma), 0.25 mM NADH and 2.43 mg/mL CitE protein in reaction buffer (200 mM HEPES-KOH (pH 8.0), 10 mM MgCl2), and incubated at 37 °C. The 200 μL aliquot were collected every 5 secs for the initial 25 seconds and monitored at 340 nm for the reduction of NADH. The reaction mixture without CitE protein was the negative control. One unit of CitE enzyme activity was defined as 1 mM of NADH oxidized per min with 1 mg protein. By measuring of absorbance values during the reaction, the NADH oxidation was observed and the profile became linear. The enzyme activity units of CitE protein were calculated from the consume rate of NADH. Each measurement was performed in triplicate in experiments. Statistical differences were calculated using one-way ANOVA with Dunnett’s post-tests for comparing the activity of each mutant protein to the wild-type CitE.
+
+The effect of metal ions on enzyme activity
+To estimate the influence of metal ions on enzyme activity, the ions were pre-removed from CitE protein by dialyzing against MES buffer (20 mM MES-NaOH, pH 6.5, 2 mM EDTA and 2 mM 1,10-phenanthroline) for 24 h, and then against dialysis buffer (100 mM Tris–HCl (pH 7.4), 500 mM NaCl and 10% glycerol) for 2 h to remove the remaining EDTA and 1,10-phenanthroline [22]. The metal ion contents in the CitE protein were determined using Atomic Absorption Spectrophotometry [23]. The enzyme activities of CitE protein and apo-CitE were compared with each other by MDH coupled assay. Furthermore, apo-CitE protein was titrated by additional metal ions to determine their effect on enzyme activity. The experiments were conducted in triplicate. Statistical differences were calculated using one-way ANOVA with Dunnett’s post-tests. Wildtype and mutant CitE Holo-enzymes were used as control groups.
+
+Construction of the citE deletion mutant of M. bovis and Southern blot analysis
+Knockout of the citE gene in M. bovis was performed as described previously [24]. A pMind-derived suicide plasmid was constructed according to previous method and a lacZ gene was inserted into this plasmid as a blue-white selection marker. The recombinant plasmid was transformed into M. bovis BCG strain and selected on Middlebrook 7H10 solid medium (Difco) with 100 mg/mL hygromycin. Deletion of the citE gene was confirmed by Southern blot analysis [25]. The probe used for hybridization consisted of a 300-bp fragment amplified from the upstream region of the citE gene using appropriate primers (S2 Table).
+
+Construction of the overexpression strain and citE complementation strains of M. bovis
+CitE gene was amplified from M. bovis genomic DNA by their respective primers (S2 Table). The target PCR fragment was ligated to the pMV261 vector and then transformed into M. bovis. To overproduce in M. bovis, citE gene was inserted downstream of the hsp60 promotor of pMV261 [25]. Furthermore, the citE gene was also cloned into a pMV361 vector [25] for complementing it in citE-deleted M. bovis strains. The recombinant plasmids were electrophorated into M. bovis and selected on 7H10 medium containing 30 mg/mL kanamycin. The presence of the correct gene sequence in the plasmid construct was verified by DNA sequencing.
+
+Bacterial invasion and intracellular survival assays
+The intracellular survival assays were performed by using murine macrophage RAW264.7 as previously described [26] with modifications. Briefly, prior to infection, cells were cultured in DMEM medium supplemented with 10% FBS and grown into a density of 1×106 cells. The cell monolayers were infected with M. bovis BCG at a multiple of infection (MOI) of 35. After infection, the cells were washed and overlaid with a DMEM medium containing penicillin and streptomycin (100 μg/mL) to kill extracellular bacteria for 1 h. To release bacteria from macrophages for subsequent survival rate determination, cells were lysed for 10 min at room temperature in 500 μL Tween 20 at indicated time points (0 h, 4 h, 24h and 48 h after infection). The numbers of released viable bacteria were determined on 7H10 agar plates for colony count and the survival rate was calculated [27].
+
+Results
+Hypoxic conditions induce the expression of key rTCA cycle genes in both M. bovis BCG and M. tuberculosis H37Ra
+The expression of three key rTCA cycle genes (citE, korA, and korB) was assessed in M. bovis BCG and M. tuberculosis H37Ra under hypoxic stress conditions. As shown in Fig 1A and 1B, the expression levels of all target genes in both Mycobacterium species were significantly upregulated compared with the control under hypoxic stress conditions. A gene activated by dosR under hypoxia stress, hspX, was used as a positive control [28] and exhibited a significant increase in expression. By contrast, the expression of negative control gene phoP was not significantly altered. This finding indicated that the rTCA cycle played a major role in cellular metabolism under hypoxic stress conditions.
+
+10.1371/journal.pone.0230786.g001Fig 1 Differential expression assays of genes in normal and hypoxic cultured M. bovis BCG and M. tuberculosis H37Ra strains.
+Relative expression levels of citE gene and genes related to the rTCA cycle were analyzed in M. bovis BCG strains (A) and M. tuberculosis H37Ra strains (B) under normal and hypoxic culture conditions. The sigA gene was used as an invariant transcript, and an unrelated Rv0757 gene or BCG_0809 was used as a negative control. Data were analyzed by 2-ΔΔCt method. The diagram shows the mean values of mRNA expressive variations from three biological replicates ± standard deviations. Relative expression data were analyzed for statistical significance by the one-way ANOVA with GraphPad Prism. Data significance (**, P <0.01) was calculated by single effect analysis.
+
+MtbCitE is a citrate lyase
+The purified MtbCitE protein was found in the molecular weight range 25.0–35.0 kDa when assessed by SDS-PAGE (Fig 2A). Chemical cross-linking assay proved that MtbCitE protein can form trimer structure (S1 Fig). Following the expression and purification of the MtbCitE protein, the activity of the purified MtbCitE was measured. As shown in Fig 2B, a gradual decline in the absorbance ratio was observed with increasing reaction time. This result suggested that purified CitE protein might degrade citrate to citryl-CoA and oxaloacetic acid, which could be further reduced by malate dehydrogenase with the addition of NADH, leading to a decrease in the absorbance ratio. Thus, we predicted that purified MtbCitE had citrate lyase activity.
+
+10.1371/journal.pone.0230786.g002Fig 2 Purification and functional identification of MtbCitE protein.
+Identification of citrate cleavage activity embraced by MtbCitE. The measurement of citrate cleavage activity was coupled with MDH assay. Oxaloacetate, product of CitE, is used as the substrate of MDH combined with oxidation of NADH, which was monitored spectrophotometrically at 340 nm. The values presented are the average values of three independent experiments, and 0.49 mg of CitE was added in the reaction mix. The line in the graph shows the trend of NADH oxidation rate, which represents the enzyme activity of MtbCitE.
+
+CitE contains conserved amino acid residues
+We then compared the amino acid sequence of CitE from M. tuberculosis H37Rv with those from Yersinia pestis, Escherichia. coli, and Shigella flexneri to identify conserved residues (Fig 3A). Given that several amino acid residues were conserved, only those that were likely to participate in enzyme activity and metal ion binding, as suggested by previous studies [15, 29], were examined further. On the basis of a previous report, Asp37 and Asp138 were identified as likely to participate in enzyme activity. Located within the probable catalytic site of CitE, these two hydrophilic residues belong to a hydrophobic cavity formed by the triosephosphate isomerase (TIM) β-barrel structure of the enzyme (Fig 3B) (15). Arg64, another conserved residue, may be involved in citrate cleavage by binding to oxaloacetate (Fig 3B).
+
+10.1371/journal.pone.0230786.g003Fig 3 Selection of conservedconversed residues in CitE catalytic site.
+(A) Multiple sequence alignment between MtbCitE (citrate lyase β-subunit) and citrate lyase β-subunit from Y. pestis, E. coli, K. flexneri, D. radiodurans and V. cholerae. The conserved residues in these species are highlighted in blue; the residue involved in ATP binding is highlighted in orange. The amino acid sequence alignment was analyzed using CLUSTALW. (B) Cartoon diagram of MtbCitE with magnesium ion and oxaloacetate. The illustration was generated with structure 1Z6K deposited in the PDB by PYMOL. Magnesium ion and water molecule are shown as a yellow sphere and a red sphere respectively. The residues involved in binding Mg2+ and oxaloacetate are shown in a stick representation with differently colored atoms. The hydrogen bonds between atoms are shown with broken black lines.
+
+CitE is thought to be a Mg2+-dependent citrate lyase (9). As shown in Fig 3B, Glu36, Glu112, and Asp138 are likely involved in the magnesium ion interaction. Glu112 and Asp138 may bind directly to Mg2+, whereas Glu36 may interact with Mg2+ through a water molecule. In addition, the 50 amino acids at the C-terminus of MtbCitE were predicted to constitute a nonspecific secondary structure that becomes disordered in solution, although its function remains unclear.14 Thus, site-directed mutagenesis was carried out to investigate the functions of the selected amino acids, whereas the truncated protein CitEΔC50 was constructed to identify the functional role of the 50 amino acids at the C-terminus of CitE.
+
+Glu36, Arg64, Glu112, and Asp138 are essential for the citrate lyase activity of MtbCitE
+The specific enzyme activity of each of the MtbCitE mutants was compared with that of the wild-type MtbCitE protein. As shown in Fig 4, compared with wild-type CitE, CitE mutants E36A, R64A, E112A, and D138A exhibited a significant decrease in citrate cleavage activity, with E36A demonstrating the greatest decrease. By contrast, no obvious change in citrate cleavage activity was observed for mutant D37A compared with wild-type CitE. These results indicated that Glu36, Arg64, Glu112, and Asp138 were likely to be the key amino acid residues for MtbCitE citrate cleavage activity.
+
+10.1371/journal.pone.0230786.g004Fig 4 Comparison of citrate cleavage activity between wild-type MtbCitE and its mutants.
+(A) The linear plot reveals the trends of citrate cleavage by wild-type MtbCitE and its mutants. The line in the graph shows the trend of NADH oxidation rate, which represents the enzyme activity of MtbCitE and its mutants. Diamond, wild-type CitE protein; close square, E36A; close triangle, D37A; close circle, R64A; open square, E112A; open triangle, D138A; open circle, ΔC50). The diagram shows the mean values of A340 absorbance from three independent replicates ± standard deviations. (B) The bar chart reveals the citrate cleavage activity units of wild-type MtbCitE and its mutants. The values presented are the average values of three independent experiments, and the error bars represent the variant range of the data derived from three replicates. The P-values of the results were calculated by one-way ANOVA. A significant difference between two proteins was indicated by an asterisk (*, P<0.05) or a double asterisk (**, P<0.01) in the figure.
+
+Truncated protein CitEΔC50 showed only a ~6% decrease in citrate cleavage activity compared with wild-type CitE, suggesting that the 50 amino acids at the C-terminus were not essential for the enzymatic activity of MtbCitE. Thus, the function of this region remains unclear.
+
+MtbCitE activity depends on Mg2+
+The effect of Mg2+ on citrate cleavage activity was systematically investigated to determine whether the activity of CitE is Mg2+ dependent. Apo-CitE was obtained by pre-removing Mg2+ from the protein by dialysis, and atomic absorption spectrophotometry confirmed that magnesium was completely removed (Fig 5A). Compared with wild-type MtbCitE, apo-CitE demonstrated a 75% decrease in citrate cleavage activity (Fig 5B). In addition, activity was restored when Mg2+ was added to the apo-CitE reaction mixtures. These results suggested that CitE was a Mg2+-dependent protein.
+
+10.1371/journal.pone.0230786.g005Fig 5 Effect of Mg2+ on MtbCitE activity.
+(A) The Mg2+ concentrations of wild-type MtbCitE and its mutants. Mg2+ concentrations in the samples were detected by atomic absorption spectrophotometry. The protein concentration used in this assay was 100 μM. Purified proteins (800 mL 2.0 mg/mL) were digested with nitric acid (200 mL) and diluted to 4 mL. To remove ions from the wild-type proteins and obtain apo-CitE proteins (magnesium free form of CitE proteins), the purified CitE proteins were dialyzed for 24 h against the MES buffer. The one-way ANOVO of independent experiments was used for statistical analysis. The differences between the Mg2+ contents in mutant and wild-type CitE proteins were calculated using Dunnett’s post-tests. The Mg2+ concentrations of wild-type CitE protein was used as control groups. (B) Comparison of citrate cleavage activity of wild-type MtbCitE and its mutants in the presence and absence of Mg2+. Mg2+ was pre-removed from the enzyme protein by dialysis. The black bars represent holo-enzyme with 10 mM Mg2+, grey bars represent the apo-enzyme alone, and white bars represent apo-enzyme added with 10 mM Mg2+. The bar values represent the averages of three independent experiments, and the error bars represent the variant range of the data derived from the replicates. The P-values of the data were calculated by one-way ANOVA. Dunnett’s post-tests were used to analyze the differential significance between protein activities (*, P <0.05; **, P <0.01; ns, P>0.05).
+
+The same method was used to examine the effects of magnesium on CitE mutants containing substitutions at predicted Mg2+ binding sites (E36A, E112A, and D138A) (14). As shown in Fig 5A, mutant E36A showed an 80% decrease in Mg2+ binding ability compared with wild-type CitE. Combined with the observed 83% reduction in citrate cleavage activity of E36A (Figs 4 and 5B), these results suggested that Glu36 was essential for Mg2+ binding. Decreases in binding were also observed for mutants E112A and D138A (~60% and 70%, respectively), although they were not as dramatic as that of E36A. These findings indicated that Glu112 and Asp138 could also bind Mg2+, and they may reinforce the Mg2+-binding activity of MtbCitE by assisting Glu36.
+
+ATP inhibits the citrate cleavage activity of MtbCitE
+To determine the effects of ATP on the function of MtbCitE, increasing concentrations of ATP were added to reaction mixtures, and citrate cleavage activity was examined. A gradual decrease in citrate cleavage was observed with increasing concentrations of ATP (Fig 6B and 6C), thereby indicating that the citrate cleavage activity of MtbCitE was inhibited by ATP. Furthermore, by analyzing the data for Protein Data Bank entry 1U5V, we determined that the CitE-ATP complex was formed in solution. Arg160 may coordinate this interaction through binding of the nitrogen atoms of its two NH2 groups to the γ-phosphate group of the ATP molecule (Fig 6A). No significant change in the citrate cleavage activity of R160A was observed following the addition of increasing concentrations of ATP (Fig 6B and 6C). Arg160 may be the key amino acid residue in the interaction of CitE with ATP.
+
+10.1371/journal.pone.0230786.g006Fig 6 Effect of ATP molecule on MtbCitE activity.
+(A) Cartoon diagram of MtbCitE trimer with an ATP molecule. The graph was created with PDB entry 1U5V by PYMOL. Protein polymer was colored differently by monomers. The phosphate group of the ATP molecule and the residue Arg160 involved with ATP binding are shown in a stick form and colored differently by atoms. The hydrogen bonds between the oxygen atoms of ATP molecule and nitrogen atoms of residues are shown with broken black lines and the distance between the atoms is indicated. (B) Comparison of citrate cleavage activity of wild-type MtbCitE (top) and mutant R160A (bottom) with increasing amount of ATP. ATP molecule at a final concentration ranging from 0 mM to 1.5 mM was added to reaction mixtures. Diamond, 0 mM; square, 0.5 mM; triangle, 1 mM; circle, 1.5 mM. The diagram shows the mean values of A340 absorbance from three independent replicates ± standard deviations. (C) The bar chart reveals citrate cleavage activity units of wild-type MtbCitE and mutant R160A with increasing amount of ATP. The bar heights represent the mean value of enzyme activity units of three independent experiments, and the error bars represent the variant range of the data derived from the replicates. Significant difference of data was indicated as the P-values of the data were calculated by one-way ANOVA (**, P <0.01; ns, P >0.05). The wild-type and mutant CitE activities in the absence of ATP were used as control groups. Dunnett’s post-tests were used to analyze the differential significance between protein activities.
+
+CitE contributes to the survival of M. bovis BCG under hypoxic stress
+A citE-deleted M. bovis BCG strain (ΔcitE) was generated by allelic replacement (S2 Fig), and a complemented mutant strain was constructed by transformation of pMV361-citE into the ΔcitE strain. The survival rates of the deletion mutant, complemented mutant, and wild-type strain were then examined under hypoxic conditions. As shown in Fig 7A, no substantial difference in CFU was observed among the wild-type, ΔcitE, and complemented mutant strains under normal growth conditions. However, we observed a significant difference (P = 0.00656) between the bacterial load of wild-type strain (1.24×107 cfu/mL) and ΔcitE strain (0.72×107 cfu/mL) after 72 hours of hypoxic culture. Consistently, the survival rate of the ΔcitE mutant was appreciably lower than that of the wild-type strain under hypoxic conditions, whereas the survival rate of the complemented mutant strain was similar to that of the wild-type strain BCG. In addition, the BCG strain overexpressing citE from pMV261 had a higher survival rate than the wild-type strain containing the empty pMV261 vector (Fig 7A, right panel). Thus, citE has an effect on the survival of BCG under hypoxic conditions.
+
+10.1371/journal.pone.0230786.g007Fig 7 Effect of hypoxic condition on the survival rate of mycobacterial strains.
+(A) M. bovis BCG strains were treated with hypoxic condition for 3 days, 5 days or 10 days before samples were harvested, and bacterial viability was assessed by CFU assay. The bar graph indicates the quantification of live cells relative to untreated bacteria. The diagram shows the mean values of the percentage of surviving bacteria compared with the untreated group from three biological replicates, and the error bars represent standard deviations. And curves represent the mean value of bacterial loads (log10cfu/mL) of different BCG strains with standard errors. Values for normalized bacterial loads are indicated on the right y-axis. (B) Intracellular survival assays. M. bovis BCG wild-type (black bar), citE-deleted mutant (white bar) and complemented mutant (grey bar) strains were used to infect macrophage RAW264.7. After 4 h, 24 h and 48 h infection, the intracellular survival rates of three mycobacterial strains were determined. The bar graph indicates the percentage of viable intracellular bacteria over total infected bacteria. Bacterial loads are indicated on the right y-axis. Results are presented from three independent experiments and error bars represent standard errors of mean values (SEM). Statistical differences were calculated using one-way ANOVA with Dunnett’s post-tests for comparing each treatment group to the untreated control samples. **, P < 0.01; ns, P > 0.05.
+
+CitE contributes to intracellular survival of M. bovis BCG
+Next, we determined the contribution of CitE to the mycobacterial survival in infected macrophage. As shown in Fig 7B, after 4 hours of infection, we observed a significant difference (P = 0.00500) between the survival rate of ΔcitE strain (63.5% ± 7.2%) and wild-type strain (88.7% ± 2.9%). The difference became more obvious (P = 0.00057) if we further determined their survival rates after a 48 h infection, and the wild-type BCG strain obtained a 3-fold higher survival rate (21.4% ± 2.5%) than the citE-deleted strain (7.0% ± 0.2%) (Fig 7B). Strikingly, no significant survival difference was observed between complemented strain and wild-type BCG under a similar condition. These data suggested that CitE contributes to intracellular survival of M. bovis BCG.
+
+Discussion
+According to the previous study by Arora G. et al, MtbCitE protein did not show citrate cleavage activity (15). But in this study, MtbCitE was confirmed, alone and directly, catalyzed the cleavage of citrate to acetyl-CoA and oxaloacetate. For the reason, we suggest that MtbCitE possesses lower activity as higher concentration protein was used when investigating the citrate cleavage activity of MtbCitE. Furthermore, we showed that MtbCitE was Mg2+ dependent, and ATP could inhibit citrate cleavage activity. These findings indicated that the biochemical function of MtbCitE differed from that of other bacterial citrate lyases, including those from Escherichia coli [30], Klebsiella pneumoniae [31], and Leuconostoc paramesenteroides [32]. These previously described citrate lyase enzymes consist of an ATP-independent complex composed of six copies of each subunit, α, β, and γ. The β-subunit of these citrate lyase complexes is homologous to CitE, but cannot catalyze citrate cleavage by itself. Thus, the function of MtbCitE differs from that of other bacterial pathogens.
+
+Despite the functional differences between MtbCitE and other bacterial CitE enzymes, amino acid sequence comparison identified the conserved residues involved in catalytic activity (Fig 3A). Site-directed mutagenesis aimed at identifying specific residues involved in the activity of MtbCitE demonstrated that all mutants, except D37A, presented decreased citrate catalysis activity compared with wild-type CitE. Asp138, targeted in mutant D138A, is located within the predicted catalytic site of CitE that forms a hydrophobic cavity. The significant decrease in catalytic activity of D138A confirmed that hydrophilic residue Asp138 was part of the active site of CitE. Arg64 was also predicted to play a role in catalysis through its ability to bind oxaloacetate. The decrease in citrate cleavage activity of mutant R64A indicated that the citrate catalytic activity of CitE was also partly dependent on its enzyme-product interaction ability. Furthermore, as a Mg2+-dependent citrate lyase, amino acid residues relating to metal ion binding are particularly important for CitE activity. In this study, a complete loss of enzymatic activity was observed in mutant E36A, which could not be restored by the addition of magnesium ions. Therefore, Glu36 was essential for the Mg2+ binding ability of CitE.
+
+CitE has been confirmed as an ATP-independent citrate lyase in various other bacteria [30–32]. Unexpectedly, in the present study, we found that ATP inhibited the citrate cleavage activity of CitE. The amino acid residue Arg160 was further characterized as a potential ATP binding site. Notably, M. tuberculosis CitE exhibited a unique ATP-binding specificity, and the Arg160 residue was not conserved in several CitE-like enzymes (Fig 3A). Consistently, when comparing the structure of Rhodobacter sphaeroides MCL (4L9Y) and M. tuberculosis CitE (1U5H; S4 Fig), R160 was found to be outside the conserved domain, although two enzymes showed a similar canonical TIM barrel structure. Therefore, in the present study, we provided data to show that M. tuberculosis CitE was an ATP-sensitive citrate cleavage enzyme, although ATP was not necessary for the activity. This finding supports a model the amount of ATP produced by M. tuberculosis controls whether citrate is funneled towards the TCA cycle or rTCA cycle (Fig 8). Under optimal growth conditions, M. tuberculosis triggers the TCA cycle to provide more energy for its growth, whereas the rTCA cycle is inhibited because CitE is inactivated by the abundance of ATP molecules. However, when M. tuberculosis is subjected to unfavorable growth conditions, such as the changes in oxygen tension that occur within a host [33], the bacterium has to decrease its energy metabolism and produce a smaller amount of ATP (S5 Fig). Under these conditions, CitE activity remains high, and citrate will be metabolized to oxaloacetate and citryl-CoA. These molecules are precursors for fatty acid metabolism and cholesterol biosynthesis, which are important steps in improving the virulence of M. tuberculosis by thickening the cell wall. A different adaptation to hypoxic stress between M. tuberculosis and M. bovis BCG was previously reported [34], which may account in part for virulence differences between these two strains.
+
+10.1371/journal.pone.0230786.g008Fig 8 Schematic diagram summarizing the role of hypoxia in regulating energy metabolism in M. tuberculosis.
+Under hypoxic conditions, M. tuberculosis has an increased expression level of citE, korA and korB, which have important roles in reductive TCA cycle. In contrast, citrate synthetase citA which functional in oxidative TCA cycle has a decreased expression level in hypoxic M. tuberculosis. Hypoxia also results in reduction of intracellular ATP level and accumulation of reduced cofactors in M. tuberculosis.
+
+In the present study, the expression levels of genes coding for citrate lyase and 2-oxoglutarate synthase in M. tuberculosis significantly improved under hypoxic conditions (Fig 1), which is consistent with the result acquired by Arora G. et al (15). The rTCA cycle has the remarkable ability to fix carbon by sharing enzymes from the TCA cycle when M. tuberculosis is subjected to oxygen-limiting microaerophilic and anaerobic conditions (6). Citrate lyase and 2-oxoglutarate synthase are two key enzymes of the rTCA cycle. Therefore, our findings implied that the rTCA cycle dominated the TCA cycle under anaerobic conditions. This assumption was consistent with previous observations. For example, the rTCA cycle was proposed to be upregulated under hypoxic conditions, which further resulted in the significant accumulation and secretion of succinate in M. tuberculosis [4, 35]. Our findings, together with previous data, support the idea that M. tuberculosis could survive under hypoxic conditions by altering its mode of metabolism from an oxidative direction to a reductive direction.
+
+In conclusion, MtbCitE is a Mg2+-dependent protein with citrate cleavage activity. The relationship between MtbCitE and ATP may be an important factor contributing to the survival of the pathogen under hypoxic conditions. Thus, MtbCitE plays important roles in the persistent growth of M. tuberculosis in hostile environments.
+
+Supporting information
+S1 Raw images (PDF)
+
+Click here for additional data file.
+
+ S1 Table Strains and plasmids used in this study.
+(DOCX)
+
+Click here for additional data file.
+
+ S2 Table Primers used in this study.
+(DOCX)
+
+Click here for additional data file.
+
+ S3 Table Primers for quantitative real-time PCR (qRT-PCR).
+(DOCX)
+
+Click here for additional data file.
+
+ S1 Fig Oligomeric status of MtbCitE protein.
+Oligomeric status of the CitE protein was detected by Chemical Cross-Linking assay according to previous reports. The 20 μl reaction mixes, including 10 mM CitE protein, 4 μM Disuccinimidyl suberate (DSS) and cross-linking buffer (100 mM NaH2PO4 pH 8.0 and 150 mM NaCl), were incubated at room temperature. Half an hour later, the reaction was stopped by incubating with standard SDS-PAGE sample buffer at 100 °C for 5 min, and then analyzed by SDS-PAGE.
+
+(TIF)
+
+Click here for additional data file.
+
+ S2 Fig Construction of the M. bovis citE knockout strain and Southern blotting assay.
+(A) The double-crossover recombinant strategy for M. bovis citE gene knockout. Upstream, 1 kb genomic DNA of citE gene upstream; Downstream, 1 kb genomic DNA of citE gene downstream; Hyg, hygromycin resistance gene. (B) A map of the recombinant vector constructed for citE knockout. Upstream DNA fragment was inserted between Pac I and Spe I sites of the vector; downstream was placed at Nhe I site of the vector; LacZ gene was put into Pac I site of the vector. (C) Schematic of genomic DNA from wild-type and citE knockout strains digested with the restriction enzyme Pst I. The probe is indicated with a black bar. (D) Southern blot assays. Southern blotting was performed to detect genomic DNA containing citE gene or hygromycin gene. A 300-bp probe corresponding to the digested fragment was obtained by PCR and labeled with digoxigenin dUTP (Roche, Mannheim Germany). The samples were hybridized with the external probe, and they showed changes in the size before and after recombination.
+
+(TIF)
+
+Click here for additional data file.
+
+ S3 Fig Sequence alignment between CitE from M. tuberculosis H37Rv and M. bovis BCG.
+The sequence alignment of amino acids shows the homology of the citE protein in TB to BCG are 100% identity.
+
+(TIF)
+
+Click here for additional data file.
+
+ S4 Fig Comparison of R. sphaeroides malyl-CoA lyases and MtbCitE in the sequence and conformation.
+(A) Overlay of R. sphaeroides malyl-CoA lyases and MtbCitE. MCL (PDB 4L9Y) is colored grey and CitE (PDB 1U5H) is colored in blue. R160 of MtbCitE is showed in red sticks. (B) Comparison of MCL and CitE in sequence. The residues overlaid with MCL in structure colored blue in CitE sequence. R160 of MtbCitE is indicated by red box.
+
+(TIF)
+
+Click here for additional data file.
+
+ S5 Fig ATP level of M. bovis BCG under hypoxic stress.
+The M. bovis BCG was cultured and collected according to the Materials and Methods.
+
+(TIF)
+
+Click here for additional data file.
+==== Refs
+References
+1 Manabe YC , Bishai WR . Latent Mycobacterium tuberculosis-persistence, patience, and winning by waiting
+. Nat Med . 2000 ; 6 : 1327 –1329
+. 10.1038/82139 
+11100115 
+2 Flynn JL , Chan J . Tuberculosis: latency and reactivation
+. Infect Immun . 2001 ; 69 : 4195 –4201
+. 10.1128/IAI.69.7.4195-4201.2001 
+11401954 
+3 Shi L , Sohaskey CD , Kana BD , Dawes S , North RJ , Mizrahi V , et al
+Changes in energy metabolism of Mycobacterium tuberculosis in mouse lung and under in vitro conditions affecting aerobic respiration
+. Proc Natl Acad Sci USA . 2005 ; 102 : 15629 –15634
+. 10.1073/pnas.0507850102 
+16227431 
+4 Watanabe S , Zimmermann M , Goodwin MB , Sauer U , Barry CE 3rd, Boshoff HI . Fumarate reductase activity maintains an energized membrane in anaerobic Mycobacterium tuberculosis
+. PLoS pathog . 2011 ; 7 : e1002287 
+10.1371/journal.ppat.1002287 
+21998585 
+5 Fang X , Wallqvist A , Reifman J . Modeling phenotypic metabolic adaptations of Mycobacterium tuberculosis H37Rv under hypoxia
+. PLoS Comput Biol . 2012 ; 8 : e1002688 
+10.1371/journal.pcbi.1002688 
+23028286 
+6 Srinivasan V , Morowitz HJ . Ancient genes in contemporary persistent microbial pathogens
+. Biol Bull . 2006 ; 210 : 1 –9
+. 10.2307/4134531 
+16501059 
+7 Chypre M , Zaidi N , Smans K . ATP-citrate lyase: a mini-review
+. Biochem Biophys Res Commun . 2012 ; 422 : 1 –4
+. 10.1016/j.bbrc.2012.04.144 
+22575446 
+8 Söderberg C , Lind P . A novel mammalian homologue of a bacterial citrate-metabolizing enzyme
+. Ann N Y Acad Sci . 2002 ; 967 : 476 –481
+. 10.1111/j.1749-6632.2002.tb04305.x 
+12079877 
+9 Schneider K , Kästner CN , Meyer M , Wessel M , Dimroth P , Bott M . Identification of a gene cluster in Klebsiella pneumoniae which includes citX, a gene required for biosynthesis of the citrate lyase prosthetic group
+. J Bacteriol . 2002 ; 184 : 2439 –2446
+. 10.1128/JB.184.9.2439-2446.2002 
+11948157 
+10 Subramanian S , Sivaraman C . Bacterial citrate lyase
+. J Biosciences . 1984 ; 6 : 379 –401
+.
+11 Quentmeier A , Holzenburg A , Mayer F , Antranikian G . Reevaluation of citrate lyase from Escherichia coli
+. Biochim Biophys Acta . 1987 ; 913 : 60 –65
+. 10.1016/0167-4838(87)90232-9 
+3555623 
+12 Moellering H , Gruber W . Determination of citrate with citrate lyase
+. Anal Biochem . 1966 ; 17 : 369 –376
+. 10.1016/0003-2697(66)90172-2 
+5965976 
+13 Antranikian G , Giffhorn F . Citrate metabolism in anaerobic bacteria
+. FEMS Microbiol Rev . 1987 ; 46 : 175 –198
+.
+14 Goulding CW , Bowers PM , Segelke B , Lekin T , Kim CY , Terwilliger TC , et al
+The structure and computational analysis of Mycobacterium tuberculosis protein CitE suggest a novel enzymatic function
+. J Mol Biol . 2007 ; 365 : 275 –283
+. 10.1016/j.jmb.2006.09.086 
+17064730 
+15 Arora G , Chaudhary D , Kidwai S , Sharma D , Singh R . CitE enzymes are essential for Mycobacterium tuberculosis to establish infection in macrophages and Guinea Pigs
+. Front Cell Infect Microbiol . 2018 ; 8 : 385 
+10.3389/fcimb.2018.00385 
+30460206 
+16 Liu Y , Wang H , Cui T , Zhou X , Jia Y , Zhang H , et al
+NapM, a new nucleoid-associated protein, broadly regulates gene expression and affects mycobacterial resistance to anti-tuberculosis drugs
+. Mol Microbiol . 2016 ; 101 : 167 –181
+. 10.1111/mmi.13383 
+27010232 
+17 Rathor N , Garima K , Sharma NK , Narang A , Varma-Basil M , Bose M . Expression profile of mce4 operon of Mycobacterium tuberculosis following environmental stress
+. Int J Mycobacteriol . 2016 ; 5 : 328 –332
+. 10.1016/j.ijmyco.2016.08.004 
+27847019 
+18 Li W , He ZG . LtmA, a novel cyclic di-GMP-responsive activator, broadly regulates the expression of lipid transport and metabolism genes in Mycobacterium smegmatis
+. Nucleic Acids Res . 2012 ; 40 : 11292 –11307
+. 10.1093/nar/gks923 
+23047950 
+19 Bolla JR , Do SV , Long F , Dai L , Su CC , Lei HT , et al
+Structural and functional analysis of the transcriptional regulator Rv3066 of Mycobacterium tuberculosis
+. Nucleic Acids Res . 2012 ; 40 : 9340 –9355
+. 10.1093/nar/gks677 
+22821564 
+20 Srere PA . The citrate cleavage enzyme
+. J. Biol. Chem . 1959 ; 234 : 2544 –2547
+. 13833535 
+21 Aoshima M , Ishii M , Igarashi Y . A novel enzyme, citryl-CoA lyase, catalysing the second step of the citrate cleavage reaction in Hydrogenobacter thermophiles TK-6
+. Mol Microbiol . 2004 ; 52 : 763 –770
+. 10.1111/j.1365-2958.2004.04010.x 
+15101982 
+22 Zhang H , Deng JY , Bi LJ , Zhou YF , Zhang ZP , Zhang CG , et al
+Characterization of Mycobacterium tuberculosis nicotinamidase/pyrazinamidase
+. FEBS J . 2008 ; 275 : 753 –762
+. 10.1111/j.1742-4658.2007.06241.x 
+18201201 
+23 Li Y , Zeng J , He ZG . Characterization of a functional C-terminus of the Mycobacterium tuberculosis MtrA responsible for both DNA binding and interaction with its two-component partner protein
+, MtrB J Biochem . 2010 ; 148 : 549 –556
+. 10.1093/jb/mvq082 
+20671191 
+24 Hu J , Zhao L , Yang M . A GntR family transcription factor positively regulates mycobacterial isoniazid resistance by controlling the expression of a putative permease
+. BMC Microbiol . 2015 ; 15 : 214 
+10.1186/s12866-015-0556-8 
+26474554 
+25 Yang M , Gao C , Cui T , An J , He ZG . A TetR-like regulator broadly affects the expressions of diverse genes in Mycobacterium smegmatis
+. Nucleic Acids Res . 2012 ; 40 : 1009 –1020
+. 10.1093/nar/gkr830 
+21976733 
+26 Li J , Chai QY , Zhang Y , Li BX ., Wang J , Qiu XB ., et al
+Mycobacterium tuberculosis Mce3E suppresses host innate immune responses by targeting ERK1/2 signaling
+. J Immunol . 2015 ; 194 : 3756 –3767
+. 10.4049/jimmunol.1402679 
+25780035 
+27 Adams KN , Takaki K , Connolly LE , Wiedenhoft H , Winglee K , Humbert O , et al
+Drug tolerance in replicating mycobacteria mediated by a macrophage-induced efflux mechanism
+. Cell . 2011 ; 145 : 39 –53
+. 10.1016/j.cell.2011.02.022 
+21376383 
+28 Kumari P , Sikri K , Kaur K , Gupta UD , Tyagi JS . Sustained expression of DevR/DosR during long-term hypoxic culture of Mycobacterium tuberculosis
+. Tuberculosis (Edinb) . 2017 ; 106 : 33 –37
+.28802402 
+29 Torres R , Chim N , Sankaran B , Pujol C , Bliska JB , Goulding CW . Structural insights into RipC, a putative citrate lyase β subunit from a Yersinia pestis virulence operon
+. Acta Crystallogr Sect F Struct Biol Cryst Commun . 2012 ; 68 : 2 –7
+. 10.1107/S1744309111048056 
+22232161 
+30 Dimroth P . Molecular basis for bacterial growth on citrate or malonate
+. EcoSal Plus . 2004 ; 1 : 1 .
+31 Bott M , Dimroth P . Klebsiella pneumoniae genes for citrate lyase and citrate lyase ligase: localization, sequencing, and expression
+. Mol Microbiol . 1994 ; 14 : 347 –356
+. 10.1111/j.1365-2958.1994.tb01295.x 
+7830578 
+32 Martín M , Corrales MA , de Mendoza D , López P , Magni C . Cloning and molecular characterization of the citrate utilization citMCDEFGRP cluster of Leuconostoc paramesenteroides
+. FEMS Microbiol Lett . 1999 ; 174 : 231 –238
+. 10.1111/j.1574-6968.1999.tb13573.x 
+10339813 
+33 Tsai MC , Chakravarty S , Zhu G , Xu J , Tanaka K , Koch C , et al
+Characterization of the tuberculous granuloma in murine and human lungs: cellular composition and relative tissue oxygen tension
+. Cell Microbiol . 2006 ; 8 : 218 –232
+. 10.1111/j.1462-5822.2005.00612.x 
+16441433 
+34 Rosenkrands I , Slayden RA , Crawford J , Aagaard C , Barry CE 3rd, Andersen P . Hypoxic response of Mycobacterium tuberculosis studied by metabolic labeling and proteome analysis of cellular and extracellular proteins
+. J Bacteriol . 2002 ; 184 : 3485 –3491
+. 10.1128/JB.184.13.3485-3491.2002 
+12057942 
+35 Eoh H , Rhee KY . Multifunctional essentiality of succinate metabolism inadaptation to hypoxia in Mycobacterium tuberculosis
+. Proc Natl Acad Sci USA . 2013 ; 110 : 6554 –6559
+. 10.1073/pnas.1219375110 
+23576728
+

@@ -1,0 +1,163 @@
+
+==== Front
+J Orthop Surg Res
+J Orthop Surg Res
+Journal of Orthopaedic Surgery and Research
+1749-799X BioMed Central London 
+
+1789
+10.1186/s13018-020-01789-1
+Research Article
+Nociceptin is present in synovial fluid of patients undergoing total knee arthroplasty
+http://orcid.org/0000-0002-7663-1656Verbeek Thomas A. tverbeek@pennstatehealth.psu.edu 1 Jarbadan Nancy Ruth 2 Davis Charles 3 Caldwell Julia 4 1 grid.240473.60000 0004 0543 9901Department of Anesthesiology & Perioperative Medicine, H187, Penn State Health Milton S. Hershey Medical Center, 500 University Dr., Hershey, PA 17033 USA 
+2 grid.240473.60000 0004 0543 9901Department of Anesthesiology & Perioperative Medicine, Penn State College of Medicine, Hershey, PA USA 
+3 grid.240473.60000 0004 0543 9901Department of Orthopedics and Rehabilitation, Penn State Bone and Joint Institute, Penn State Health Milton S. Hershey Medical Center, Hershey, PA USA 
+4 Vitality Pain Clinic, Bowling Green, KY USA 
+16 7 2020 
+16 7 2020 
+2020 
+15 2667 5 2020 7 7 2020 © The Author(s) 2020Open AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.Background
+Osteoarthritis is a mechanical abnormality characterized by chronic joint pain associated with degeneration of the articular cartilage, synovitis, and local inflammation, leading to loss of function and pain. A connection exists between the peripheral nervous system and inflammatory joint degeneration. The process by which inflammation is influenced by the nervous system is known as neuroinflammation. One of the neuropeptides involved in peripheral neuroinflammation is nociceptin, a peptide related to the opioid class of substances. Nociceptin has both pro- and anti-inflammatory effects. Some studies show that nociceptin can be measured in synovial fluid, while other studies have not been able to detect it. The presence of nociceptin in synovial fluid could imply a molecular role for the neuropeptide in the joint, both physiologically as well as pathophysiologically. The goal of this pilot study was to determine whether nociceptin was present in the synovial fluid of osteoarthritic knees.
+
+Methods
+Patients undergoing primary total knee arthroplasty were enrolled after Institutional Review Board approval was obtained. Synovial fluid was aspirated from patients’ operative knee joints and blood samples were obtained. A commercially available enzyme Immunoassay kit was used to test for nociceptin. A linear mixed-effects model was developed to account for the repeated measurements and baseline covariates. Least squares (adjusted) means were derived from the model to compare the sample types and to compare subgroups.
+
+Results
+Twenty patients were included in this study. Nociceptin was detected in the synovial fluid and plasma of all patients. The mean concentration (± standard deviation) of nociceptin in synovial fluid was 28.7 ± 18.2 pg/ml. The mean concentration of nociceptin in plasma was 45.2 ± 24.3 pg/ml pre-procedure, and 40.1 ± 20.6 pg/ml post-tourniquet deflation. The nociceptin concentration in synovial fluid was significantly lower than the nociceptin concentration in plasma, both pre-procedure and post-tourniquet deflation (p = 0.002 and p = 0.016 respectively). The nociceptin concentration in both plasma and synovial fluid was significantly lower in females versus males (p = 0.012).
+
+Conclusion
+We demonstrated that nociceptin is present in synovial fluid and plasma of patients undergoing total knee arthroplasty. This implies a potential role for nociceptin in modulating inflammation in osteoarthritis.
+
+Trial registration
+ClinicalTrials.gov, NCT02528916. Retrospectively registered on August 19, 2015,
+
+Keywords
+NociceptinOrphanin FQOsteoarthritisNeuroinflammationArthroplastyissue-copyright-statement© The Author(s) 2020
+==== Body
+Background
+Osteoarthritis (OA) is a mechanical abnormality characterized by chronic joint pain associated with degeneration of the articular cartilage, synovitis, and local inflammation [1], leading to loss of function and pain. This condition affects 10% of men and 18% of women over the age of 60 worldwide and places a large economic burden on society [2, 3]. Treatment is directed towards pain management, with joint replacement for end-stage disease [4]. Currently, diagnosis relies on patients reporting symptoms combined with radiological imaging. Unfortunately, symptoms only develop once the disease is irreversible [4]. This has led to the search for biochemical markers to detect early disease, before irreversible damage occurs. None have been validated clinically [5]. Because of this lack of validated biomarkers, very little progress has been made in the discovery of disease-modifying agents for OA.
+
+It is well known that a connection exists between the peripheral nervous system and inflammatory joint degeneration [6]. The process by which inflammation is influenced by the nervous system is known as neuroinflammation [7]. This process is mediated by the peripheral release of sensory neuropeptides from nerve terminals. One of the neuropeptides involved in peripheral neuroinflammation is nociceptin. This neuropeptide has both pro- and anti-inflammatory effects [8, 9]. Nociceptin is an endogenous nociceptin opioid receptor (NOP) agonist with similar structure to endogenous opioids [10]. It is, however, different from classic opioids like morphine, in that it lacks agonistic activity at classical opioid receptors (mu, kappa, and delta) [11, 12] and resists naloxone-induced antagonism [13, 14]. Some studies show that nociceptin can be measured in synovial fluid [11], while other studies have not been able to detect it [15]. The presence of nociceptin in synovial fluid could imply a molecular role for the neuropeptide in the joint, both physiologically as well as pathophysiologically. Clarifying the role of nociceptin in joints may prove useful in the diagnosis, as well as the treatment of OA, especially with the advent of the opioid analgesic cebranopadol. This opioid is unique in its mechanism of action as it acts not only as an agonist on mu, kappa, and delta opioid receptors, but also as an agonist on the nociceptin receptor [16].
+
+The goal of this pilot study was to determine whether nociceptin was present in the synovial fluid of osteoarthritic knees. These data will be used to design a study comparing healthy subjects’ synovial fluid and plasma nociceptin concentrations to the same measurements in patients with osteoarthritis.
+
+Methods
+The study was registered retrospectively with ClinicalTrials.gov (registration number NCT02528916). EQUATOR guidelines for a cross-sectional observational study were followed. Twenty-two patients were enrolled between May and November 2014. This was a convenience sample of patients aged 18–80 years, diagnosed with osteoarthritis, undergoing primary total knee arthroplasty (TKA). Patients who were not hemodynamically stable, had undergone prior joint arthroplasty at the current surgical site, or had active infection of their knee joint, were excluded from the study. The same orthopedic surgeon performed all of the procedures. Anesthetic technique consisted of general anesthesia combined with regional anesthesia (femoral nerve block, subarachnoid block, or lumbar epidural). Standard institutional anesthetic technique was followed.
+
+Two blood samples (3 ml each from the antecubital vein) and a synovial fluid sample (5 ml) were obtained from each patient. The first blood sample was collected preoperatively, during intravenous catheter placement. After induction of anesthesia, a tourniquet was applied to the operative thigh to limit blood loss and to ensure a dry operative field. The synovial fluid sample was aspirated from the knee joint after skin incision, and the second blood sample was collected 5 min after the thigh tourniquet was deflated. Blood samples were collected in BD Vacutainer K2 EDTA Plus Blood Collection Tubes (BD, Franklin Lakes, NJ, USA) and placed on ice until processed by the addition of the protease inhibitor aprotinin and centrifugation (1600×g, 4 °C, 15 min). The plasma supernatant was aliquoted into RNAse/DNAse-free tubes and stored at − 80 °C until assayed. Synovial fluid was collected, aliquoted, and stored at − 80 °C until assayed. The concentration of nociceptin in plasma and synovial fluid was quantified by fluorescent enzyme immunoassay using the nociceptin/orphanin FQ enzyme immunoassay kit from Phoenix Pharmaceuticals, Burlingame, CA, USA.
+
+Additional patient information, including patient age, gender, and body mass index was collected. Patient-reported pre- and postoperative pain was assessed using an eleven-point numerical rating scale (NRS) [17]. Preoperative pain was assessed on admission. Post-procedure pain was assessed as the first pain NRS score provided by the patient in the post-anesthesia recovery unit. The patient’s status according to the American Society of Anesthesiologists (ASA) Physical Status Classification System was recorded.
+
+Study data were collected and managed using REDCap (Research Electronic Data Capture) electronic data capture tools hosted at Penn State Health Milton S. Hershey Medical Center [18]. Data were analyzed using the SAS® software, version 9.4 (SAS Institute Inc., Cary, NC, USA). A linear mixed-effects model was developed to account for the repeated measurements and baseline covariates. Least squares (adjusted) means were derived from the model to compare the sample types and to compare subgroups, such as males versus females. p values less than 0.05 were considered statistically significant.
+
+Results
+Twenty-two patients with clinically diagnosed osteoarthritis were enrolled. Technical reasons prevented us from obtaining synovial fluid samples from two patients—they were excluded from the analysis. Demographic data for the patient population are shown in Table 1.
+Table 1 Patient demographic data
+
+	Male	Female	Total	
+n	8	12	20	
+Age (years)	61 ± 7	66 ± 7	64 ± 8	
+Weight (kg)	105 ± 21	87 ± 18	94 ± 21	
+Body mass index (kg/m2)	33 ± 7	33 ± 8	33 ± 7	
+ASA status	2.4 ± 0.7	2.7 ± 0.5	2.6 ± 0.6	
+Data are presented as mean ± standard deviation, or counts (n)
+
+
+
+Sixteen patients received general anesthesia plus ultrasound-guided femoral nerve blocks with a long-acting local anesthetic (7 males, 9 females). Three patients underwent the procedure with continuous lumbar epidural anesthesia combined with general anesthesia (2 females and 1 male). These three participants underwent bilateral total knee replacements. In these patients, synovial fluid samples were obtained from the first joint operated on only, and plasma samples were obtained after release of the first tourniquet. One female patient received subarachnoid anesthesia combined with general anesthesia, and had a femoral nerve block after the procedure. Nociceptin was detected in all plasma and synovial fluid samples (Table 2).
+Table 2 Nociceptin is present in synovial fluid and plasma
+
+	Pre-procedure (plasma)	Post-tourniquet release (plasma)	Synovial fluid	
+Nociceptin concentration (pg/ml)*	45.2 ± 24.3	40.1 ± 20.6	28.7 ± 18.2	
+Range (pg/ml)	7.5 to 120.7	9.0 to 104.0	5.2 to 123.6	
+*Data are presented as mean ± standard deviation
+
+
+
+The nociceptin concentration in synovial fluid (28.7 ± 18.2 pg/ml) was significantly lower than the nociceptin concentrations in plasma, both pre-procedure (p = 0.002) and post-tourniquet deflation (p = 0.016). The difference in nociceptin plasma concentrations pre-procedure and post-tourniquet deflation was not statistically significant (p = 0.34).
+
+There was no significant correlation between nociceptin levels and age (p = 0.12), body mass index (p = 0.23), preoperative pain scores (p = 0.53), or postoperative pain scores (p = 0.36). However, there was a significant correlation between nociceptin levels and gender (p = 0.012). The nociceptin concentration in plasma and synovial fluid was significantly higher in males than in females (Table 3).
+Table 3 Nociceptin concentrations in males versus females
+
+Sample	Male nociceptin concentration (pg/ml)*	Female nociceptin concentration (pg/ml)*	p value	
+Pre-procedure (plasma)	60.5 ± 16.0	47.5 ± 18.6	0.035	
+Post-tourniquet release (plasma)	55.7 ± 14.3	42.2 ± 16.7	0.016	
+Synovial fluid	48.3 ± 20.7	26.0 ± 9.4	0.0008	
+*Data are presented as mean ± standard deviation
+
+
+
+Discussion
+We demonstrated measurable levels of nociceptin in both the plasma and synovial fluid of osteoarthritis patients undergoing knee arthroplasty. The presence of this neuropeptide in synovial fluid suggests a role for this molecule either in the physiology of the joint or the pathophysiology of OA. This may have diagnostic as well as therapeutic implications for the diagnosis and management of OA, including disease modification.
+
+The detection of nociceptin in synovial fluid in our study is qualitatively similar to the results of Fiset et al. [11], although quantitatively we found nociceptin concentrations that were orders of magnitude lower. We detected nociceptin in plasma, while Fiset et al. did not detect nociceptin in autologous plasma samples. We used freshly harvested patient samples that were immediately processed and then analyzed within a few days to a few months, whereas Fiset et al. used banked synovial fluid and plasma samples. These differences may have contributed to the discrepancies noted. Our results for nociceptin concentrations in plasma are consistent with plasma nociceptin concentrations of 9.6 ± 2.6 pg/ml and 10.7 ± 5.6 pg/ml reported by Ertsey et al. and Ko et al., respectively, for healthy controls [19, 20]. Our results also contrast with the report of Kumar et al. [15], where nociceptin was not detected in synovial fluid; however, our processing and assay methods differed from those used in Kumar’s study.
+
+There was no control group. Our goal with this study was to determine if nociceptin was present or absent in synovial fluid, making a control group unnecessary. We did not obtain a synovial fluid sample from subjects’ contralateral knees as this was deemed an unacceptable risk to the patient.
+
+Given the exploratory nature of this pilot study consisting of only 20 subjects, one cannot place undue significance on results obtained when analyzing subgroups. However, the p value of 0.0008, for the difference in synovial fluid nociceptin concentration between males and females, suggests a difference that warrants further investigation. Abundant evidence indicates greater pain sensitivity among females compared with males [21]. Holtzman et al. reported that women were more likely to report severe pain and disability when presenting for total hip replacement surgery than their male counterparts [22]. Srikanth et al. showed that females tended to have more severe osteoarthritis in the knee compared to males [23]. More research is needed to clarify this possible association between lower levels of nociceptin in synovial fluid and increased osteoarthritis in females.
+
+In conclusion, nociceptin is present in the synovial fluid of patients undergoing primary knee arthroplasty. This implies a potential role for nociceptin in modulating inflammation in osteoarthritis.
+
+Abbreviations
+ASAAmerican Society of Anesthesiologists
+
+NOPNociceptin opioid receptor
+
+NRSNumerical rating scale
+
+OAOsteoarthritis
+
+REDCapResearch Electronic Data Capture
+
+TKATotal knee arthroplasty
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Acknowledgements
+Special thanks to Vernon Chinchilli, PhD, Distinguished Professor, Division of Biostatistics and Bioinformatics and Chair, Public Health Sciences, Penn State College of Medicine, for his statistical analysis; to Diane McCloskey, PhD, Research Specialist, Department of Anesthesiology & Perioperative Medicine, Penn State College of Medicine, for scientific editing and manuscript preparation; to Dr. Sonia Vaida, MD, as well as Dr. Dmitri Bezinover, MD, PhD, for their encouragement throughout the project; and to Victor Ruiz-Velasco, PhD, for his invaluable help during the submission process. We also want to thank Jonathan B. Derr, MS, MBA; Matthew J. McClain, MD; Alexander J. Skojec, MD; and Arissa M. Torrie, MD, MHS, for their contributions to this project.
+
+Authors’ contributions
+Study design: J.C., N.R.J., C.D., and T.A.V. Patient recruitment: J.C. and N.R.J. Data collection: J.C., N.R.J., C.D., and T.A.V. Data analysis: J.C. and T.A.V. Manuscript writing: J.C., N.R.J., C.D., and T.A.V. The authors read and approved the final manuscript.
+
+Funding
+This project was funded by the Department of Anesthesiology & Perioperative Medicine, Penn State Health Milton S. Hershey Medical Center. This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+Availability of data and materials
+The datasets generated and analyzed during the current study are available from the corresponding author on reasonable request.
+
+Ethics approval and consent to participate
+Institutional Review Board approval was received prior to initiation of the study (reference number 42679) and written informed consent was obtained from all participants.
+
+Consent for publication
+N/A
+
+Competing interests
+None of the authors report any conflict of interest.
+==== Refs
+References
+1. Pereira D  Peleteiro B  Araújo J  Branco J  Santos RA  Ramos E   The effect of osteoarthritis definition on prevalence and incidence estimates: a systematic review Osteoarthritis Cartilage 2011 19 1270 1285 10.1016/j.joca.2011.08.009 21907813 
+2. Woolf AD  Pfleger B   Burden of major musculoskeletal conditions Bull World Health Organ 2003 81 646 656 14710506 
+3. Hiligsmann M  Cooper C  Arden N    Health economics in the field of osteoarthritis: an expert’s consensus paper from the European Society for Clinical and Economic Aspects of Osteoporosis and Osteoarthritis (ESCEO) Semin Arthritis Rheum 2013 43 303 313 10.1016/j.semarthrit.2013.07.003 23992801 
+4. Glyn-Jones S  Palmer AJ  Agricola R    Osteoarthritis Lancet 2015 386 376 387 10.1016/S0140-6736(14)60802-3 25748615 
+5. Saberi Hosnijeh F  Bierma-Zeinstra SM  Bay-Jensen AC   Osteoarthritis year in review 2018: biomarkers (biochemical markers) Osteoarthritis Cartilage 2019 27 412 423 10.1016/j.joca.2018.12.002 30552966 
+6. David Clark J  Tawfik VL  Tajerian M  Kingery WS   Autoinflammatory and autoimmune contributions to complex regional pain syndrome Mol Pain 2018 14 1744806918799127 10.1177/1744806918799127 30124090 
+7. Fusco M  Skaper SD  Coaccioli S  Varrassi G  Paladini A   Degenerative joint diseases and neuroinflammation Pain Pract 2017 17 522 532 10.1111/papr.12551 28039964 
+8. Inoue M  Kobayashi M  Kozaki S  Zimmer A  Ueda H   Nociceptin/orphanin FQ-induced nociceptive responses through substance P release from peripheral nerve endings in mice Proc Natl Acad Sci U S A 1998 95 10949 10953 10.1073/pnas.95.18.10949 9724810 
+9. Helyes Z  Németh J  Pintér E  Szolcsányi J   Inhibition by nociceptin of neurogenic inflammation and the release of SP and CGRP from sensory nerve terminals Br J Pharmacol 1997 121 613 615 10.1038/sj.bjp.0701209 9208125 
+10. Meunier JC  Mollereau C  Toll L    Isolation and structure of the endogenous agonist of opioid receptor-like ORL1 receptor Nature 1995 377 532 535 10.1038/377532a0 7566152 
+11. Fiset ME  Gilbert C  Poubelle PE  Pouliot M   Human neutrophils as a source of nociceptin: a novel link between pain and inflammation Biochemistry 2003 42 10498 10505 10.1021/bi0300635 12950177 
+12. Mathis JP  Mandyam CD  Altememi GF  Pasternak GW  Standifer KM   Orphanin FQ/nociceptin and naloxone benzoylhydrazone activate distinct receptors in BE (2)-C human neuroblastoma cells Neurosci Lett 2001 299 173 176 10.1016/S0304-3940(01)01524-5 11165763 
+13. Mamiya T  Noda Y  Ren X    Morphine tolerance and dependence in the nociceptin receptor knockout mice J Neural Transm (Vienna) 2001 108 1349 1361 10.1007/s007020100012 11810400 
+14. Meunier JC   Utilizing functional genomics to identify new pain treatments : the example of nociceptin Am J Pharmacogenomics 2003 3 117 130 10.2165/00129785-200303020-00005 12749729 
+15. Kumar N  Smart D  Mason S  McKnight AT  Rowbotham DJ  Lambert DG   Neither nociceptin nor its receptor are present in human synovial fluid or tissue Br J Anaesth 1999 83 470 471 10.1093/bja/83.3.470 10655922 
+16. Kleideiter E  Piana C  Wang S  Nemeth R  Gautrois M   Clinical pharmacokinetic characteristics of cebranopadol, a novel first-in-class analgesic Clin Pharmacokinet 2018 57 31 50 10.1007/s40262-017-0545-1 28623508 
+17. Breivik H  Borchgrevink PC  Allen SM    Assessment of pain Br J Anaesth 2008 101 17 24 10.1093/bja/aen103 18487245 
+18. Harris PA  Taylor R  Thielke R  Payne J  Gonzalez N  Conde JG   Research electronic data capture (REDCap)--a metadata-driven methodology and workflow process for providing translational research informatics support Journal of biomedical informatics 2009 42 377 381 10.1016/j.jbi.2008.08.010 18929686 
+19. Ertsey C  Hantos M  Bozsik G  Tekes K   Circulating nociceptin levels during the cluster headache period Cephalalgia 2004 24 280 283 10.1111/j.1468-2982.2004.00664.x 15030536 
+20. Ko MH  Kim YH  Woo RS  Kim KW   Quantitative analysis of nociceptin in blood of patients with acute and chronic pain Neuroreport 2002 13 1631 1633 10.1097/00001756-200209160-00012 12352616 
+21. Fillingim RB  King CD  Ribeiro-Dasilva MC  Rahim-Williams B  Riley JL 3rd   Sex, gender, and pain: a review of recent clinical and experimental findings J Pain 2009 10 447 485 10.1016/j.jpain.2008.12.001 19411059 
+22. Holtzman J  Saleh K  Kane R   Gender differences in functional status and pain in a Medicare population undergoing elective total hip arthroplasty Med Care 2002 40 461 470 10.1097/00005650-200206000-00003 12021672 
+23. Srikanth VK  Fryer JL  Zhai G  Winzenberg TM  Hosmer D  Jones G   A meta-analysis of sex differences prevalence, incidence and severity of osteoarthritis Osteoarthritis Cartilage 2005 13 769 781 10.1016/j.joca.2005.04.014 15978850
+

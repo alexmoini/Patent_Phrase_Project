@@ -1,0 +1,279 @@
+
+==== Front
+BMC GeriatrBMC GeriatrBMC Geriatrics1471-2318BioMed Central London 99010.1186/s12877-018-0990-1Research ArticleRisk factors of opioid-induced adverse reactions in elderly male outpatients of Korea Veterans Hospital Kim Ji Young jy8099@bohun.or.kr 12Kim Joo Hee elisekim@ajou.ac.kr 34Yee Jeong jjjhello1@naver.com 3Song Soo Jin jesusc705@hanmail.net 12http://orcid.org/0000-0003-0278-2563Gwak Hye Sun +82-2-3277-4376hsgwak@ewha.ac.kr 131 0000 0001 2171 7754grid.255649.9Graduate School of Converging Clinical & Public Health, Ewha Womans University, Seoul, 03760 South Korea 2 Department of Pharmacy, Korea Veterans Hospital, Seoul, 05368 South Korea 3 0000 0001 2171 7754grid.255649.9College of Pharmacy & Division of Life and Pharmaceutical Sciences, Ewha Womans University, 52 Ewhayeodae-gil Seodaemun-gu, Seoul, 03760 Republic of Korea 4 0000 0004 0532 3933grid.251916.8College of Pharmacy & Institute of Pharmaceutical Science and Technology, Ajou University, Suwon-si, 16499 South Korea 29 11 2018 29 11 2018 2018 18 29321 2 2018 21 11 2018 © The Author(s). 2018Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Background
+Risk factors associated with opioid-induced adverse reactions (OIARs) in the elderly population have not been well defined. The objective of this study was to determine effects of various risk factors on incidence of OIARs in male elderly patients.
+
+Methods
+A retrospective cohort study in Korea Veterans Hospital was performed. Data were analyzed in male patients aged 65 years and older who received morphine, oxycodone, or codeine. Binomial variables describing patient-related and drug-related characteristics were constructed. Associations between these variables and frequency of OIARs were determined. Odds ratio (OR) and adjusted odds ratio (AOR) were calculated from univariate and multivariable analyses, respectively. Attributable risk was obtained by (1–1/OR)*100%.
+
+Results
+Of 316 patients, 28% experienced at least one adverse event. The most common adverse events were gastrointestinal problems (n = 59) and central nerve system adverse effects (n = 20). The odds of OIARs in patients with opioid use ≥12 weeks was increased by 80% compared to those with opioid use < 12 weeks. Attributable risk of GABA analogues was 64~78% in constructed Models. Compared to codeine users, patients using morphine and oxycodone had 653 and 473% increased odds for OIARs, respectively. MME ≥ 60 mg/day had a 317% increased odds for OIARs (95% CI: 1.92–9.04) compared to MME < 60 mg/day. Opioid combination therapy had a 139% increased odds for OIARs compared to monotherapy.
+
+Conclusions
+These findings have significant implications for clinical use of opioid in elderly patients. Our study suggests that low dose short-term use will pose less risk of OIARs for the elderly, whereas concomitant use of GABA analogues, strong opioids and dual-opioid therapy may increase the risk of OIARs. Therefore, clinician should carefully monitor patients when starting opioid therapy in older population.
+
+Keywords
+OpioidAdverse drug reactionsMale elderly patientsissue-copyright-statement© The Author(s) 2018
+==== Body
+Background
+Over the past 20 years, therapeutic use of opioids for both cancer and non-cancer pain has increased dramatically in developed countries [1, 2]. In many countries, opioids are now being introduced at earlier stages and used in higher doses in palliative care [3]. Global opioid consumption levels have also increased, especially in high income countries and regions including North America, Australia, New Zealand, and several western European countries. Consumption of opioids in these countries accounts for more than 90% of global use [4]. Starting from 5 mg morphine per capita use in 1980, global opioid consumption has increased to around 25 mg in 2015 [5]. Opioid use in the Republic of Korea has increased almost 7-fold between 1980 and 2015. Its consumption levels have exceeded levels reported in Japan.
+
+In parallel with increased opioid dosages and patient access to opioids, there is an increasing concern about their adverse effects among health care providers, in addition to misuse and addiction problems. Opioid-induced adverse reactions (OIARs) are well-known. They may not differ between younger adults and older adults. However, some OIARs stemming from drug interactions are more specific to older adults considering their high incidence of polypharmacy [6]. More pronounced effects may also be seen in the elderly who are taking opioid drugs. For example, elderly patients are more likely to experience cognitive impairment and fall injuries when they are exposed to opioids and other centrally acting drugs. Although adverse events such as nausea, constipation, and bladder dysfunction are not life-threatening, they are more bothersome in older adults. They can lead to prompt discontinuation of the drug [7].
+
+The extent and nature of OIARs depend on many factors. Previous studies have assessed the association between patient-factors (age, sex, and race) and incidence of some OIARs with short-term use in adults [8]. However, evidence regarding safety of opioid therapy in the elderly population is insufficient, and the studies that guide specific recommendations on opioid therapy in this age group are sparse. There are also the findings in the literature suggesting that chronic pain in the elderly population is often undertreated because of fear of OIARs [9]. Better understanding of risk factors associated with OIARs among the elderly could provide safer and more effective pain management.
+
+Therefore, the objective of this cohort study was to focus on the elderly population and investigate patient-related and drug-related risk factors for OIARs with short-term and long-term use. The association between respective risk factors and commonly encountered OIARs such as gastrointestinal (GI) and central nerve system (CNS) adverse reactions was also analyzed.
+
+Methods
+Study population
+This study is a retrospective study which was conducted at Korea Veterans Hospital, a 1400-bed hospital in Seoul, between January 2012 and December 2012. In this hospital, people ≥65 years of age comprise the majority (about 70% of over 4000 patients per year) of the patients and opioid initiations are common among veterans with chronic pain. All ambulatory patients with the following characteristics were included: 1) was administered with a single component oral opioid (codeine phosphate, morphine sulfate, or oxycodone hydrochloride) for at least a day between January 1, 2012 and December 31, 2012, 2) were at least 65 years of age when their first opioid was prescribed. In our study period, opioids were prescribed for several clinical symptoms such as cancer pain as well as non-cancer pain including various types of neuropathic pain. The departments from which opioids were prescribed were as follow: pain management clinic, internal medicine, family medicine, respiratory medicine, thoracic surgery, orthopedic surgery, otorhinolaryngology, hematology and oncology. From patients whose data were complete for analysis, we excluded female patients because the sample proportion for females was insufficient to analyze gender interactions on the effects of interest [10]. Patient whose opioids were frequently switched were also excluded since it is ambiguous as to which opioid group such patients should be placed in. This study was approved by the Institutional Review Board (IRB # BOHUN 2017–10-005).
+
+Data collection
+Baseline patient characteristics collected from electronic medical records included age, weight, height, body mass index (BMI), alcohol consumption, smoking, underlying diseases, indication of opioid use, opioid type and maintenance doses, duration of opioid therapy, previous experience of opioid use, concomitant drug use, opioid combination therapy, and OIARs.
+
+Only the opioid use from the first visit during our study period (year 2012) was included. Cumulative dose (expressed in MME (morphine milligram equivalents)) was calculated by using conversion factors of 0.15 for codeine and 1.5 for oxycodone. Duration of opioid therapy (defined as continuous use of opioids with a gap of no greater than 30 days) was divided into two groups based on 12 weeks according to Langzeitanwendung von Opioiden bei nicht tumorbedingten Schmerzen (LONTS) Guideline.
+
+Previous experience of opioid use was defined as opioid use in the year before their first opioid prescription in 2012. Concomitant drugs during opioid use included tramadol, fentanyl patch, benzodiazepines (alprazolam, chlordiazepoxide, clobazam, clonazepam, diazepam, flurazepam, lorazepam, midazolam, and triazolam), amitriptyline, and gamma-aminobutyric acid (GABA) analogues (gabapentin and pregabalin).
+
+Outcome measures
+The primary outcome was to estimate the OIARs in association with baseline and clinical variables. OIAR was defined as the presence of one or more events among GI problems (e.g. constipation, nausea, vomiting and abdominal pain), dizziness, drowsiness, urinary retention, skin rash, respiratory depression, and other symptoms within 4 weeks of opioid prescription. Secondary outcomes were consisted of GI (GI problems) and CNS (dizziness and drowsiness) OIARs.
+
+Statistical analysis
+Chi-squared test or Fisher’s exact test was used to compare categorical variables between patients with OIARs and those without OIARs and unpaired t test were used for continuous variables. Multivariable logistic regression analysis was used to identify independent risk factors for OIARs. The reference group for opioid type in statistical models was defined as codeine, which is less potent than morphine and oxycodone. Factors having p-values < 0.05 from univariate analysis along with a strong confounder of age (if necessary) were included in multivariable analysis and listwise deletion was used for missing values. Variance inflation factor (VIF) was calculated to evaluate multicollinearity using “Allison’s criteria (VIF>2.5)” [11]. Attributable risk was calculated by (1–1/OR)*100%. P values less than 0.05 were considered statistically significant. All statistical analyses were carried out using the Statistical Package for Social Sciences (SPSS), version 20.0 for Windows (SPSS Inc., Chicago, IL, USA).
+
+Results
+A total of 332 patients were prescribed in the outpatient clinic during the study period. Twelve patients were excluded, including three female subjects (0.9%) and nine subjects (2.7%) with frequent switch of opioids. Accordingly, data from 316 patients who took opioids were used for final analysis. Indications of opioid use were cancer pain (n = 81), dyspnea (n = 61), back pain (n = 52), neuropathy (n = 52), post-surgery pain (n = 6), traumatic pain (n = 5), and other pains (n = 59, including leg pain, intermittent claudication, shoulder pain, knee pain, and chest pain). OIARs included GI problems (n = 59), dizziness and drowsiness (n = 20), urinary retention (n = 7), skin rash (n = 5), respiratory depression (n = 2), and others (n = 31, including sweating, blurred vision, appetite loss, headache, and accommodation disturbance).
+
+As shown in Table 1, the frequency of OIARs was 28.2%. Patients’ mean age was 70.9 ± 5.1 years. A total of 131 (41.5%) patients were ≥ 70 years of age. More than 40% of patients were obese (BMI ≥ 25 kg/m2). Frequencies of alcohol intake and smoking were 95 (32.3%) and 72 (24.2%), respectively. Drugs concurrently administered with opioids included tramadol or fentanyl patch (n = 143), benzodiazepines (n = 92), amitriptyline (n = 87), and GABA analogues (n = 160). Various opioids were used, including oxycodone (n = 111), codeine (n = 94), and morphine (n = 78).Table 1 Demographic characteristics of the study population
+
+Characteristics	No (%)	Adverse reaction No (%)	P	
+Presence (n = 89)	Absence (n = 227)	
+Age (years)	
+  < 70	185 (58.5)	52 (58.4)	133 (58.6)	0.979	
+  ≥ 70	131 (41.5)	37 (41.6)	94 (41.4)		
+ Mean ± S.D.	70.8 ± 5.6	70.3 ± 5.0	71.0 ± 5.8	0.327	
+Weight (kg)a	
+  < 65	141 (49.5)	40 (47.1)	101 (50.5)	0.595	
+  ≥ 65	144 (50.5)	45 (52.9)	99 (49.5)		
+Mean ± S.D.	65.8 ± 10.8	66.5 ± 11.2	65.5 ± 10.6	0.467	
+Height (cm)a	
+  < 165	138 (48.4)	40 (47.1)	98 (49.0)	0.764	
+  ≥ 165	147 (51.6)	45 (52.9)	102 (51.0)		
+ Mean ± S.D.	164.9 ± 5.5	165.4 ± 5.3	164.7 ± 5.6	0.351	
+BMI (kg/m2)a	
+  < 25	169 (59.3)	53 (62.4)	116 (58.0)	0.494	
+  ≥ 25	116 (40.7)	32 (37.6)	84 (42.0)		
+ Mean ± S.D.	24.2 ± 3.6	24.3 ± 3.8	24.1 ± 3.5	0.690	
+Alcoholb				0.498	
+ Yes	95 (32.3)	25 (29.4)	70 (33.5)		
+ No	199 (67.7)	60 (70.6)	139 (66.5)		
+Smokingc				0.181	
+ Yes	72 (24.2)	25 (29.4)	47 (22.1)		
+ No	226 (75.8)	60 (70.6)	166 (77.9)		
+Cardiovascular disease				0.369	
+ Yes	245 (77.5)	72 (80.9)	173 (76.2)		
+ No	71 (22.5)	17 (19.1)	54 (23.8)		
+Diabetes mellitus				0.036	
+ Yes	127 (40.2)	44 (49.4)	83 (36.6)		
+ No	189 (59.8)	45 (50.6)	144 (63.4)		
+Hepatic disease				0.205	
+ Yes	38 (12.0)	14 (15.7)	24 (10.6)		
+ No	278 (88.0)	75 (84.3)	203 (89.4)		
+Renal disease				0.814	
+ Yes	30 (9.5)	9 (10.1)	21 (9.3)		
+ No	286 (90.5)	80 (89.9)	206 (90.7)		
+Duration of opioid use				< 0.001	
+  < 12 weeks	195 (61.7)	42 (47.2)	153 (67.4)		
+  ≥ 12 weeks	121 (38.3)	47 (52.8)	74 (32.6)		
+Previous opioid use				0.088	
+ Yes	193 (61.1)	61 (68.5)	132 (58.1)		
+ No	123 (38.9)	28 (31.5)	95 (41.9)		
+Opioid combination				0.020	
+ Yes	33 (10.4)	15 (16.9)	18 (7.9)		
+ No	283 (89.6)	74 (83.1)	209 (92.1)		
+Tramadol or fentanyl*				0.494	
+ Yes	143 (45.3)	43 (48.3)	100 (44.1)		
+ No	173 (54.7)	46 (51.7)	127 (55.9)		
+Benzodiazepine				0.012	
+ Yes	92 (29.1)	35 (39.3)	57 (25.1)		
+ No	224 (70.9)	54 (60.7)	170 (74.9)		
+Amitriptyline				0.208	
+ Yes	87 (27.5)	29 (32.6)	58 (25.6)		
+ No	229 (72.5)	60 (67.4)	169 (74.4)		
+GABA analogue				< 0.001	
+ Yes	160 (50.6)	67 (75.3)	93 (41.0)		
+ No	156 (49.4)	22 (24.7)	134 (59.0)		
+Opioid typed				< 0.001	
+ Codeine	94 (33.2)	5 (6.8)	89 (42.6)		
+ Oxycodone	111 (39.2)	35 (47.3)	76 (36.4)		
+ Morphine	78 (27.6)	34 (45.9)	44 (21.1)		
+MME	
+  < 60	107 (33.9)	9 (10.1)	98 (43.2)	< 0.001	
+  ≥ 60	209 (66.1)	80 (89.9)	129 (56.8)		
+ Mean ± S.D.	98.7 ± 145.8	131.1 ± 104.2	85.9 ± 157.5	0.013	
+*fentanyl patch. BMI body mass index, MME morphine milligram equivalent
+
+a31 missing data for weight, height, and BMI
+
+b22 missing data for alcohol consumption
+
+c18 missing data for smoking
+
+dMonotherapy only
+
+
+
+Presence of diabetes mellitus (DM), duration of opioid therapy, benzodiazepine use, GABA analogue use, opioid type, opioid combination therapy, and MME were significant factors of OIARs in univariate analysis (Tables 1 and 2). To analyze the respective effect of single opioid type and combination therapy on adverse reactions, two separate models were constructed for multivariable analysis. Model I included age, DM, duration, benzodiazepine, GABA analogue, and opioid type, while Model II included combination therapy instead of opioid type. Since there was multicollinearity between opioid type and MME, Model III was additionally constructed by including MME instead of opioid type of Model I. VIF values for morphine, oxycodone, and MME ≥ 60 were 6.18, 6.38, and 6.00, respectively.Table 2 Univariate and multivariable regression analyses to identify predictors of opioid-induced adverse reactions
+
+Characteristics	Unadjusted OR (95% CI)	Model I	Model II	Model III	
+Adjusted OR (95% CI)	Attributable risk	Adjusted OR (95% CI)	Attributable risk	Adjusted OR (95% CI)	Attributable risk	
+Age ≥ 70	1.01 (0.61–1.66)							
+Diabetes mellitus	1.70 (1.03–2.78)*							
+Duration ≥12 weeks	2.31 (1.40–3.82)**	1.79 (0.99–3.24)		1.81 (1.05–3.14)*	44.9	1.80 (1.05–3.08)*	44.3	
+Benzodiazepine	1.93 (1.15–3.25)*							
+GABA analogue	4.39 (2.53–7.60)***	2.80 (1.42–5.54)**	64.3	4.55 (2.57–8.05)***	78.0	2.98 (1.66–5.33)***	66.4	
+Oxycodonea	8.20 (3.06–21.97)***	5.73 (2.08–15.77)***	82.6					
+Morphinea	13.75 (5.03–37.61)***	7.53 (2.60–21.86)***	86.7					
+Combination therapy	2.35 (1.13–4.91)*			2.39 (1.03–5.53)*	58.1			
+MME ≥ 60	6.75 (3.23–14.12)***					4.17 (1.92–9.04)***	76.0	
+For model I, age, diabetes, duration, benzodiazepine, GABA analogue, and opioid type were included for analysis. For model II, age, diabetes, duration, benzodiazepine, GABA analogue, and opioid combination therapy were included for analysis. For model III, age, diabetes, duration, benzodiazepine, GABA analogue, and morphine equivalent dose were included for analysis
+
+aCompared to codeine. MME morphine milligram equivalent
+
+*P < 0.05, **P < 0.01, ***P < 0.001
+
+
+
+Multivariable analysis showed that duration of opioid use, concomitant use of GABA analogue, opioid type, opioid combination therapy, and MME were significant factors of OIARs after controlling variables with P value of less than 0.05. Patients with opioid use ≥12 weeks had a 79% increased odds of OIAR compared to those with opioid use < 12 weeks (OR = 1.79). Attributable risk of GABA analogues was 64~78% in constructed Models. Compared to codeine (the least potent) users, patients using morphine and oxycodone had 653 and 473% increased odds of OIAR, respectively. MME ≥ 60 mg/day showed a 317% increased odds (OR = 4.17, 95% CI: 1.92–9.04) of OIAR compared to MME < 60 mg/day. Opioid combination therapy had a 139% increased odds of OIAR compared to monotherapy.
+
+In analysis of GI AR (Table 3), similar results to those described above were obtained. Duration of opioid therapy ≥12 weeks (AOR: 2.00), GABA analogue (AOR: 2.67–3.92), morphine (AOR: 5.31, 95% CI: 1.60–17.59) or oxycodone use (AOR: 3.75, 95% CI: 1.20–11.72), and MME (AOR: 3.38, 95% CI: 1.34–8.52) were significant factors of GI and urinary AR after adjusting for confounders.Table 3 Univariate and multivariable regression analyses to identify predictors of opioid-induced gastrointestinal adverse reactions
+
+Characteristics	Unadjusted OR (95% CI)	Model I	Model II	Model III	
+Adjusted OR (95% CI)	Attributable risk	Adjusted OR (95% CI)	Attributable risk	Adjusted OR (95% CI)	Attributable risk	
+Age ≥ 70	1.00 (0.56–1.78)							
+Diabetes mellitus	1.78 (1.00–3.16)*							
+Duration ≥12 weeks	2.55 (1.43–4.55)**	2.00 (1.03–3.88)*	49.9	1.98 (1.06–3.71)*	49.5	2.03 (1.10–3.72)*	50.6	
+GABA analogue	3.85 (2.01–7.37)***	2.14 (0.97–4.75)		3.92 (2.00–7.67)***	74.5	2.67 (1.35–5.30)**	62.5	
+Oxycodonea	5.25 (1.73–15.91)**	3.75 (1.20–11.72)*	73.3					
+Morphinea	8.84 (2.89–26.99)***	5.31 (1.60–17.59)**	81.2					
+Combination therapy	2.51 (1.14–5.52)*			2.33 (0.96–5.64)				
+MME ≥ 60	5.58 (2.31–13.46)***					3.38 (1.34–8.52)*	70.4	
+For model I, age, diabetes, duration, GABA analogue, and opioid type were included for analysis. For model II, age, diabetes, duration, GABA analogue, and opioid combination therapy were included for analysis. For model III, age, diabetes, duration, GABA analogue, and morphine equivalent dose were included for analysis
+
+aCompared to codeine. MME morphine milligram equivalent
+
+*P < 0.05, **P < 0.01, ***P < 0.001
+
+
+
+In the case of CNS AR (Table 4), GABA analogue was the only significant factor in multivariable analysis. The attributable risk of concomitant use of GABA analogues was 85~90%.Table 4 Univariate and multivariable regression analyses to identify predictors of opioid-induced central verve system adverse reactions
+
+Characteristics	Unadjusted OR (95% CI)	Model I	Model II	
+Adjusted OR (95% CI)	Attributable risk	Adjusted OR (95% CI)	Attributable risk	
+GABA analogue	9.76 (2.23–42.82)**	9.81 (2.23–43.09)**	89.8	6.53 (1.45–29.43)*	84.7	
+Morphinea	2.79 (1.12–6.97)*					
+MME ≥ 60	10.60 (1.40–80.30)*			5.96 (0.76–46.97)		
+For model I, GABA analogue, and morphine were included for analysis. For model II, GABA analogue, and morphine equivalent dose were included for analysis. MME morphine milligram equivalent
+
+aCompared to codeine and oxycodone
+
+*P < 0.05, **P < 0.01
+
+
+
+Discussion
+Both short-term and long-term use of opioids is commonly associated with multiple adverse effects [12]. Across studies, up to 80% of patients experience at least one adverse event. The most common adverse events are GI and CNS adverse effects [13]. In our study population, approximately 28% of patients had at least one adverse effect. The most common adverse effects were GI and CNS problems.
+
+Opioid-induced bowel dysfunction (OIBD) is a well-known and frequent event, with estimated prevalence of 15 to 90% based on a recent systematic review [14]. Our study revealed that 59 (19%) of 316 patients reported GI problems. This prevalence was relatively low. This wide variation in frequency of OIBD can be attributed to heterogeneity of study design and population, including differences in age, gender, underlying pathology, perception of constipation, and definition of constipation. Particularly, a higher rate of constipation (90%) was reported in the study including transdermal fentanyl and sustained release oral morphine compared to the one including ‘weak’ opioids such as codeine. One third (33%) of our study patients were codeine users.
+
+One of the main findings of our study was that concomitant use of GABA analogue such as pregabalin and gabapentin increased the odds of OIARs by 180~355%. It increased the odds of CNS adverse events by 553~881%. This result suggests that close monitoring for potential risks of OIARs with co-prescribing GABA analogues is warranted. Until recently, gabapentin and pregabalin have been considered to have a low profile of drug interactions. They have been used as adjunctive drugs to opioids for clinical management of neuropathic and chronic pain [15]. Notably, after analyzing the safety in synthesized randomized trials, it has been revealed that a combination of opioid and gabapentin can cause more frequent side effect-related trial dropouts compared to gabapentin alone [16]. More and more gabapentin prescriptions are prescribed. Therefore, caution is needed.
+
+More than half of our study patients received co-prescription of opioids with GABA analogues. In comparison, a combination of opioids with other CNS depressants such as benzodiazepines and amitriptyline was used in less than one third of our patients. This might be because their additive effects on sedation have been well recognized. The American Geriatrics Society (AGS) has been emphasizing adverse drug interactions between opioids and CNS active drugs including benzodiazepines and tricyclic antidepressants [17]. Reported data of opioid prescription-related deaths have also drawn increasing alarm. The use of benzodiazepine has been frequently cited as a contributing factor [18].
+
+Potential harms and benefits of dual-opioid therapy are under increasing discussion. In our study, administration of opioid combination increased the odds of both all OIARs and GI AR by 130% compared to monotherapy. There are controversial issues in terms of efficacy and safety of morphine-oxycodone combination for both acute and chronic pain [19]. At the moment, information is still new. Therefore, adverse effects of opioid combination therapy should be closely monitored as data regarding dosing schedule or dose levels of optimal combination in elderly population are poorly available.
+
+Although less pronounced, the frequency of all OIARs and GI adverse events in our patients was increased with long-term therapy (12 weeks and over). In addition, MME over 60 mg resulted in attributable risk of 76 and 70% in all OIARs and GI adverse events, respectively. Recent studies have also shown that higher opioid dose is associated with the risk of OIARs such as fractures, depression, opioid overdose, and misuse [20]. One study on adults aged over 60 years has found that patients taking opioids at doses of MME over 50 mg have a two-fold increase in fracture risk. More than one third of these subjects were associated with inpatient care [21]. There is a lack of evidence to prove that benefits will outweigh potential harm when opioids are given long-term, especially for high-risk group [22]. According to a new study, long-term use of opioids (12 weeks and over) is associated with worse functional status, including inability to work. Adverse events such as depression, opioid dependence, and overdose were also more common in those taking opioids long-term compared to those who had short-term use [23].
+
+A couple of reviews have been performed to address whether one opioid is superior to another with respect to tolerability. It has been claimed there are no differences in the incidence of adverse effects between morphine and meperidine [24]. Other authors have found that, at equi-analgesic doses, patients who receive meperidine have lower incidence of nausea and vomiting compared to those who receive morphine [8]. Our study has found that strong opioids (morphine and oxycodone) are associated with higher risk of all OIARs and GI problems compared to codeine. Due to co-linearity between potency of opioid and opioid dose, patterns of association between these factors and the risk of OIARs have shown to be consistent in statistical models. Risks of OIARs in patients receiving strong opioids were high probably because they were taking high dose.
+
+Our study has several limitations. Since our dataset solely came from adverse events detected by chart review, rates of OIARs appeared to be lower compared to those by incident reporting or controlled trials [25]. Moreover, elderly patients tend not to report symptoms of OIARs which often cannot be differentiated from age-related issues. Another limitation was that our study was limited to a population of patients eligible for Veterans benefit program. Most of them were male individuals with chronic illness. In our study, female patients were not included in analysis because the sex ratio of the study population is extremely uneven and sex differences in OIARs were reported in previous literature [26–29]. About 78 and 40% of our study population had cardiovascular disease and diabetes, respectively. Therefore, our findings may not be applicable to the general population of opioid users.
+
+Nevertheless, our findings have important clinical implications. Due to pharmacokinetic and pharmacodynamic differences compared to younger patients, elderly patients may have an increased risk of OIARs. Also, older patients exhibit a higher likelihood of polypharmacy and drug-drug interactions with opioids.
+
+Conclusions
+Our data suggest that concomitant use of GABA analogue, strong opioids, and dual-opioid therapy may increase the risk of OIARs in the elderly. Low dose short-term use showed less risk of OIARs in our study population. Therefore, it is recommended that opioids be prescribed at the lowest effective dose to minimize OIARs, and clinician should carefully monitor patients when starting opioid therapy in older population.
+
+Abbreviations
+AORAdjusted odds ratio
+
+BMIBody mass index
+
+CNSCentral nerve system
+
+DMDiabetes mellitus
+
+GABAGamma-aminobutyric acid
+
+GIGastrointestinal
+
+MMEsMorphine milligram equivalents
+
+OIARsOpioid-induced adverse reactions
+
+OROdds ratio
+
+Acknowledgements
+Not applicable.
+
+Funding
+There is no funding source to disclose.
+
+Availability of data and materials
+Data are available on request. Data available will be anonymous.
+
+Authors’ contributions
+JYK, JHK, and HSG made substantial contributions to conception and design of study. JYK, JY, and SJS made acquisition and analysis of data. JHK, JY, and HSG made an interpretation of data. JYK, JHK, and HSG have been involved in drafting and revising the manuscript. All authors read and approved the final manuscript.
+
+Ethics approval and consent to participate
+This study was approved by the Bohun Hospital Institutional Review Board (IRB # BOHUN 2017–10-005). Informed consent was waived due to the retrospective study. Permission was not required to access the medical records analyzed in this study.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+==== Refs
+References
+1. Häuser W  Schug S  Furlan AD   The opioid epidemic and national guidelines for opioid therapy for chronic noncancer pain: a perspective from different continents Pain Rep 2017 2 e599 10.1097/PR9.0000000000000599 29392214 
+2. O’Brien T   Cancer pain and opioid use—a global issue QJM 2013 106 603 605 10.1093/qjmed/hct080 23564652 
+3. Vielhaber A  Portenoy RK   Advances in cancer pain management Hematol Oncol Clin North Am 2002 16 527 541 10.1016/S0889-8588(02)00016-3 12170566 
+4. Berterame S  Erthal J  Thomas J  Fellner S  Vosse B  Clare P    Use of and barriers to access to opioid analgesics: a worldwide, regional, and national study Lancet 2016 387 1644 1656 10.1016/S0140-6736(16)00161-6 26852264 
+5. Narcotic Drugs  Estimated world requirements for 2017-statistics for 2015 2017 New York NY 
+6. Naples JG  Gellad WF  Hanlon JT   The role of opioid analgesics in geriatric pain management Clin Geriatr Med 2016 32 725 735 10.1016/j.cger.2016.06.006 27741966 
+7. Chau DL  Walker V  Pai L  Cho LM   Opiates and elderly: use and side effects Clin Interv Aging 2008 3 273 278 10.2147/CIA.S1847 18686750 
+8. Cepeda MS  Farrar JT  Baumgarten M  Boston R  Carr DB  Strom BL   Side effects of opioids during short-term administration: effect of age, gender, and race Clin Pharmacol Ther 2003 74 102 112 10.1016/S0009-9236(03)00152-8 12891220 
+9. Rastogi R  Meek BD   Management of chronic pain in elderly, frail patients: finding a suitable, personalized method of control Clin Interv Aging 2013 8 37 46 10.2147/CIA.S30165 23355774 
+10. Fillingim RB  Ness TJ  Glover TL  Campbell CM  Hastie BA  Price DD    Morphine responses and experimental pain: sex differences in side effects and cardiovascular responses but not analgesia J Pain 2005 6 116 124 10.1016/j.jpain.2004.11.005 15694878 
+11. Allison PD. Logistic regression using the SAS system: Theory Application: Cary, SAS Institute; 1999.
+12. Baldini A  Von Korff M  Lin EH   A review of potential adverse effects of long-term opioid therapy: a practitioner’s guide Prim Care Companion CNS Disord 2012 14 3 
+13. Kalso E  Edwards JE  Moore RA  McQuay HJ   Opioids in chronic non-cancer pain: systematic review of efficacy and safety Pain 2004 112 372 380 10.1016/j.pain.2004.09.019 15561393 
+14. Panchal SJ  Müller-Schwefe P  Wurzelmann JI   Opioid-induced bowel dysfunction: prevalence, pathophysiology and burden Int J Clin Pract 2007 61 1181 1187 10.1111/j.1742-1241.2007.01415.x 17488292 
+15. Quintero GC   Review about gabapentin misuse, interactions, contraindications and side effects J Exp Pharmacol 2017 9 13 21 10.2147/JEP.S124391 28223849 
+16. Chaparro LE  Wiffen PJ  Moore RA  Gilron I   Combination pharmacotherapy for the treatment of neuropathic pain in adults Cochrane Database Syst Rev 2012 11 CD008943 
+17. American Geriatrics Society  Updated beers criteria for potentially inappropriate medication use in older adults J Am Geriatr Soc 2015 63 2227 2246 10.1111/jgs.13702 26446832 
+18. Bachhuber MA  Hennessy S  Cunningham CO  Starrels JL   Increasing benzodiazepine prescriptions and overdose mortality in the United States, 1996–2013 Am J Public Health 2016 106 686 688 10.2105/AJPH.2016.303061 26890165 
+19. Mercadante S   Efficacy and safety of dual opioid therapy Expert Opin Drug Saf 2014 13 1433 1436 10.1517/14740338.2014.966077 25263781 
+20. Von Korff MR   Long-term use of opioids for complex chronic pain Best Pract Res Clin Rheumatol 2013 27 663 672 10.1016/j.berh.2013.09.011 24315147 
+21. Saunders KW  Dunn KM  Merrill JO  Sullivan M  Weisner C  Braden JB    Relationship of opioid use and dosage levels to fractures in older chronic pain patients J Gen Intern Med 2010 25 310 315 10.1007/s11606-009-1218-z 20049546 
+22. Chou R  Turner JA  Devine EB  Hansen RN  Sullivan SD  Blazina I    The effectiveness and risks of long-term opioid therapy for chronic pain: a systematic review for a national institutes of health pathways to prevention workshop Ann Intern Med 2015 162 276 286 10.7326/M14-2559 25581257 
+23. Hoffman E  Watson JC  St Sauver J  Staff NP Klein CJ   Association of long-term opioid therapy with functional status, adverse outcomes, and mortality among patients with polyneuropathy JAMA Neurol 2017 74 773 779 10.1001/jamaneurol.2017.0486 28531306 
+24. Woodhouse A  Hobbes AF  Mather LE  Gibson M   A comparison of morphine, pethidine and fentanyl in the postsurgical patient-controlled analgesia environment Pain 1996 64 115 121 10.1016/0304-3959(95)00082-8 8867253 
+25. Jha AK  Kuperman GJ  Teich JM  Leape L  Shea B  Rittenberg E    Identifying adverse drug events: development of a computer-based monitor and comparison with chart review and stimulated voluntary report J Am Med Inform Assoc 1998 5 305 314 10.1136/jamia.1998.0050305 9609500 
+26. Fillingim RB  Gear RW   Sex differences in opioid analgesia: clinical and experimental findings Eur J Pain 2004 8 413 425 10.1016/j.ejpain.2004.01.007 15324773 
+27. Daoust R  Paquet J  Lavigne G  Piette É  Chauny JM   Impact of age, sex and route of administration on adverse events after opioid treatment in the emergency department: a retrospective study Pain Res Manag 2015 20 23 28 10.1155/2015/316275 25664538 
+28. Bijur PE  Esses D  Birnbaum A  Chang AK  Schechter C  Gallagher EJ   Response to morphine in male and female patients: analgesia and adverse events Clin J Pain 2008 24 192 198 10.1097/AJP.0b013e31815d3619 18287823 
+29. Mercadante S  Casuccio A  Pumo S  Fulfaro F   Factors influencing the opioid response in advanced cancer patients with pain followed at home: the effects of age and gender Support Care Cancer 2000 8 123 130 10.1007/s005200050026 10739359
+

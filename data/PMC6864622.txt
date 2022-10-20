@@ -1,0 +1,281 @@
+
+==== Front
+MoleculesMoleculesmoleculesMolecules1420-3049MDPI 10.3390/molecules24213916molecules-24-03916ArticleAppraisal of Comparative Therapeutic Potential of Undoped and Nitrogen-Doped Titanium Dioxide Nanoparticles Ahmad Muhammad Arslan 12Yuesuo Yang 2*Ao Qiang 1*Adeel Muhammad 3Hui Zhang Yan 1https://orcid.org/0000-0003-1258-8895Javed Rabia 1*Rossi Marco Academic EditorPasseri Daniele Academic EditorScaramuzzo Francesca A. Academic Editor1 Department of Tissue Engineering, China Medical University, Shenyang 110122, China; arslan.slu@gmail.com (M.A.A.); zhangyanhui@cmu.edu.cn (Z.Y.H.)2 Key Lab of Eco-restoration of Regional Contaminated Environment, Shenyang University, Ministry of Education, Shenyang 11044, China3 Beijing Key Laboratory of Farmland Soil Pollution Prevention and Remediation, College of Resources and Environmental Sciences, China Agricultural University, Beijing 100193, China; chadeel969@gmail.com* Correspondence: yangyuesuo@jlu.edu.cn (Y.Y.); aoqiang@mail.tsinghua.edu.cn (Q.A.); rabia.javed@ymail.com (R.J.)30 10 2019 11 2019 24 21 391623 9 2019 27 10 2019 © 2019 by the authors.2019Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).Nitrogen-doped and undoped titanium dioxide nanoparticles were successfully fabricated by simple chemical method and characterized using x-ray diffraction (XRD), scanning electron microscopy (SEM), energy dispersive x-ray (EDX), and transmission electron microscopy (TEM) techniques. The reduction in crystalline size of TiO2 nanoparticles (from 20–25 nm to 10–15 nm) was observed by TEM after doping with N. Antibacterial, antifungal, antioxidant, antidiabetic, protein kinase inhibition and cytotoxic properties were assessed in vitro to compare the therapeutic potential of both kinds of TiO2 nanoparticles. All biological activities depicted significant enhancement as a result of addition of N as doping agent to TiO2 nanoparticles. Klebsiella pneumoniae has been illuminated to be the most susceptible bacterial strain out of various Gram-positive and Gram-negative isolates of bacteria used in this study. Good fungicidal activity has been revealed against Aspergillus flavus. 38.2% of antidiabetic activity and 80% of cytotoxicity has been elucidated by N-doped TiO2 nanoparticles towards alpha-amylase enzyme and Artemia salina (brine shrimps), respectively. Moreover, notable protein kinase inhibition against Streptomyces and antioxidant effect including reducing power and % inhibition of DPPH has been demonstrated. This investigation unveils the more effective nature of N-doped TiO2 nanoparticles in comparison to undoped TiO2 nanoparticles indicated by various biological tests. Hence, N-doped TiO2 nanoparticles have more potential to be employed in biomedicine for the cure of numerous infections.
+
+biomedicineTiO2 nanoparticlesX-ray diffractiontransmission electron microscopyN-dopingantibacterial and antifungal activityalpha amylase inhibitionprotein kinase inhibition
+==== Body
+1. Introduction
+Biomedical applications of metallic oxide nanoparticles are recently considered an interesting avenue of research regarding nano-biotechnology. Nanoparticles possess unique physio-chemical, optical and electro-magnetic properties that make them appropriate tools for various applications in the field of materials science and pharmacy [1,2]. Co-precipitation is the most adaptive method for preparation of metallic oxide nanoparticles because of its reproducibility and cheapness [3]. Titanium dioxide (TiO2) nanoparticles have been vastly synthesized by different chemical routes. Doping prevents aggregation between nanoparticles ultimately leading to their stability, longevity as well as intensified reactivity [4]. Hence, TiO2 nanoparticles have been doped with Ni, Cu, Fe, Mo, N and other metals using hydrolysis, precipitation, sol-gel and other methods for fabrication in the past [5,6,7,8,9,10,11]. Metal-doped TiO2 nanoparticles serve many environmental remediation purposes like removal of organic dyes and wastes/pollutants owing to their tremendous photocatalytic activity [12]. In context of their role in biomedicine, antibacterial activity of Mn-doped TiO2 and Nd-doped TiO2 nanoparticles has been documented [13,14]. TiO2 nanoparticles have been proven important skin protecting agents against UV radiation and used in sunscreens/cosmetics as reported by Viana et al. [15]. Cytotoxicity of TiO2 nanoparticles doped with Ag, Cu, Fe has been validated against human cancer cell lines and hence these nanoparticles have been successfully declared anti-cancerous materials [16,17,18].
+
+Regarding bioremediation studies, the photocatalytic property of N-doped TiO2 nanoparticles for air and water purification was exclusively described [19,20,21]. Talking about biomedical properties, Zane et al. [22] reported the biocompatibility and antibacterial activity of N-doped TiO2 nanoparticles and its applications in dental resin formulations. Moreover, the assessment of orthodontic brackets coated with N-doped TiO2 nanoparticles against Streptococcus mutans was illuminated by Salehi et al. [23]. Atchudan et al. [24] explained the applications of N-doped TiO2 nanoparticles in cell imaging due to their good biocompatibility. Li et al. [25] studied the photokilling effect of N-doped TiO2 nanoparticles on cancer cells.
+
+The purpose of the present study was to complement the vacuum in literature regarding exploration of comprehensive biological potential of N-doped and undoped TiO2 nanoparticles. According to our knowledge, this is the first report covering multifunctional role of bare TiO2 nanoparticles and N-doped TiO2 nanoparticles in biomedicine. Antibacterial, antifungal, antioxidant, antidiabetic, protein kinase inhibition and cytotoxicity assays have been carried out under in vitro conditions. Comparative assessment of undoped and N-doped TiO2 nanoparticles has been performed to exploit the effectivity of these nanoparticles to be used as drug-loading agents or carriers in nanomedicine for the cure of countless fatal diseases disrupting human health.
+
+2. Results and Discussion
+2.1. X-Ray Diffraction (XRD)
+XRD data confirmed the nanocrystalline structure of TiO2 nanoparticles and N-doped TiO2 nanoparticles as evident from the sharpness of peaks obtained in Figure 1. The structure of TiO2 nanoparticles is tetragonal.
+
+Later on, the size of nanoparticles was measured from the following Scherrer’s formula: D = kλ/β cos θB(1)  
+
+Where λ indicates the wavelength of X-rays, β is the full width at half maximum of peaks in radians, and θB is the Bragg’s angle. The size of TiO2 nanoparticles and N-doped TiO2 nanoparticles was found to be 25 nm and 17.5 nm, respectively.
+
+2.2. Scanning Electron Microscopy (SEM) and Energy Dispersive X-Ray (EDX)
+The SEM micrographs in Figure 2 reveal spherical and coarse shape of TiO2 nanoparticles and N-doped TiO2 nanoparticles. However, morphology of TiO2 nanoparticles indicate more aggregation while crystals of N-doped TiO2 nanoparticles are aggregated less, showing better clarity of shape.
+
+The EDX data in Figure 3 demonstrates that TiO2 nanoparticles were composed of only titanium and oxygen while N-doped TiO2 nanoparticles also had nitrogen found on the surface of TiO2. No other impurity was detected and these nanoparticles were found stoichiometric. Our results are concordant with the previous finding [26]. The SEM and EDX results were coinciding with XRD results as they also declared phase purity of TiO2 nanoparticles and N-doped TiO2 nanoparticles.
+
+2.3. Transmission Electron Microscopy (TEM)
+Figure 4 reveals the TEM micrographs of undoped TiO2 nanoparticles and N-doped TiO2 nanoparticles. The N doping has been confirmed indicated by the presence of N on the surface of TiO2 nanoparticles. The size of TiO2 nanoparticles and N-doped TiO2 nanoparticles has been found to be 20–25 nm and 10–15 nm, respectively.
+
+2.4. Antibacterial Activity
+Both bare TiO2 nanoparticles and N-doped TiO2 nanoparticles were tested for their antibacterial activity and found to be potent inhibitors of Gram-positive and Gram-negative bacteria as illustrated by Figure 5 and Figure 6. The literature has also documented TiO2 nanoparticles to be effective antibacterial agents [27,28,29,30,31]. There is difference in bacterial inhibition of different strains because of different functional groups present on their surface [4]. The positively charged nanoparticles and negatively charged bacterial surface leads to electrostatic interaction and hence, bactericidal activity by the formation of reactive oxygen species (ROS), that causes cell lethality after malfunctioning of bacterial synthetic machinery [31,32,33,34]. The mechanism for bactericidal activity of TiO2 nanoparticles has been shown in Figure 7.
+
+The antibacterial activity against Gram-negative bacteria (Pseudomonas aeruginosa, Klebsiella pneumoniae, Escherichia coli and resistant Pneumococcal aeruginosa) was more pronounced as compared to Gram-positive bacteria (Bacillus subtilis, Staphylococcus aureus, methicillin resistant Staphylococcus aureus (MRSA) and resistant Streptococcus haemoliticus). The difference in cell wall composition and thickness of Gram-positive and Gram-negative bacteria might account for the variation in biological potential [4,35]. Furthermore, in the current scenario, it is believed that TiO2 nanoparticles more effectively permeate Gram-negative bacterial cell wall because of its lesser thickness via chemical bonding, and after translocation into the cytoplasm and nucleus, result in oxidative damage by excessive ROS production and eventual mortality. Therefore, Gram-negative bacteria are more vulnerable to TiO2 nanoparticles than their Gram-positive complement. Recently, Ripolles-Avila et al. [36] performed antibacterial studies of TiO2 nanoparticles and observed no significant difference in their behavior towards Gram-positive and Gram-negative bacteria.
+
+The impact of doping agent was also prominent since the N-doped TiO2 nanoparticles showed more distinct bactericidal effect against all bacterial strains in comparison to undoped TiO2 nanoparticles. The highest antibacterial activity was elucidated by N-doped TiO2 nanoparticles against Klebsiella pneumoniae (zone of inhibition 17 mm) in this investigation. It is believed that doping causes reduction in nanoparticles’ size, their higher surface area, and ultimately more significant antibacterial activity [34,37]. Moreover, it has been proposed that enhanced antibacterial activity of N-doped TiO2 nanoparticles is due to the synergistic effect of N and TiO2 [4,35].
+
+2.5. Antifungal Activity
+The TiO2 nanoparticles tested for their antifungal potential against Fusarium solani, Aspergillus flavus, Aspergillus fumigatus and Aspergillus niger were found mildly effective against only Aspergillus flavus (zone of inhibition 7 mm and 11 mm for TiO2 nanoparticles and N-doped TiO2 nanoparticles, respectively) as evident from Figure 8 and Figure 9. Our study supports the previous report showing antifungal nature of TiO2 nanoparticles against Candida albicans [38]. The mechanism of fungicidal activity is not explicitly understood. However, it is thought to involve generation of ROS and oxidative deterioration causing cellular lethality [32,38].
+
+2.6. Antioxidant Activity
+All kinds of antioxidant activities, i.e., total antioxidant capacity (TAC), total reducing power (TRP) and % DPPH inhibition have been observed by both undoped TiO2 nanoparticles and N-doped TiO2 nanoparticles. Prominent antioxidation potential has been documented by the previous studies [27,29,30,39]. However, the activities shown by N-doped TiO2 nanoparticles are significantly higher than undoped TiO2 nanoparticles as depicted by Figure 10. A significant elevation in all activities in N-doped TiO2 nanoparticles is believed to be due to the addition of doping agent which reduces size of TiO2 nanoparticles and enhances their reactivity [4,35].
+
+2.7. Antidiabetic Activity
+The results of α-amylase inhibition as shown in Figure 11 demonstrate undoped TiO2 nanoparticles and N-doped TiO2 nanoparticles to be the potent candidates against diabetes mellitus. Previously, Stevia rebaudiana loaded TiO2 nanoparticles have been proved potential antidiabetic agents via in vivo studies performed in rats [40]. N-doped TiO2 nanoparticles possess more significant α-amylase inhibition (38.2%) as compared to bare TiO2 nanoparticles (24.8%). The enlargement of surface area by size reduction of TiO2 nanoparticles results in increase of chemical bonding of surface atoms or molecules which paves the way for enhancement of antidiabetic activity in N-doped TiO2 nanoparticles [4,35].
+
+2.8. Protein Kinase Inhibition Activity
+The premier protein kinase inhibition was achieved by undoped TiO2 nanoparticles (inhibition zone 12 mm) and N-doped TiO2 nanoparticles (inhibition zone 16 mm) as deciphered by Figure 12 and Figure 13. It has been explicitly found that the highest protein kinase inhibition activity was demonstrated by N-doped TiO2 nanoparticles in comparison to their bare counterpart which might be due to the enhanced surface area of TiO2 nanoparticles after doping with N [4]. Protein kinase inhibition is the preliminary anticancer assay and previous reports have documented very good anticancer activity of TiO2 nanoparticles [41,42,43,44].
+
+2.9. Cytotoxic Activity
+Brine shrimp lethality assay was an appropriate preliminary test for screening of cytotoxicity of undoped TiO2 nanoparticles and N-doped TiO2 nanoparticles. Figure 14 shows that lesser cytotoxicity was obtained by bare TiO2 nanoparticles (70% of mortality at 50 µg/mL) as compared to N-doped TiO2 nanoparticles (80% of mortality at 50 µg/mL). Previous literature supports our findings by suggesting that TiO2 nanoparticles are cytotoxic to various human cell lines and doping further improves the cytotoxic status of these nanoparticles [16]. He et al. [45] elucidated concentration-dependent cytotoxic activity of TiO2 nanoparticles in human prostate cancer cell lines. Chellappa et al. [46], Ahamed et al. [15], Rahmani Kukia et al. [47] and Koca and Duman, [48] also reported the in vitro and in vivo cytotoxicity of TiO2 nanoparticles. The mechanism behind cytotoxicity might involve internalization of TiO2 nanoparticles into cytoplasm resulting in generation of ROS by oxidative stress and alteration in cellular redox state. It eventually causes mitochondrial damage and cell death by apoptosis [49,50,51].
+
+The overall results of TiO2 nanoparticles and N-doped TiO2 nanoparticles with respect to their characterization techniques and therapeutic potential have been listed in Table 1.
+
+3. Material and Methods
+3.1. Chemical Fabrication of TiO2 Nanoparticles and N-Doped TiO2 Nanoparticles
+In brief, TiO2 nanoparticles were synthesized by a facile chemical method of co-precipitation. The reagents used were purchased from Sigma-Aldrich (St. Louis, MO, USA) and included titanium isopropoxide (97%), isopropyl alcohol (≥98%), nitric acid (70%) and ethanol (96%). The procedure of Shajudheen et al. [52] was followed after some modifications. Synthesis of undoped TiO2 nanoparticles involved addition of 100 mL isopropyl alcohol to 15 mL titanium isopropoxide under continuous stirring for 30 min. 10 mL deionized water for hydrolysis was later added dropwise until white precipitates were obtained that were filtered and washed with deionized water and ethanol thrice. The precipitates were dried at 100 °C and grinded to a fine powder. Finally, calcination was done at 800 °C for 4 h.
+
+In case of N-doped TiO2 nanoparticles synthesis, 15 mL nitric acid as a nitrogen source was added to titanium isopropoxide mixture and it was vigorously stirred until dissolved. Later on, deionized water was added followed by the procedure similar to undoped synthesis of TiO2 nanoparticles.
+
+3.2. Characterization of TiO2 Nanoparticles and N-doped TiO2 Nanoparticles
+3.2.1. X-Ray Diffraction (XRD)
+Powder x-ray diffraction (XRD) was performed for phase identification of nanoparticles. Bruker, D8 Advanced instrument (Bruker, Billerica, MA, USA) was used in 2θ range of 10–80° at 1.2/min scan rate. The radiation source used was Cu Kα (λ = 1.54056 Å) at 40 mA current and 40 kV voltage. Scherer’s equation was used to calculate the theoretical size of nanoparticles.
+
+3.2.2. Scanning Electron Microscopy (SEM) and Energy Dispersive X-Ray (EDX)
+The shape and elemental composition of nanoparticles was revealed using scanning electron microscopy (SEM) and energy dispersive x-ray (EDX) spectroscopy. HITACHI S-4800 (HITACHI, Ibraraki, Japan) was used to determine SEM and EDX images.
+
+3.2.3. Transmission Electron Microscopy (TEM)
+The transmission electron microscopy (TEM) was executed with HITACHI H-7650 (HITACHI, Japan) in order to find out an exact size of nanoparticles.
+
+3.3. Biological Potential of TiO2 Nanoparticles and N-Doped TiO2 Nanoparticles
+3.3.1. Antibacterial Activity
+The fabricated nanoparticles were subjected to screening for their antibacterial activity against various gram-positive and gram-negative bacterial strains. Agar disc diffusion method was employed for this purpose following the procedure of Haq et al. [53] after slight modifications. The Gram-positive bacterial isolates used were Bacillus subtilis, Staphylococcus aureus, methicillin resistant Staphylococcus aureus (MRSA) and resistant Streptococcus haemoliticus. Whereas, Pseudomonas aeruginosa, Klebsiella pneumoniae, Escherichia coli and resistant Pneumococcal aeruginosa were the Gram-negative isolates of bacteria used for finding antibacterial potential. All of strains were allowed to grow on 2% nutrient agar (NA) at 25 °C and stored in refrigerator. Then, 100 µL of tryptic soy broth (TSB) was spread on agar medium in which bacterial colonies were grown. Stock solution of 1 mg/mL of nanoparticles was made in dimethyl sulfoxide (DMSO), from which 50 µg/mL of final concentration was made by taking out 50 µL of solution and loading on discs found on petri plates. The incubation of plates was done at 37 °C for 24 h. DMSO were used as negative control, whereas Roxithromycin and Cefixime were taken as positive controls. Vernier caliper was used to measure inhibition zones.
+
+3.3.2. Antifungal Activity
+Agar disc diffusion method was used by following the procedure of Akhtar et al. [54] after slight modifications to evaluate antifungal activity of nanoparticles. The fungal strains used were Fusarium solani, Aspergillus flavus, Aspergillus fumigatus and Aspergillus niger. All strains were preserved in refrigerator at 4 °C on sabouraud dextrose agar (SDA). After culturing of fungal strains on SDA, 50 µg/mL of nanoparticles solution was loaded on discs found on petri plates containing media. The prepared petri dishes were incubated at 28 °C for 72 h. DMSO and Clotrimazole were used as negative control and positive control, respectively. The zones of inhibition were measured with Vernier caliper.
+
+3.4. Antioxidant Activity
+3.4.1. Total Antioxidant Capacity (TAC)
+TAC of nanoparticles was elucidated by some modifications in the method of Khan et al. [55]. 4mg/mL stock solution of nanoparticles was made from which 100 µL was taken out and mixed with 900 µL of reagent solutions (4 mM ammonium molybdate, 28 mM sodium phosphate and 0.6 M sulfuric acid). After incubation at 95 °C for 90 min, absorbance was taken at 695 nm using microplate reader. DMSO and Ascorbic acid were taken as negative control and positive control, respectively. The results were expressed as µg AA/mg.
+
+3.4.2. Total Reducing Power (TRP)
+TRP of nanoparticles was evaluated by some modifications in the method of Khan et al. [55]. From 4mg/mL stock nanoparticles solution, 100 µL was mixed with reagents (200 µL of phosphate buffer and 250 µL of 1% potassium ferricyanide). After incubation at 50 °C for 20 min, 200 µL of 10% trichloroacetic acid was added. Centrifugation (LB-5, Heraeus, Hanau, Germany) was carried out at 3000 rpm for 10 min. Later on, 150 µL of supernatant solution was taken and mixed with 50 µL of 0.1% ferric chloride solution. Finally, absorbance was measured at 630 nm using microplate reader. DMSO and Ascorbic acid were used as negative control and positive control, respectively. The results were expressed as µg AA/mg.
+
+3.5. % DPPH Inhibition
+Free radical scavenging activity of nanoparticles was determined using 2,2-diphenyl-1-picryl hydrazyl (DPPH) reagent by some modifications in the method of Khan et al. [55]. 10 µL of nanoparticles solution was taken from 4mg/mL stock solution and mixed with 190 µL of DPPH reagent. After incubation for 1 h in dark, absorbance was measured at 515 nm with microplate reader. DMSO and Ascorbic acid were used as negative control and positive control, respectively.
+
+% free radical scavenging or % inhibition of nanoparticles with DPPH was calculated using the following formula: % DPPH Inhibition = (1 − Abs/Abc) × 100(2)  
+
+where Abs is the absorbance of nanoparticles with DPPH reagent, and Abc is the absorbance of negative control. Table curve software 2D Ver. 4 (SPSS Inc., Chicago, IL., USA) was used to calculate IC50.
+
+3.6. Antidiabetic Activity
+Antidiabetic activity or α-amylase inhibition was determined by a method described by [56] after slight modifications. It involved addition of 15 µL of phosphate buffer, 25 µL of α-amylase, 10 µL of nanoparticle solution and 40 µL of starch to the well of microtiter plate. The plate was incubated at 50 °C for 30 min. 20 µL of 1 M HCl and 90 µL of iodine solution were added thereafter. DMSO and Acarbose were taken as negative control and positive control, respectively. DMSO, starch and buffer were taken as blank. Microplate reader measured the absorbance at 540 nm.
+
+% inhibition of α-amylase was calculated by the following formula: % enzyme inhibition = (ODx − ODy/ODz − ODy) × 100(3)  
+where ODx, ODy and ODz symbolize the absorbance of nanoparticles, negative control and blank, respectively.
+
+3.7. Protein Kinase Inhibition Activity
+The method established by Yao et al. [57] after slight modifications was utilized to determine preliminary antitumor activity of nanoparticles by means of protein kinase inhibition assay. It was based on the principle of inhibition in hyphae formation in Streptomyces whose mycelia fragments were allowed to disperse on the surface of ISP4 plates of agar media. 5 µL of nanoparticles solution was applied to these plates and placed for incubation for 72 h. The clear or bald zones appeared after incubation were measured using Vernier caliper. The bald zone more than 9 mm is considered significant and indication of restriction in bacterial hyphae formulation. DMSO and Surfactin were taken as negative control and positive control, respectively.
+
+3.8. Cytotoxic Activity
+Brine shrimp lethality test was performed to reveal the cytotoxicity of nanoparticles by a method of Apu et al. [58] after minor modifications. The Artemia salina (brine shrimp) eggs were hatched in a tank containing artificial sea water having incubation temperature of 30 °C. The tank was comprised of two unequal portions; the larger portion contained eggs and was sealed with aluminium foil, while the smaller portion had light source due to which the newly hatched larvae of shrimps gathered there within 1–2 days. The mature nauplii were shifted in a small beaker using Pasteur pipette. Different dilutions from stock solutions (4 mg/mL) of nanoparticles at concentrations of 50 µg/mL, 25 µg/mL and 12.5 µg/mL were tested for assessment of lethality. Each well of 96-well plate were filled with 10 nauplii and 150 µL of sea water in which the dilutions were poured that raised the final volume to 300 µL. The resulting solutions were analyzed for quantification of % of dead nauplii after 2 h of incubation period. DMSO and Doxorubicin were used as negative control and positive control, respectively. Table curve 2 D Ver. 4 software was used to calculate LC50 of nanoparticles.
+
+3.9. Statistical Analysis
+All tests were performed in triplicate and data were presented as mean ± standard deviation (SD) from at least three replicates.
+
+4. Conclusions
+Although there is abundant data available on the investigation of biological uses of TiO2 nanoparticles, rare content is found regarding study of comparative effects of doping agent/surfactant on the biological nature of these nanoparticles. Therefore, this study was intended to estimate the comprehensive therapeutic potential of synthesized undoped and N-doped TiO2 nanoparticles via different biological activities performed in vitro. All bioassays have proved the efficiency of N-doped TiO2 nanoparticles and good/moderate biological activities have been achieved. In short, these nanoparticles are highlighted as tools for use in the treatment of various human diseases. However, further extensive attempts on cytotoxic and antitumor inquiry of these nanoparticles on the normal human cells are strongly recommended.
+
+Acknowledgments
+Research facilities were provided by China Medical University (CMU), Shenyang, China. Additionally, the technical aid provided by Professor Yang Yuesuo from Shenyang University, China is gratefully acknowledged.
+
+Sample Availability: Samples of the compounds are not available from the authors.
+
+Author Contributions
+MAA and RJ performed experiments. R.J., M.A.A., M.A. and Z.Y.H. contributed in data interpretation and research article write-up. R.J., Q.A. and Y.Y. were involved in compilation of final draft, editing and funding. All authors have seen and approved the manuscript.
+
+Funding
+This work was supported by the National Key R&D Program of China (2017YFA0105802) and the Natural Science Foundation of China (NO. 81771351).
+
+Conflicts of Interest
+All authors declare that they have no conflict of interest.
+
+Figure 1 XRD pattern of TiO2 nanoparticles and N-doped TiO2 nanoparticles.
+
+Figure 2 SEM 1(A) low resolution image and 1(B) high resolution image of TiO2 nanoparticles, and SEM 2(A) low resolution image, and 2(B) high resolution image of N-doped TiO2 nanoparticles.
+
+Figure 3 EDX pattern of (A) TiO2 nanoparticles and (B) N-doped TiO2 nanoparticles.
+
+Figure 4 TEM image of (a) TiO2 nanoparticles and (b) N-doped TiO2 nanoparticles.
+
+Figure 5 Antibacterial activity exhibited by TiO2 nanoparticles and N-doped TiO2 nanoparticles against Gram-positive bacterial strains; (A) Bacillus subtillis, (B) Staphylococcus aureus, (C) methicillin resistant Staphylococcus aureus (MRSA), (D) resistant Streptococcus haemoliticus. Error bars are shown as standard deviation on each bar. Bars are significantly different at confidence interval level of 95%.
+
+Figure 6 Antibacterial activity exhibited by TiO2 nanoparticles and N-doped TiO2 nanoparticles against Gram-negative bacterial strains; (A) Pseudomonas aeroginosa, (B) Klebsiella pneumoniae, (C) Escherichia coli, (D) resistant Pneumococcal aeruginosa. Error bars are shown as standard deviation on each bar. Bars are significantly different at confidence interval level of 95%.
+
+Figure 7 Diagrammatic illustration of mechanism of bactericidal activity of TiO2 nanoparticles.
+
+Figure 8 Antifungal activity exhibited by TiO2 nanoparticles and N-doped TiO2 nanoparticles against Aspergillus flavus. Error bars are shown as standard deviation on each bar. Bars are significantly different at confidence interval level of 95%.
+
+Figure 9 Antifungal activity: Zone of inhibition obtained against fungal strain, Aspergillus flavus by control, TiO2 nanoparticles and N-doped TiO2 nanoparticles.
+
+Figure 10 Antioxidant activity (A) total antioxidant capacity, (B) total reducing power, and (C) % DPPH inhibition exhibited by TiO2 nanoparticles and N-doped TiO2 nanoparticles. Error bars are shown as standard deviation on each bar. Bars are significantly different at confidence interval level of 95%.
+
+Figure 11 Antidiabetic activity exhibited by TiO2 nanoparticles and N-doped TiO2 nanoparticles against alpha amylase. Error bars are shown as standard deviation on each bar. Bars are significantly different at confidence interval level of 95%.
+
+Figure 12 Protein kinase inhibition exhibited by TiO2 nanoparticles and N-doped TiO2 nanoparticles. Error bars are shown as standard deviation on each bar. Bars are significantly different at confidence interval level of 95%.
+
+Figure 13 Protein kinase inhibitory activity: Zone of inhibition obtained against bacterial strain, Streptomyces by control, TiO2 nanoparticles and N-doped TiO2 nanoparticles.
+
+Figure 14 Cytotoxic activity exhibited by TiO2 nanoparticles and N-doped TiO2 nanoparticles. Error bars are shown as standard deviation on each bar. Bars are significantly different at confidence interval level of 95%.
+
+molecules-24-03916-t001_Table 1Table 1 Summary of results of TiO2 nanoparticles and N-doped TiO2 nanoparticles with respect to their characterization techniques and therapeutic potential.
+
+Methods of Characterization and Biological Potential	TiO2 Nanoparticles	N-doped TiO2 Nanoparticles	
+
+Characterization
+	
+XRD	Size: 25 nm	Size: 17.5 nm	
+SEM	Morphology: Spherical but lesser clarity of shape due to more aggregation	Morphology: Spherical and more clarity of shape due to lesser aggregation	
+EDX	O: 73.42%	O: 63.95%	
+Ti: 26.58%	Ti: 35.32%	
+-	N: 0.73%	
+TEM	Size: 20–25 nm	Size: 10–15 nm	
+
+Biological Potential
+	
+Antibacterial activity against
+Gram-positive bacteria:	Zone of Inhibition
+Gram-positive bacteria:	Zone of Inhibition
+Gram-positive bacteria:	
+
+Bacillus subtilis
+	9 mm	12 mm	
+
+Staphylococcus aureus
+methicillin resistant
+	8 mm	11 mm	
+
+Staphylococcus aureus resistant
+	6 mm	9 mm	
+
+Streptococcus haemoliticus
+	8 mm	9 mm	
+
+Gram-negative bacteria:
+	
+Gram-negative bacteria:
+	
+Gram-negative bacteria:
+	
+
+Pseudomonas aeruginosa
+	10 mm	15 mm	
+
+Klebsiella pneumoniae
+	11 mm	17 mm	
+
+Escherichia coli resistant
+	10 mm	15 mm	
+
+Pneumococcal aeruginosa
+	8 mm	13 mm	
+Antifungal activity against Aspergillus flavus	Zone of Inhibition: 7 mm	Zone of Inhibition: 11 mm	
+
+Antioxidant activity
+	
+TAC	48.9 µgAAE/mg	69.1 µgAAE/mg	
+TRP	41.2 µgAAE/mg	65.5 µgAAE/mg	
+% DPPH Inhibition	50.8%	73.6%	
+Antidiabetic activity against alpha amylase enzyme	% of Inhibition: 24.8%	% of Inhibition: 38.2%	
+Protein kinase inhibitory activity	Zone of Inhibition: 12 mm	Zone of Inhibition: 16 mm	
+
+Cytotoxic activity at
+	
+% of mortality
+	
+% of mortality
+	
+12.5 µg/mL	30%	40%	
+25 µg/mL	45%	60%	
+50 µg/mL	70%	80%
+==== Refs
+References
+1. McNamara K.  Tofail S.A.M.   Nanoparticles in biomedical applications Adv. Phys. X 2017 2 54 88 10.1080/23746149.2016.1254570 
+2. Ramos A.P.  Cruz M.A.E.  Tovani C.B.  Ciancaglini P.   Biomedical applications of nanotechnology Biophys. Rev. 2017 9 79 89 10.1007/s12551-016-0246-2 28510082 
+3. Ali A.  Ambreen S.  Javed R.  Tabassum S.  Ul Haq I.  Zia M.   ZnO nanostructure fabrication in different solvents transforms physio-chemical, biological and photodegradable properties Mater. Sci Eng C Mater. Biol. Appl. 2017 74 137 145 10.1016/j.msec.2017.01.004 28254278 
+4. Javed R.  Ahmed M.  Haq I.u.  Nisa S.  Zia M.   PVP and PEG doped CuO nanoparticles are more biologically active: Antibacterial, antioxidant, antidiabetic and cytotoxic perspective Mater. Sci. Eng. C 2017 79 108 115 10.1016/j.msec.2017.05.006 28628996 
+5. Ali T.  Tripathi P.  Azam A.  Raza W.  Ahmed A.S.  Ahmed A.  Muneer M.   Photocatalytic performance of Fe-doped TiO2  nanoparticles under visible-light irradiation Mater. Res. Express 2017 4 015022 10.1088/2053-1591/aa576d 
+6. Buraso W.  Lachom V.  Siriya P.  Laokul P.   Synthesis of TiO2  nanoparticles via a simple precipitation method and photocatalytic performance Mater. Res. Express 2018 5 115003 10.1088/2053-1591/aadbf0 
+7. Eadi S.B.  Kim S.  Jeong S.W.  Jeon H.W.   Novel Preparation of Fe Doped TiO2  Nanoparticles and Their Application for Gas Sensor and Photocatalytic Degradation Adv. Mater. Sci. Eng. 2017 2017 1 6 10.1155/2017/2191659 
+8. Huang J.  Guo X.  Wang B.  Li L.  Zhao M.  Dong L.  Liu X.  Huang Y.   Synthesis and Photocatalytic Activity of Mo-Doped TiO2  Nanoparticles J. Spectrosc. 2015 2015 1 8 10.1155/2015/681850 
+9. Krishnakumar V.  Boobas S.  Jayaprakash J.  Rajaboopathi M.  Han B.  Louhi-Kultanen M.   Effect of Cu doping on TiO2  nanoparticles and its photocatalytic activity under visible light J. Mater. Sci. Mater. Electron. 2016 27 7438 7447 10.1007/s10854-016-4720-1 
+10. Mahshid S.  Askari M.  Ghamsari M.S.   Synthesis of TiO2  nanoparticles by hydrolysis and peptization of titanium isopropoxide solution J. Mater. Process. Technol. 2007 189 296 300 10.1016/j.jmatprotec.2007.01.040 
+11. Manzoor M.  Rafiq A.  Ikram M.  Nafees M.  Ali S.   Structural, optical, and magnetic study of Ni-doped TiO2  nanoparticles synthesized by sol–gel method Int. Nano Lett. 2018 8 1 8 10.1007/s40089-018-0225-7 
+12. Khairy M.  Zakaria W.   Effect of metal-doping of TiO2  nanoparticles on their photocatalytic activities toward removal of organic dyes Egypt. J. Pet. 2014 23 419 426 10.1016/j.ejpe.2014.09.010 
+13. Nithya N.  Bhoopathi G.  Magesh G.  Kumar C.D.N.   Neodymium doped TiO2  nanoparticles by sol-gel method for antibacterial and photocatalytic activity Mater. Sci. Semicond. Process. 2018 83 70 82 10.1016/j.mssp.2018.04.011 
+14. Zahid M.  Papadopoulou E.L.  Suarato G.  Binas V.D.  Kiriakidis G.  Gounaki I.  Moira O.  Venieri D.  Bayer I.S.  Athanassiou A.   Fabrication of Visible Light-Induced Antibacterial and Self-Cleaning Cotton Fabrics Using Manganese Doped TiO2  Nanoparticles ACS Appl. Bio. Mater. 2018 1 1154 1164 10.1021/acsabm.8b00357 
+15. Viana M.M.  Soares V.F.  Mohallem N.D.S.   Synthesis and characterization of TiO2  nanoparticles Ceram. Int. 2010 36 2047 2053 10.1016/j.ceramint.2010.04.006 
+16. Ahamed M.  Khan M.A.M.  Akhtar M.J.  Alhadlaq H.A.  Alshamsan A.   Ag-doping regulates the cytotoxicity of TiO2  nanoparticles via oxidative stress in human cancer cells Sci. Rep. 2017 7 17662 10.1038/s41598-017-17559-9 29247182 
+17. Ahmad J.  Siddiqui M.  Akhtar M.  Alhadlaq H.  Alshamsan A.  Khan S.  Wahab R.  Al-Khedhairy A.  Al-Salim A.  Musarrat J.    Copper doping enhanced the oxidative stress–mediated cytotoxicity of TiO2  nanoparticles in A549 cells Hum. Exp. Toxicol. 2018 37 496 507 10.1177/0960327117714040 28621211 
+18. Caratto V.  Locardi F.  Alberti S.  Villa S.  Sanguineti E.  Martinelli A.  Balbi T.  Canesi L.  Ferretti M.   Different sol–gel preparations of iron-doped TiO2  nanoparticles: Characterization, photocatalytic activity and cytotoxicity J. Sol.-Gel Sci. Technol. 2016 80 152 159 10.1007/s10971-016-4057-5 
+19. Cheng X.  Yu X.  Xing Z.  Yang L.   Synthesis and characterization of N-doped TiO2  and its enhanced visible-light photocatalytic activity Arab. J. Chem. 2016 9 S1706 S1711 10.1016/j.arabjc.2012.04.052 
+20. Ansari S.A.  Khan M.M.  Ansari M.O.  Cho M.H.   Nitrogen-doped titanium dioxide (N-doped TiO2 ) for visible light photocatalysis New J. Chem. 2016 40 3000 3009 10.1039/C5NJ03478G 
+21. Kim T.H.  Go G.-M.  Cho H.-B.  Song Y.  Lee C.-G.  Choa Y.-H.   A Novel Synthetic Method for N-doped TiO2  Nanoparticles Through Plasma-Assisted Electrolysis and Photocatalytic Activity in the Visible Region Front. Chem. 2018 6 10.3389/fchem.2018.00458 30345270 
+22. Zane A.  Zuo R.  Villamena F.A.  Rockenbauer A.  Digeorge Foushee A.M.  Flores K.  Dutta P.K.  Nagy A.   Biocompatibility and antibacterial activity of nitrogen-doped titanium dioxide nanoparticles for use in dental resin formulations Int. J. Nanomed. 2016 11 6459 6470 10.2147/IJN.S117584 27980404 
+23. Salehi P.  Babanouri N.  Roein-Peikar M.  Zare F.   Long-term antimicrobial assessment of orthodontic brackets coated with nitrogen-doped titanium dioxide against Streptococcus mutans Prog. Orthod. 2018 19 35 10.1186/s40510-018-0236-y 30221309 
+24. Atchudan R.  Edison T.N.J.I.  Perumal S.  Vinodh R.  Lee Y.R.   In-situ green synthesis of nitrogen-doped carbon dots for bioimaging and TiO2  nanoparticles@nitrogen-doped carbon composite for photocatalytic degradation of organic pollutants J. Alloy. Compd. 2018 766 12 24 10.1016/j.jallcom.2018.06.272 
+25. Li Z.  Mi L.  Wang P.-N.  Chen J.-Y.   Study on the visible-light-induced photokilling effect of nitrogen-doped TiO2  nanoparticles on cancer cells Nanoscale Res. Lett. 2011 6 356 10.1186/1556-276X-6-356 21711880 
+26. Katoueizadeh E.  Zebarjad S.M.  Janghorban K.   Synthesis and enhanced visible-light activity of N-doped TiO2  nano-additives applied over cotton textiles J. Mater. Res. Technol. 2018 7 204 211 10.1016/j.jmrt.2017.05.011 
+27. Alavi M.  Karimi N.   Characterization, antibacterial, total antioxidant, scavenging, reducing power and ion chelating activities of green synthesized silver, copper and titanium dioxide nanoparticles using Artemisia haussknechtii leaf extract Artif. Cells Nanomed. Biotechnol. 2017 46 2066 2081 10.1080/21691401.2017.1408121 29233039 
+28. Arora B.  Murar M.  Dhumale V.   Antimicrobial potential of TiO2  nanoparticles against MDR Pseudomonas aeruginosa J. Exp. Nanosci. 2015 10 819 827 10.1080/17458080.2014.902544 
+29. Kalyanasundaram S.  Prakash M.J.   Biosynthesis and Characterization of Titanium Dioxide Nanoparticles Using Pithecellobium Dulce and Lagenaria Siceraria Aqueous Leaf Extract and Screening their Free Radical Scavenging and Antibacterial Properties ILCPA 2015 50 80 95 10.18052/www.scipress.com/ILCPA.50.80 
+30. Santhoshkumar T.  Rahuman A.A.  Jayaseelan C.  Rajakumar G.  Marimuthu S.  Kirthi A.V.  Velayutham K.  Thomas J.  Venkatesan J.  Kim S.-K.   Green synthesis of titanium dioxide nanoparticles using Psidium guajava extract and its antibacterial and antioxidant properties Asian Pac. J. Trop. Med. 2014 7 968 976 10.1016/S1995-7645(14)60171-1 25479626 
+31. Senarathna U.L.N.H.  Fernando S.S.N.  Gunasekara T.D.C.P.  Weerasekera M.M.  Hewageegana H.G.S.P.  Arachchi N.D.H.  Siriwardena H.D.  Jayaweera P.M.   Enhanced antibacterial activity of TiO2  nanoparticle surface modified with Garcinia zeylanica extract Chem. Cent. J. 2017 11 7 10.1186/s13065-017-0236-x 28123449 
+32. Burello E.  Worth A.P.   A theoretical framework for predicting the oxidative stress potential of oxide nanoparticles Nanotoxicology 2011 5 228 235 10.3109/17435390.2010.502980 21609138 
+33. Caratto V.  Ball L.  Sanguineti E.  Insorsi A.  Firpo I.  Alberti S.  Ferretti M.  Pelosi P.   Antibacterial activity of standard and N-doped titanium dioxide-coated endotracheal tubes: An in vitro study Rev. Bras. De Ter. Intensiva 2017 29 55 62 10.5935/0103-507X.20170009 28444073 
+34. Wang L.  Hu C.  Shao L.   The antimicrobial activity of nanoparticles: Present situation and prospects for the future IJN 2017 Volume 12 1227 1249 10.2147/IJN.S121956 
+35. Javed R.  Usman M.  Tabassum S.  Zia M.   Effect of capping agents: Structural, optical and biological properties of ZnO nanoparticles Appl. Surf. Sci. 2016 386 319 326 10.1016/j.apsusc.2016.06.042 
+36. Ripolles-Avila C.  Martinez-Garcia M.  Hascoët A.-S.  Rodríguez-Jerez J.J.   Bactericidal efficacy of UV activated TiO2  nanoparticles against Gram-positive and Gram-negative bacteria on suspension CyTA-J. Food 2019 17 408 418 10.1080/19476337.2019.1590461 
+37. Maheswari P.  Ponnusamy S.  Harish S.  Ganesh M.R.  Hayakawa Y.   Hydrothermal synthesis of pure and bio modified TiO2 : Characterization, evaluation of antibacterial activity against gram positive and gram negative bacteria and anticancer activity against KB Oral cancer cell line Arab. J. Chem. 2018 S1878535218302508 10.1016/j.arabjc.2018.11.020 
+38. Haghighi F.  Mohammadi S.R.  Mohammadi P.  Hosseinkhani S.   Antifungal Activity of TiO2  nanoparticles and EDTA on Candida albicans Biofilms Infect. Epidemiol. Med. 2013 1 33 38 
+39. Niska K.  Inkielewicz-Stepniak I.  Pyszka K.  Tukaj C.  Wozniak M.  Radomski M.   Titanium dioxide nanoparticles enhance production of superoxide anion and alter the antioxidant system in human osteoblast cells IJN 2015 10 1095 1107 25709434 
+40. Langle A.  González-Coronel M.A.  Carmona-Gutiérrez G.  Moreno-Rodríguez J.A.  Venegas B.  Muñoz G.  Treviño S.  Díaz A.   Stevia rebaudiana loaded titanium oxide nanomaterials as an antidiabetic agent in rats Rev. Bras. Farmacogn. 2015 25 145 151 10.1016/j.bjp.2015.03.004 
+41. Bogdan J.  Pławińska-Czarnak J.  Zarzyńska J.   Nanoparticles of Titanium and Zinc Oxides as Novel Agents in Tumor Treatment: A Review Nanoscale Res. Lett 2017 12 225 10.1186/s11671-017-2007-y 28351128 
+42. Ji J.  Yang H.  Liu Y.  Chen H.  Kong J.  Liu B.   TiO2 -assisted silver enhanced biosensor for kinase activity profiling Chem. Commun. 2009 1508 10.1039/b820738k 19277372 
+43. Latha S.T.  Reddy M.C.  Muthukonda S.V.  Srikanth V.V.S.S.  Lomada D.   In vitro and in vivo evaluation of anti-cancer activity: Shape-dependent properties of TiO 2 nanostructures Mater. Sci. Eng.: C 2017 78 969 977 10.1016/j.msec.2017.04.011 28576074 
+44. Yan Z.  Deng P.  Liu Y.   Recent Advances in Protein Kinase Activity Analysis Based on Nanomaterials IJMS 2019 20 1440 10.3390/ijms20061440 
+45. He F.  Yu W.  Fan X.  Jin B.   In vitro cytotoxicity of biosynthesized titanium dioxide nanoparticles in human prostate cancer cell lines Trop. J. Pharm. Res. 2018 16 2793 2799 10.4314/tjpr.v16i12.2 
+46. Chellappa M.  Anjaneyulu U.  Manivasagam G.  Vijayalakshmi U.   Preparation and evaluation of the cytotoxic nature of TiO2  nanoparticles by direct contact method IJN 2015 10 31 40 
+47. Kukia R.N.  Rasmi Y.  Abbasi A.  Koshoridze N.  Shirpoor A.  Burjanadze G.  Saboory E.   Bio-Effects of TiO2  Nanoparticles on Human Colorectal Cancer and Umbilical Vein Endothelial Cell Lines Asian Pac. J. Cancer Prev. 2018 19 2821 2829 30361551 
+48. Koca F.D.  Duman F.   Genotoxic and cytotoxic activity of green synthesized TiO2  nanoparticles Appl. Nanosci. 2019 9 815 823 10.1007/s13204-018-0712-1 
+49. Horie M.  Sugino S.  Kato H.  Tabei Y.  Nakamura A.  Yoshida Y.   Does photocatalytic activity of TiO2  nanoparticles correspond to photo-cytotoxicity? Cellular uptake of TiO2  nanoparticles is important in their photo-cytotoxicity Toxicol. Mech. Methods 2016 26 284 294 10.1080/15376516.2016.1175530 27142467 
+50. Huerta-García E.  Zepeda-Quiroz I.  Sánchez-Barrera H.  Colín-Val Z.  Alfaro-Moreno E.  Ramos-Godinez M.  López-Marure R.   Internalization of Titanium Dioxide Nanoparticles Is Cytotoxic for H9c2 Rat Cardiomyoblasts Molecules 2018 23 1955 10.3390/molecules23081955 
+51. Zhu Y.  Eaton J.W.  Li C.   Titanium Dioxide (TiO2 ) Nanoparticles Preferentially Induce Cell Death in Transformed Cells in a Bak/Bax-Independent Fashion PLoS ONE 2012 7 10.1371/journal.pone.0050607 23185639 
+52. Shajudheen V.P.M.  Viswanathan K.  Anitha R.K.  Uma M.A.  Saravana K.S.   A Simple Chemical Precipitation Method of Titanium Dioxide Nanoparticles Using Polyvinyl Pyrrolidone As A Capping Agent And Their Characterization Int. J. Chem. Mol. Eng. 2016 10 
+53. Haq I.U.  Mannan A.  Ahmed I.  Hussain I.  Jamil M.  Mirza B.   ANTIBACTERIAL ACTIVITY AND BRINE SHRIMP TOXICITY OF ARTEMISIA DUBIA EXTRACT Pak. J. Bot. 2012 44 1487 1490 
+54. Akhtar N.  Ihsan-ul-Haq  Mirza B.   Phytochemical analysis and comprehensive evaluation of antimicrobial and antioxidant properties of 61 medicinal plant species Arab. J. Chem. 2018 11 1223 1235 10.1016/j.arabjc.2015.01.013 
+55. Khan S.  Ur-Rehman T.  Mirza B.  Ul-Haq I.  Zia M.   Antioxidant, Antimicrobial, Cytotoxic and Protein Kinase Inhibition Activities of Fifteen Traditional Medicinal Plants From Pakistan Pharm. Chem. J. 2017 51 391 398 10.1007/s11094-017-1620-5 
+56. Kim J.-S.  Kwon Y.-S.  Chun W.-J.  Kim T.-Y.  Sun J.  Yu C.-Y.  Kim M.-J.   Rhus verniciflua Stokes flavonoid extracts have anti-oxidant, anti-microbial and α-glucosidase inhibitory effect Food Chem. 2010 120 539 543 10.1016/j.foodchem.2009.10.051 
+57. Yao G.  Sebisubi F.M.  Voo L.Y.C.  Ho C.C.  Tan G.T.  Chang L.C.   Citrinin derivatives from the soil filamentous fungus Penicillium sp. H9318 J. Braz. Chem. Soc. 2011 22 1125 1129 10.1590/S0103-50532011000600018 
+58. Apu A.S.  Bhuyan S.H.  Khatun F.  Liza M.S.  Matin M.  Hossain F.   Assessment of cototoxic activity of two medicinal plants using brine shrimp (artemia salina) as an erperimental tool IJPSR 2013 4 1125 1130
+

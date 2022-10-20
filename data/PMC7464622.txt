@@ -1,0 +1,276 @@
+
+==== Front
+Brain Sci
+Brain Sci
+brainsci
+Brain Sciences
+2076-3425 MDPI 
+
+10.3390/brainsci10080510
+brainsci-10-00510
+Article
+Grammatical Comprehension in Italian Children with Autism Spectrum Disorder
+Barsotti Jessica 1 Mangani Gloria 1 Nencioli Roberta 1 Pfanner Lucia 1 Tancredi Raffaella 1 Cosenza Angela 1 Sesso Gianluca 1 https://orcid.org/0000-0003-3996-3827Narzisi Antonio 1 Muratori Filippo 12* Cipriani Paola 1 Chilosi Anna Maria 1 1 IRCCS Stella Maris Foundation, Calambrone, 56018 Pisa, Italy; jessica.barsotti@fsm.unipi.it (J.B.); gloria.man96@hotmail.it (G.M.); roberta.nencioli@fsm.unipi.it (R.N.); lucia.pfanner@fsm.unipi.it (L.P.); raffaella.tancredi@fsm.unipi.it (R.T.); angela.cosenza@fsm.unipi.it (A.C.); gianluca.sesso@fsm.unipi.it (G.S.); antonio.narzisi@fsm.unipi.it (A.N.); paola.cipriani@fsm.unipi.it (P.C.); anna.chilosi@fsm.unipi.it (A.M.C.)
+2 Department of Clinical and Experimental Medicine, University of Pisa, Via Savi, 10, 56126 Pisa, Italy
+* Correspondence: filippo.muratori@fsm.unipi.it
+02 8 2020 
+8 2020 
+10 8 51026 6 2020 30 7 2020 © 2020 by the authors.2020Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).Language deficits represent one of the most relevant factors that determine the clinical phenotype of children with autism spectrum disorder (ASD). The main aim of the research was to study the grammatical comprehension of children with ASD. A sample of 70 well-diagnosed children (60 boys and 10 girls; aged 4.9–8 years) were prospectively recruited. The results showed that language comprehension is the most impaired language domain in ASD. These findings have important clinical implications, since the persistence of grammatical receptive deficits may have a negative impact on social, adaptive and learning achievements. As for the grammatical profiles, persistent difficulties were found during the school-age years in morphological and syntactic decoding in children with relatively preserved cognitive and expressive language skills. These data and the lack of a statistically significant correlation between the severity of ASD symptoms and language skills are in line with the DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition) perspective that considers the socio-communication disorder as a nuclear feature of ASD and the language disorder as a specifier of the diagnosis and not as a secondary symptom anymore. The presence of receptive difficulties in school-age ASD children with relatively preserved non-verbal cognitive abilities provides important hints to establish rehabilitative treatments.
+
+autism spectrum disorderlanguage profilesgrammatical comprehension
+==== Body
+1. Introduction
+Children with autism spectrum disorder (ASD) show heterogeneous functional profiles and outcomes [1,2]. Language deficits represent one of the most relevant factors that determine the clinical phenotype of children with ASD. Language deficits in ASD children can be described as a continuum, as on one hand there are non-verbal or minimally verbal children or those who do not acquire verbal language (in variable percentages up to 50% according to different studies) [3,4,5,6,7,8], and on the other hand there are children with formally appropriate but pragmatically inadequate language [9,10]. Within this continuum, highly variable language profiles can be found, with children exhibiting language delay, children with language disorders, and those who, despite reaching their first language milestones (i.e., speaking their first words between 12 and 18 months), later experience an arrest or a regression in language development. 
+
+Though communication and language in children with ASD have been extensively investigated [4,9,10,11,12,13], the nature of the language deficit still remains an open issue. According to the DSM-5 [14], social communication disorder is considered a nuclear feature of ASD, while language disorder is only defined as a “specifier” of the condition. Some authors consider language disorders and ASD as potentially comorbid conditions [10,15] and use the term ASD-LI to refer to individuals with ASD who have impairments in structural language, regardless of their overall cognitive functioning.
+
+The majority of published studies report that, in ASD, receptive language is more impaired than expressive language [5,11,16,17,18,19,20,21], but this finding has not been completely confirmed [22,23]. Moreover, the issue of the discrepancy between receptive and expressive competences is still unclear in terms of whether it should be considered as a possible marker of ASD, or whether both receptive and expressive language difficulties are comorbid to ASD.
+
+Receptive language disorders in children with ASD are part of a wide and more complex phenotype characterized by pragmatic and neuropsychological deficits that may impair the acquisition of verbal comprehension. According to Tager-Flusberg and colleagues [24], the ASD’s problems of language comprehension are especially present in everyday situations, rather than during single-word comprehension testing. Children with ASD exhibit impairments in the ability to decode relevant contextual cues and deficits in social attention [25,26,27,28], whereas typically developing (TD) children are able from an early age to identify and select salient sensory stimuli and crucial social cues that are relevant both for comprehension and communication [29,30].
+
+Grammatical comprehension, as a specific language skill that is required for decoding verbal messages in interactions, would represent a crucial matter of research in the field of ASD. However, it is worth noticing that relatively few studies are available which assess the comprehension of someone with ASD by means of specific tasks that differentially evaluate their lexical and grammatical skills. The evaluation of receptive abilities in children with ASD is of crucial importance in the clinical context in order to more clearly define the language profile, which has always been considered a paramount prognostic marker of development. Indeed, minimally verbal children with ASD exhibit a greater severity of autistic symptoms and globally worse clinical outcomes [31] than those with normal or mildly delayed language development, for whom an outcome could be more satisfactory [32]. Considering the above mentioned prognostic significance of language skills on the developmental perspective of children with ASD, the aims of the present study were:To assess grammatical receptive skills in relation to other language abilities;
+
+To investigate the relative contributions of non-verbal cognitive abilities and the severity of autistic symptoms on the language profile of children with ASD;
+
+To examine the qualitative and quantitative differences in grammatical comprehension between ASD and TD children.
+
+
+
+2. Materials and Methods
+2.1. Sample
+The present study was conducted on a sample of 70 children (60 boys) aged 4.9–8 years (mean age: 6.3 years; SD: 11 months; age range: 4.9–8 years) prospectively recruited at IRCCS Stella Maris Foundation (Calambrone, Pisa, Italy) from February 2009 to May 2018.
+
+Inclusion criteria were as follows:A diagnosis of either autistic disorder according to DSM-IV-TR criteria or autism spectrum disorder according to DSM-5 criteria;
+
+Average or borderline non-verbal intellectual or developmental functioning level assessed through standardized psychometric tests;
+
+Expressive language at the level of multiword productions.
+
+
+
+In order to qualitatively analyze grammatical comprehension, a subsample of 54 children with ASD and performance IQ ≥ 85 was selected and compared to 54 age- and sex-matched typically developing (TD) children. TD children were recruited from kindergarten and elementary schools in the area of Pisa, excluding subjects exposed to bilingualism.
+
+Both groups were subdivided into four age groups at 12 months intervals, from 4.10 to 8 years. Informed written consent was obtained from the parents of all participants. This study was approved by the Pediatric Ethical Committee of the Tuscany Region (approval number: 178/2016) and was conducted according to the Helsinki Declaration.
+
+2.2. Tests and Procedures
+Grammatical comprehension was assessed using the Grammatical Comprehension Test for Children (Test Comprensione Grammaticale per Bambini; TCGB) [33] standardized on Italian children aged 3.6–8 years. The TCGB is a picture multiple-choice language test composed of 76 sentences pertaining to eight main blocks of grammatical structures: locatives, inflectionals, both affirmative and negative actives and passives, relatives and datives. Within each block of structures, the clauses differ not only in grammatical complexity, but also in semantic complexity (i.e., irreversible vs. reversible and probable vs. improbable clauses).
+
+Children with ASD also underwent a comprehensive assessment of language skills by means of a receptive vocabulary test (PPVT-R: Peabody Picture Vocabulary Test—Revised) [34], an expressive picture naming test (One-Word Picture Vocabulary Test) [35] and the analysis of spontaneous language performed according to a six level rating system (Grid of Analysis of Spontaneous speech—GASS) [36,37]. For a detailed description of the TCGB and GASS, see Tables S1 and S2 in the Supplementary Materials. For all language tests, z-scores below—1.5 SD of the mean were considered as deficient.
+
+Wechsler Preschool and Primary Scale of Intelligence, 3rd Ed (WPPSI-III, [38]) performance IQ, the Perceptual Reasoning Index at WISC-IV [39] or Griffiths [40] developmental quotient of the performance scale were used as measures of the non-verbal intellectual functioning level.
+
+Finally, the Autism Diagnostic Observation Schedule-Generic (ADOS-G) [41] and Autism Diagnostic Observation Schedule-Second Edition (ADOS-2) [42] semi-structured observations were performed in ASD children for the evaluation of the autistic symptomatology severity.
+
+2.3. Statistical Analysis
+Skewness and Kurtosis statistics did not demonstrate a normal distribution for language-related variables, thus non-parametric tests were utilized. On the whole sample of 70 children with ASD, Spearman’s rank correlation coefficients between the grammatical comprehension non-verbal cognitive scores and ADOS severity scores were calculated. The Mann–Whitney U test was used to compare: (1) the non-verbal cognitive scores between children who performed averagely in the TCGB and children whose performances were classed as deficient; (2) the TCGB scores between the 54 ASD and the 54 TD children. The Kruskal–Wallis test for independent samples was also used to assess significant differences between the four age groups (5, 6, 7 and 8-year-old groups) of 54 children with ASD and 54 TD controls. Statistical analyses were performed using SPSS 21 software (IBM SPSS Statistics, Chicago, IL, USA).
+
+3. Results
+3.1. Language Profiles
+Considering the mean z scores of the whole sample (see Table 1), grammatical comprehension appeared the most impaired domain compared to the other language measures. The TGCB mean total z score and the mean z score of the different structures (with the exception of active negative sentences) fell below −1.5 SD of the mean. Sixty-three percent of children with ASD had impaired grammatical comprehension. As for the vocabulary measures, the mean receptive lexical quotient at the PPVT was in the borderline range, with 56% of children showing an impaired performance. The expressive vocabulary scores were in the average range both for high and low frequency words (only 18% of children exhibited an impaired performance). According to the GASS, expressive language was at level 4, which corresponds to a deficient control of complex grammar, and only 14% of children had a more severe deficit.
+
+3.2. Correlations between Language Measures, Non-Verbal Cognitive Skills and Autistic Symptoms Severity
+Statistically significant correlations were found between the non-verbal IQ and total TCGB scores (p = 0.020). Non-verbal IQ was also correlated with active negative and passive negative clauses (p = 0.000 and p = 0.023, respectively). However, it is worth noting that non-verbal cognitive abilities did not differ significantly between ASD children with average and impaired comprehensions (p = 0.073).
+
+The severity of the autistic symptoms assessed through the ADOS was low/moderate and did not correlate significantly with any expressive and receptive language measure.
+
+3.3. Grammatical Comprehension Profiles of ASD and TD Children
+The subsample of 54 children with ASD with a non-verbal IQ ≥ 85, was subdivided into four age groups (i.e., 5, 6, 7 and 8-year-old groups). These subgroups did not differ significantly in terms of non-verbal cognitive abilities (p = 0.296) or the severity of autistic symptoms (p = 0.212).
+
+As displayed in Table 2 and Figure 1, the comparison between ASD and TD children showed that ASD children had significantly lower scores than TD children for most types of grammatical clauses at different ages. As expected, performances of both ASD and TD children changed with age; however, the ASD children’s performances changed at a significantly slower rate compared to the TD children. In the 5-year-old subgroup, statistically significant differences emerged for affirmative active, negative passive and dative clauses, whereas, in the 6- and 7-year-old subgroup, ASD children scored significantly lower than TD children in all types of clauses (with the exception of negative active clauses). The 8-year-old subgroup showed a significant reduction in their error scores, compared to 5- and 6-year-old children (p = 0.030 and p = 0.010, respectively). Nonetheless, significant differences between ASD and TD children were still evident for locative, affirmative passive, relative and dative clauses. Considering the semantic and grammatical complexity of the different clause types (for details see Table 3), markedly significant differences between ASD and TD children were observed for the more complex but not for the simpler sentences (i.e., verbal vs. nominal inflexions, projective vs. topological locatives, semantically improbable vs. probable and neutral active affirmative clauses, reversible vs. irreversible clauses) [33]. The comparison between the reversible and irreversible clauses total scores showed a highly significant difference between TD and ASD children in the comprehension of reversible clauses (p = 0.000), but not in irreversible clauses (p = 0.834). 
+
+4. Discussion
+The present research is the first Italian study aimed at assessing grammatical comprehension in children with ASD. Our results support the hypothesis proposed by some authors [9,11,17,20,43] that language comprehension would be the most impaired language domain in autism, in spite of its highly heterogeneous linguistic phenotype [1]. Around two thirds of our patients exhibited an impaired grammatical comprehension, whereas grammatical production was impaired in only 14% of children. Additionally, in the lexical domain, receptive skills were more impaired than expressive ones. However, the deficit of language comprehension was not homogeneous, since receptive grammar was more impaired than receptive vocabulary. The above language profile differs from the one usually observed in children with a primary developmental language disorder, which is generally characterized by better receptive abilities as opposed to expressive language abilities [16,44,45,46]. The discrepancy between receptive and expressive skills in children with ASD is, however, still a debated issue, because it is not clear whether it could be considered a specific marker of ASD.
+
+As for the relationship between language and non-verbal cognitive abilities, a positive correlation between non-verbal intellectual functioning and grammatical comprehension was found, but non-verbal cognitive abilities did not differ statistically between children with a normal comprehension and those with an impaired comprehension. These apparently conflicting findings suggest that the grammar comprehension deficit is quite specific in children with ASD, and, thus, is relatively independent from non-verbal cognitive skills. This evidence is in line with the results of a study conducted on a sample of ASD children with average or borderline intellectual functioning [43] in which non-verbal IQ explained a limited amount of the variance of language scores.
+
+The lack of statistically significant correlations between the severity of ASD symptoms and language skills seems to confirm the DSM-5’s choice to let language deficits outside the nuclear symptoms of autism. In this way, the DSM-5 avoids the risk of automatically establishing an overlap between communication and structural language skills.
+
+4.1. Grammatical Comprehension Profiles in Children with ASD and TD
+To date, the qualitative assessment of grammatical decoding strategies in children with ASD has generally been carried out on English-speaking subjects [47,48,49], with few reports in the recent literature [50]. In the present Italian study, the qualitative assessment of language comprehension showed significant differences between TD and ASD children. The latter showed both delayed and atypical receptive grammatical skills.
+
+Data on the development of grammatical comprehension in TD children show a significant change between 5 and 6 years of age, a period characterized by an increasing integration of the different decoding strategies, and by a sharp reduction in the inter-individual variability. By 7 or 8 years old, TD children show a further increase in their capacity to generalize the use of linguistic principles and rules for decoding more complex grammatical structures [33]. In children with ASD, improvements in grammatical comprehension occurred around 7 or 8 years of age, but their receptive skills remained significantly impaired in comparison to TD children. This result has important clinical implications, since the persistence of grammatical receptive deficits may have a negative impact on social, adaptive and learning achievements during the school-age years [43,51,52].
+
+As for the grammatical profiles, persistent difficulties were found in morphological (i.e., inflectional clauses) and syntactic decoding (i.e., locative, passive, relative and dative clauses). Similar to what was observed in TD children, the comprehension of active negative sentences was more difficult than the comprehension of active affirmative sentences. This might be due to the poor representability of negative actions and to the fact that decoding of such structures requires inferential reasoning (e.g., the correct answer for the sentence “the child does not eat the soup” is represented by a picture in which the child is eating an ice-cream).
+
+Relative, passive and dative clauses were more difficult for children with ASD than for TD children. In the case of relative clauses, the persistence of difficulties up to 8 years of age probably depends on their length and structural complexity. For passive and dative clauses, the crucial factor may be the reversibility of actions. The significant difficulty in decoding reversible, but not irreversible sentences, which characterizes the profiles of children with ASD, is an important result because it suggests the presence of a specific linguistic deficit. In fact, in reversible sentences the roles of the agent or patient of the action are interchangeable, as they are both animate referents (e.g., “the girl pushes the boy” or vice versa). Therefore, decoding these sentences is crucially based on the word order, that is, on syntactic strategies. Conversely, in irreversible sentences, the agent and patient roles are not interchangeable, because of semantic restrictions linked to the animate/inanimate nature of referents (e.g., “the car is washed by the boy”). In this case, lexical factors can drive the sentence decoding. Difficulties in processing reversible sentences have also been described [47] in a study reporting that impairments in reversible sentence comprehension was greater than expected from the global level of receptive skills. We would suggest that ASD children with average or borderline intellectual functioning may be able to process lexical information, while showing difficulties to acquire an integrate system for decoding morpho-syntactic information.
+
+4.2. Limitations
+This study presents several limitations. A first limitation is that the non-verbal IQ tests we chose to administer require verbal comprehension skills to follow the instructions, which might have contributed to the positive correlation between the non-verbal IQ scores and the grammatical comprehension scores. Another limit is the typology of our structured picture-based comprehension test, which does not tap into ecologically natural and contextual-based comprehension abilities, thus not providing a comprehensive profile of ASD children’s receptive skills.
+
+Finally, although there was no a priori restriction on patient selection according to the severity of autistic symptomatology applied in the present study, the children with ASD showed a low to moderate severity of autistic symptomatology. This may be due to the fact that only patients who were able to complete the structured language evaluation were included, creating a bias in the selection of the sample. Patients on the autism spectrum exhibit quite heterogeneous clinical pictures, while the present study focuses on the language comprehension of intellectually unimpaired verbal children with a low/moderate severity of autistic symptoms. Hence, our results may not be generalizable to the whole population of patients with ASD.
+
+5. Conclusions
+Our results are in line with the DSM-5 perspective according which emphasizes that the socio-communication disorder is a nuclear feature of ASD, whereas the language disorder should be considered as a specifier of the diagnosis, not a nuclear deficit or a secondary symptom. Among the language abilities we have described, a specific receptive grammatical deficit was found, whilst cognitive and expressive language are relatively preserved. It would be important in the future to evaluate the relationship between language comprehension and some neuropsychological abilities, such as working memory and executive functions to shed some light on the nature of the comprehension deficits in children with ASD.
+
+The presence of receptive difficulties in school-age ASD children with relatively preserved non-verbal cognitive abilities provides important hints about treatment. Receptive language difficulties, when not associated with expressive deficits, may go unnoticed [43] and may be neglected despite their relevance in everyday life functioning, communication and social interaction. Early support to aid in the acquisition of adequate receptive language skills is crucial for further development. Moreover, as grammatical comprehension difficulties tend to persist in ASD children up to school-age (when generally speech therapy gradually diminishes), a specific intervention on both oral and written receptive skills is mandatory.
+
+Acknowledgments
+We would like to acknowledge the children and families who participated in this study, we also thank Linda Tieu for English editing.
+
+Supplementary Materials
+The following are available online at https://www.mdpi.com/2076-3425/10/8/510/s1, Table S1: The Test of grammatical Comprehension for Children TCGB, [33], Table S2: Grid of Analysis of Spontaneous Speech GASS.
+
+Click here for additional data file.
+
+ Author Contributions
+Conceptualization, J.B., R.N., L.P., R.T., A.N., F.M. and A.M.C.; Data curation, J.B., G.M., R.N., L.P., R.T., A.C. and A.N.; Methodology, J.B., G.M. and A.M.C.; Supervision, A.N., F.M., P.C. and A.M.C.; Writing—original draft, J.B., G.M., R.N., L.P., G.S. and A.M.C.; Writing—review and editing, J.B., R.N., L.P., G.S., A.N., F.M., P.C. and A.M.C. All authors have read and agreed to the published version of the manuscript.
+
+Funding
+This research was funded by the Italian Ministry of the Health RC2019 and 5 ×1000 founds.
+
+Conflicts of Interest
+The authors declare no conflict of interest.
+
+Figure 1 ASD and TD children’s total (a) and single clause type (b–i) error scores (* p ≤ 0.05; ** p ≤ 0.001). Abbreviation: yrs: years.
+
+brainsci-10-00510-t001_Table 1Table 1 Sample characteristics (n = 70).
+
+Children’s Language, Cognitive and ADS Profiles 	Mean	SD	Mean
+z Score	
+
+Age
+	76.43	11.80	-	
+
+Grammatical Comprehension (TCGB)
+	20.33	11.27	−3.25	
+Locative	2.55	2.14	−1.66	
+Inflectional	3.29	2.47	−2.55	
+Affirmative Active	1.99	1.98	−2.59	
+Negative Active	1.90	1.68	−0.86	
+Affirmative Passive	3.31	2.29	−2.58	
+Negative Passive	2.74	1.79	−2.61	
+Relative	2.59	1.85	−2.97	
+Dative	1.96	1.33	−4.73	
+
+Receptive Vocabulary (QL PPVT-R)
+	80.72	11.12	−1.22	
+
+Grammatical production level (GASS)
+	4.18	0.62	-	
+
+Expressive Vocabulary for high-frequency words (Brizzolara)
+	13.58	5.27	−0.38	
+
+Expressive Vocabulary for low-frequency words (Brizzolara)
+	32.32	6.09	−0.77	
+
+NVIQ
+	100.62	14.66	-	
+
+ADOS Comparison Score
+	5.30	1.42	-	
+Abbreviations: SD: standard deviation; NVIQ: non-verbal intelligence quotient.
+
+brainsci-10-00510-t002_Table 2Table 2 Comparison between typically developing (TD) and autism spectrum disorder (ASD) children in the different age ranges.
+
+Grammatical Comprehension 	5 Years	6 Years	7 Years	8 Years	
+
+	TD
+(n = 21)	ASD
+(n = 21)	
+p
+	TD
+(n = 14)	ASD
+(n = 14)	
+p
+	TD
+(n = 12)	ASD
+(n = 12)	
+p
+	TD
+(n = 7)	ASD
+(n = 7)	
+p
+	
+TCGB Total score	14.00 (6.51)	21.38 (8.95)	0.004	6.86 (2.64)	20.68 (3.27)	0.000	2.79 (1.12)	14.00 (7.48)	0.000	2.21 (2.02)	9.14 (4.92)	0.005	
+Locative	1.79 (1.52)	2.38 (1.84)	ns	1.00 (0.70)	2.11 (1.36)	0.012	0.38 (0.57)	2.17 (1.70)	0.002	0.14 (0.24)	1.14 (0.85)	0.011	
+Inflectional	3.21 (2.22)	3.60 (2.40)	ns	1.04 (1.15)	2.33 (0.62)	0.002	0.29 (0.33)	2.42 (1.04)	0.000	0.29 (0.39)	0.57 (0.45)	ns	
+Affirmative Active	0.88 (0.74)	2.29 (1.55)	0.001	0.61 (0.56)	1.61 (1.66)	0.043	0.25 (0.50)	1.08 (1.28)	0.047	0.21 (0.57)	0.64 (0.80)	ns	
+Negative Active	1.71 (1.27)	2.07 (1.54)	ns	1.25 (1.03)	1.64 (1.26)	ns	0.46 (0.58)	1.00 (1.19)	ns	0.50 (0.58)	0.79 (0.99)	ns	
+Affirmative Pass.	2.45 (2.64)	3.19 (2.11)	ns	1.07 (1.47)	3.71 (2.55)	0.003	0.38 (0.38)	3.00 (2.13)	0.000	0.29 (0.57)	2.00 (1.68)	0.025	
+Negative Passive	1.64 (1.43)	2.71 (1.51)	0.023	0.71 (0.80)	3.07 (1.20)	0.000	0.42 (0.51)	1.79 (1.47)	0.006	0.43 (0.53)	1.21 (1.55)	ns	
+Relative	1.74 (1.34)	2.74 (1.86)	ns	0.93 (0.92)	3.11 (1.91)	0.001	0.50 (0.56)	1.50 (1.46)	0.038	0.29 (0.39)	1.71 (0.81)	0.001	
+Dative	0.57 (0.81)	2.38 (1.22)	0.000	0.25 (0.38)	2.04 (1.42)	0.000	0.13 (0.31)	0.92 (0.63)	0.001	0.07 (0.19)	1.07 (0.67)	0.003	
+brainsci-10-00510-t003_Table 3Table 3 Comparison between ASD and TD children: qualitative assessment of the clause type related subcategories.
+
+Structure	Sub-Categories	TD (n = 54)	ASD (n = 54)	Mann–Whitney Test	
+Locative	topological	0.12 (0.34)	0.42 (0.88)	0.021	
+projective	0.94 (1.07)	1.57 (1.31)	0.009	
+Inflectional	nominal	0.07 (0.20)	0.16 (0.50)	ns	
+verbal	0.84 (1.14)	1.80 (1.46)	0.000	
+possessive	0.70 (1.16)	0.89 (0.92)	0.027	
+Affirmative Active	SV (reflexive)	0.08 (0.30)	0.41 (0.46)	0.000	
+reversible probable	0.11 (0.21)	0.05 (0.18)	0.048	
+reversible neutral	0.13 (0.28)	0.28 (0.50)	ns	
+reversible improbable	0.07 (0.26)	0.54 (0.66)	0.000	
+reversible with subject object inanimate-animate	0.19 (0.37)	0.30 (0.65)	ns	
+Negative Active	SV	0.01 (0.07)	0.13 (0.48)	0.041	
+SVO irreversible	0.50 (0.67)	0.43 (0.65)	ns	
+SVO reversible	0.65 (0.84)	1.00 (0.92)	0.023	
+Affirmative Passive	irreversible	0.53 (1.08)	0.40 (0.53)	ns	
+reversible probable	0.22 (0.49)	0.94 (1.06)	0.000	
+reversible improbable	0.35 (0.55)	0.95 (0.84)	0.000	
+reversible neutral	0.25 (0.59)	0.78 (1.02)	0.000	
+Negative Passive	SV	0.10 (0.36)	0.77 (0.72)	0.000	
+SVA irreversible	0.34 (0.53)	0.55 (0.68)	ns	
+SVA reversible	0.53 (0.88)	1.05 (0.96)	0.002	
+Relative	embedded	0.61 (0.70)	1.44 (1.09)	0.000	
+right branching	0.45 (0.75)	0.92 (1.12)	0.022	
+Dative	AAA	0.26 (0.56)	0.92 (0.85)	0.000	
+AIA	0.07 (0.24)	0.86 (0.88)	0.000	
+Abbreviations: SV: subject verb; SVO: subject verb object; SVA: subject verb agent; AAA: animate animate animate; AIA: animate inanimate animate.
+==== Refs
+References
+1. Lombardo M.V.  Pierce K.  Eyler L.  Carter Barnes C.  Ahrebs-Barbeau C.  Solso S.  Campbell K.  Courchesne E.   Different functional neural substrates for good and poor language outcome in autism Neuron 2015 86 567 577 10.1016/j.neuron.2015.03.023 25864635 
+2. Lombardo M.V.  Lai M.  Baron-Cohen S.   Big data approaches to decomposing heterogeneity across the autism spectrum Mol. Psychiatry 2019 24 1435 1450 10.1038/s41380-018-0321-0 30617272 
+3. Rapin I.   Preschool Children with Inadequate Communication: Developmental Language Disorder, Autism, Low IQ Mac Keith London, UK 1996 
+4. Wetherby A.M.  Prizant B.M.  Schuler A.L.   Understanding the nature of communication and language impairments Autism Spectrum Disorders: A Transactional Developmental Perspective Wetherby A.  Prizant B.M.   Paul H. Brookes Publishing Baltimore, MD, USA 2000 109 142 
+5. Boucher J.   Research Review: Structural language in autistic spectrum disorder—characteristics and causes J. Child Psychol. Psychiatry 2012 53 219 233 10.1111/j.1469-7610.2011.02508.x 22188468 
+6. Anderson D.K.  Lord C.  Risi S.  Di Lavore P.S.  Shulman C.  Thurm A.  Welch K.  Pickles A.   Patterns of growth in verbal abilities among children with autism spectrum disorder J. Consult. Clin. Psychol. 2007 75 594 604 10.1037/0022-006X.75.4.594 17663613 
+7. Gotham K.  Pickles A.  Lord C.   Trajectories of autism severity in children using standardized ADOS scores Pediatrics 2012 130 1278 1284 10.1542/peds.2011-3668 23090336 
+8. Pickles A.  Anderson D.K.  Lord C.   Heterogeneity and plasticity in the development of language: A 17-year follow-up of children referred early for possible autism J. Child Psychol. Psychiatry 2014 5 1354 1362 10.1111/jcpp.12269 24889883 
+9. Tager-Flusberg H.  Caronna E.   Language disorders: Autism and other pervasive developmental disorders Pediatr. Clin. N. Am. 2007 54 469 481 10.1016/j.pcl.2007.02.011 17543905 
+10. Tager-Flusberg H.   Defining language impairments in a subgroup of children with autism spectrum disorder Sci. China Life Sci. 2015 58 1044 1052 10.1007/s11427-012-4297-8 26335733 
+11. Mitchell S.  Brian J.  Zwaigenbaum L.  Roberts W.  Szatmari P.  Smith I.  Bryson S.   Early language and communication development of infants later diagnosed with autism spectrum disorder J. Dev. Behav. Pediatr. 2006 27 69 78 10.1097/00004703-200604002-00004 
+12. Kjellmer L.  Hedvall A.  Fernell E.  Gillberg C.  Norrelgen F.   Language and communication skills in preschool children with autism spectrum disorders: Contribution of cognition, severity of autism symptoms, and adaptive functioning to the variability Res. Dev. Disabil. 2012 33 172 180 10.1016/j.ridd.2011.09.003 22093662 
+13. Tager-Flusberg H.   On the nature of linguistic functioning in early infantile autism J. Autism Dev. Disord. 1981 54 469 481 10.1007/BF01531340 6927698 
+14. American Psychiatric Association (APA)  Diagnostic and Statistical Manual of Mental Disorders 5th ed. American Psychiatry Association Washington, DC, USA 2013 
+15. Williams D.  Botting N.  Boucher J.   Language in autism and specific language impairment: Where are the links? Psychol. Bull. 2008 134 944 963 10.1037/a0013743 18954162 
+16. Davidson M.M.  Ellis Weismer S.   A discrepancy in comprehension and production in early language development in ASD: Is it clinically relevant? J. Autism Dev. Disord. 2017 47 2163 2175 10.1007/s10803-017-3135-z 28447305 
+17. Hudry K.  Leadbitter K.  Temple K.  Slonims V.  McConachie H.  Aldre C.  Howlin P.  Charman T.   Preschoolers with autism show greater impairment in receptive compared with expressive language abilities Int. J. Lang. Commun. Disord. 2010 45 681 690 10.3109/13682820903461493 20102259 
+18. Seol K.I.  Song S.H.  Kim K.L.  Oh S.T.  Kim Y.T.  Im W.Y.  Song D.H.  Cheon K.A.   A comparison of receptive-expressive language profiles between toddlers with autism spectrum disorder and developmental language delay Yonsei Med. J. 2014 55 1721 1728 10.3349/ymj.2014.55.6.1721 25323912 
+19. Woynarosky T.  Yoder P.  Watson L.R.   Atypical cross-modal profiles and longitudinal associations between vocabulary scores in initially minimally verbal children with ASD Autism Res. 2016 9 301 310 10.1002/aur.1516 26180010 
+20. Charman T.  Drew A.  Baird C.  Baird G.   Measuring early language development in preschool children with autism spectrum disorder using the MacArthur Communicative Development Inventory (Infant Form) J. Child Lang. 2003 30 213 236 10.1017/S0305000902005482 12718299 
+21. Ellis Weismer S.  Lord C.  Esler A.   Early language patterns of toddlers on the autism spectrum compared to toddlers with developmental delay J. Autism Dev. Disord. 2010 40 1259 1273 10.1007/s10803-010-0983-1 20195735 
+22. Kwok E.Y.L.  Brown H.M.  Smyth R.E.  Cardy J.O.   Meta-analysis of receptive and expressive language skills in autism spectrum disorder Res. Autism Spectr. Disord. 2015 9 202 222 10.1016/j.rasd.2014.10.008 
+23. Reinhartsen D.B.  Tapia A.L.  Watson L.  Crais E.  Bradley C.  Fairchild J.  Herring A.H.  Daniels J.   Expressive Dominant Versus Receptive Dominant Language Patterns in Young Children: Findings from the Study to Explore Early Development J. Autism Dev. Disord. 2019 49 2447 2460 10.1007/s10803-019-03999-x 30937735 
+24. Tager-Flusberg H.  Paul R.  Lord C.   Language and Communication in Autism Handbook of Autism and Pervasive Developmental Disorders: Diagnosis, Development, Neurobiology, and Behavior Volkmar F.R.  Paul R.  Klin A.  Cohen D.   John Wiley & Sons Inc. Hoboken, NJ, USA 2005 335 364 
+25. Young N.  Hudry K.  Trembath D.  Vivanti G.   Children With Autism Show Reduced Information Seeking When Learning New Tasks Am. J. Intellect. Dev. Disabil. 2016 121 65 73 10.1352/1944-7558-121.1.65 26701075 
+26. Cornew L.  Dobkins K.R.  Akshoomoff N.  McCleery J.P.  Carver I.J.   Atypical social referencing in infant siblings of children with Autism Spectrum Disorders J. Autism Dev. Disord. 2012 42 2611 2621 10.1007/s10803-012-1518-8 22456817 
+27. Scambler D.  Hepburn S.  Rutherford M.  Wehner E.  Rogers S.   Emotional responsivity in children with autism, children with other developmental disabilities, and children with typical development J. Autism Dev. Disord. 2007 37 553 563 10.1007/s10803-006-0186-y 16933089 
+28. Volkmar F.R.   Understanding the social brain in autism Dev. Psychobiol. 2011 53 428 434 10.1002/dev.20556 21678390 
+29. Menyuk P.   Language Development: Knowledgeand Use Addison-Wesley Longman Chicago, IL, USA 1988 
+30. Menyuk P.  Liebergott J.W.  Schultz M.C.   Early Language Development in Full-Term and Premature Infants Psychology Press New York, NY, USA 2014 
+31. Tager-Flusberg H.  Kasari C.   Minimally verbal school-aged children with autism spectrum disorder: The Neglected End of the Spectrum Autism Res. 2013 6 468 478 10.1002/aur.1329 24124067 
+32. Fein D.  Barton M.  Eigsti I.M.  Kelley E.  Naigles L.  Schultz R.T.   Optimal outcome in individuals with a history of autism J. Child Psychol. Psychiatry 2013 54 195 205 10.1111/jcpp.12037 23320807 
+33. Chilosi A.M.  Cipriani P.   TCGB Test di Comprensione Grammaticale Per Bambini Edizioni Del Cerro Tirrenia, Pisa, Italy 2006 
+34. Dunn L.M.  Dunn L.M.   Peabody Picture Vocabulary Test Guidance Associates Wilmingston, DE, USA 1981 
+35. Brizzolara D.   Test di Vocabolario Figurato Technical Report of the Research Project 500.4/62.1/1134 Italian Department of Health to IRCCS Stella Maris Calambrone, Pisa, Italy 1989 
+36. Cipriani P.  Chilosi A.M.  Bottari P.  Pfanner L.   L’acquisizione Della Morfosintassi Dell’italiano: Fasi e Processi Uipress Padova, Italy 1993 
+37. Cipriani P.  Chilosi A.M.  Pfanner L.  Villani S.  Bottari P.   Il ritardo di linguaggio in età precoce: Profili evolutivi e indici di rischio Indici di Rischio Nel Primo Sviluppo Del Linguaggio Caselli C.  Capirci O.   Franco Angeli Milano, Italy 2002 95 108 
+38. Wechsler D.   Wechsler Preschool and Primary Scale of Intelligence 3rd ed. Harcourt Assessment San Antonio, TX, USA 2002 
+39. Wechsler D.   Wechsler Intelligence Scale for Children 4th ed. Psychological Corporation San Antonio, TX, USA 2003 
+40. Griffiths R.   The Abilities of Young Children: A Comprehensive System of Mental Measurement for the First Eight Years of Life (Revised Edition) Bucks: A.R.I.C.D. Test Agency Limited London, UK 1984 
+41. Lord C.  Risi S.  Lambrecht L.  Cook E.H.  Leventhal B.L.  DiLavore P.C.  Pickles A.  Rutter M.   The Autism Diagnostic Observation Schedule-Generic: A Standard Measure of Social and Communication Deficits Associated with the Spectrum of Autism J. Autism Dev. Disord. 2000 30 205 223 10.1023/A:1005592401947 11055457 
+42. Lord C.  Rutter M.  DiLavore P.C.  Risi S.  Luyster R.J.  Gotham K.  Bishop S.L.  Guthrie W.   ADOS-2—Autism Diagnostic Observation Schedule-Second Edition Colombi C.  Tancredi R.  Persico A.  Faggioli R.   Hogrefe Göttingen, Germany 2013 
+43. Kjellmer L.  Fernell E.  Gillberg C.  Norrelgen F.   Speech and language profiles in 4- to 6-year-old children with early diagnosis of autism spectrum disorder without intellectual disability Neuropsychiatr. Dis. Treat. 2018 14 2415 2427 10.2147/NDT.S171971 30275695 
+44. Rapin I.   Language and its development in the autism spectrum disorders Language: Normal and Pathological Development Riva D.  Rapin I.  Zardini G.   John Libbey Eurotext Montrange, France 2006 121 137 
+45. Rapin I.  Allen D.A.  Aram D.M.  Dunn M.A.  Fein D.  Morris R.  Waterhouse L.   Classification issues, in Rapin, I Preschool Children with Inadequate Communication MacKeith London, UK 1996 190 201 
+46. Chilosi A.M.  Pfanner L.  Pecini C.  Salvadorini R.  Casalini C.  Brizzolara D.  Cipriani P.   Which linguistic measures distinguish transient from persistent language problems in Late Talkers from 2 to 4 years? A study on Italian speaking children Res. Dev. Disabil. 2019 89 59 68 10.1016/j.ridd.2019.03.005 30947105 
+47. Paul R.  Fischer M.L.  Cohen D.J.   Brief Report: Sentence comprehension strategies in children with autism and specific language disorders J. Autism Dev. Disord. 1988 18 669 679 10.1007/BF02211884 3215892 
+48. Prior M.R.  Hall L.C.   Comprehension of transitive and intransitive phrases by autistic, retarded, and normal children J. Commun. Disord. 1979 12 103 111 10.1016/0021-9924(79)90033-9 429602 
+49. Tager-Flusberg H.   Sentence comprehension in autistic children Appl. Psycholinguist. 1981 2 5 24 10.1017/S014271640000062X 
+50. Kover S.T.  Haebig E.  Oakes A.  McDuffie A.  Hagerman R.J.  Abbeduto L.   Sentence comprehension in boys with autism spectrum disorder Am. J. Speech Lang. Pathol. 2014 23 385 394 10.1044/2014_AJSLP-13-0073 24687049 
+51. Catts H.W.  Fey M.E.  Tomblin J.B.  Zhang X.   A longitudinal investigation of reading outcomes in children with language impairments J. Speech Lang. Hear. Res. 2002 45 1142 1157 10.1044/1092-4388(2002/093) 12546484 
+52. Stothard S.E.  Snowling M.J.  Bishop D.V.  Chipchase B.B.  Kaplan C.A.   Language-impaired preschoolers: A follow-up into adolescence J. Speech Lang. Hear. Res. 1998 41 407 418 10.1044/jslhr.4102.407 9570592
+
