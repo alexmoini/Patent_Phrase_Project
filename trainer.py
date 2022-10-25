@@ -112,7 +112,8 @@ class LargeLanguageModelTrainer():
             # Train with pytorch lightning Trainer class
             trainer = pl.Trainer(callbacks=self.callbacks,
                                  logger=self.logger,
-                                 accelerator=self.hyperparameters['device'])
+                                 accelerator=self.hyperparameters['device'],
+                                 log_every_n_steps=10)
             train_dataloader = DataLoader(self.train_dataset,
                                             batch_size=self.hyperparameters['batch_size'],
                                             shuffle=True,
