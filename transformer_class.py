@@ -68,3 +68,12 @@ def train(model, tokenizer, train_dataloader, valid_dataloader, device, optimize
                 valid_loss.append(loss.detach().cpu().numpy())
         print(f'Average Epoch Valid Loss: {np.mean(valid_loss)}')
     return train_loss, valid_loss, model
+
+
+class BaseTransformerModel(torch.nn.Module):
+    def __init__(self, model_name):
+        super().__init__()
+        self.encoder = AutoModel.from_pretrained(model_name)
+
+    def forward(self, input_ids, attention_mask):
+        return self.encoder(input_ids=input_ids, attention_mask=attention_mask)
